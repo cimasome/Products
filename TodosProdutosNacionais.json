@@ -1,9 +1,8 @@
-{
-"Planilha1":[
+[
  {
   "Nome": "NEEWER Kit de acessórios para câmera de ação 50 em 1 compatível com GoPro Hero 11 10 9 8 7 6 5 4 GoPro Max GoPro Fusion Insta360 DJI Osmo Action 2 AKASO e mais",
   "Link": "https:\/\/amzn.to\/3UwfvRK",
-  "Preço": 122.4,
+  "Preço": "122.4",
   "Vendas": "55878",
   "Categoria": "Câmeras",
   "Local": "Nacional"
@@ -11,7 +10,7 @@
  {
   "Nome": "GoPro The Handler 3.0",
   "Link": "https:\/\/amzn.to\/3ylc5tl",
-  "Preço": 197,
+  "Preço": "197",
   "Vendas": "2210",
   "Categoria": "Câmeras",
   "Local": "Nacional"
@@ -19,7 +18,7 @@
  {
   "Nome": "Mini-Bastão Extensor e Tripé Portátil para Todos os Modelos Hero, GoPro, Preto",
   "Link": "https:\/\/amzn.to\/3JU9IjM",
-  "Preço": 227,
+  "Preço": "227",
   "Vendas": "10424",
   "Categoria": "Câmeras",
   "Local": "Nacional"
@@ -5621,4 +5620,3 @@
   "Link": "https:\/\/amzn.to\/3RGmNBy"
  }
 ]
-}
