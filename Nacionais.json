@@ -1,23 +1,23 @@
 [
  {
-  "Nome do Produto": "Philips Lâmpada de sinalização veicular Ultinon Pro3000 LED T10 (W5W), 6.000K branco frio",
-  "Link": "https:\/\/amzn.to\/3WIlDXU",
-  "Preço": "46,,90",
-  "Vendas": "790",
-  "Classe": "Acessórios para veículos",
-  "Categoria": "LEDs",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/81LqFc1XpeL.__AC_SX300_SY300_QL70_ML2_.jpg"
- },
- {
-  "Nome do Produto": "vonixx IMPACT 1,5L",
-  "Link": "https:\/\/amzn.to\/3KV1ubI",
-  "Preço": "45,,81",
-  "Vendas": "441",
+  "Nome do Produto": "vonixx REVOX 500ML",
+  "Link": "https:\/\/amzn.to\/3xmWj1h",
+  "Preço": "41,,00",
+  "Vendas": "488",
   "Classe": "Acessórios para veículos",
   "Categoria": "Linha VONIXX",
   "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61BKN-1rVWL.__AC_SX300_SY300_QL70_ML2_.jpg"
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/5113Ij52kRL.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
+  "Nome do Produto": "Vonix Blend Ceramic & Carnaúba Spray Wax Black Edition",
+  "Link": "https:\/\/amzn.to\/3XDGyxn",
+  "Preço": "54,,66",
+  "Vendas": "506",
+  "Classe": "Acessórios para veículos",
+  "Categoria": "Linha VONIXX",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51SUK+KDPTL._AC_SY300_SX300_.jpg"
  },
  {
   "Nome do Produto": "Vonixx SINTRA FAST - Multilimpador flotador universal, bactericida e germicida de pH balanceado, 500ML",
@@ -30,24 +30,14 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/51SWrIfe8LL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "vonixx REVOX 500ML",
-  "Link": "https:\/\/amzn.to\/3xmWj1h",
-  "Preço": "41,,00",
-  "Vendas": "488",
+  "Nome do Produto": "Vonixx INTENSE - Renovador de plásticos com proteção UV, 500ML",
+  "Link": "https:\/\/amzn.to\/3XD1ftn",
+  "Preço": "38,,64",
+  "Vendas": "1221",
   "Classe": "Acessórios para veículos",
   "Categoria": "Linha VONIXX",
   "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/5113Ij52kRL.__AC_SX300_SY300_QL70_ML2_.jpg"
- },
- {
-  "Nome do Produto": "vonixx RESTAURAX 500ML",
-  "Link": "https:\/\/amzn.to\/3RG5oJk",
-  "Preço": "40,,49",
-  "Vendas": "2061",
-  "Classe": "Acessórios para veículos",
-  "Categoria": "Linha VONIXX",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51HbfCMkyJL.__AC_SX300_SY300_QL70_ML2_.jpg"
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51bO3C+IF9L._AC_SY300_SX300_.jpg"
  },
  {
   "Nome do Produto": "vonixx Toalha Microfibra 2 Lados 600GMS Limpeza Automotiva",
@@ -70,24 +60,34 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/61ZEDHYdjPL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Vonix Blend Ceramic & Carnaúba Spray Wax Black Edition",
-  "Link": "https:\/\/amzn.to\/3XDGyxn",
-  "Preço": "54,,66",
-  "Vendas": "506",
+  "Nome do Produto": "vonixx RESTAURAX 500ML",
+  "Link": "https:\/\/amzn.to\/3RG5oJk",
+  "Preço": "40,,49",
+  "Vendas": "2061",
   "Classe": "Acessórios para veículos",
   "Categoria": "Linha VONIXX",
   "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51SUK+KDPTL._AC_SY300_SX300_.jpg"
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51HbfCMkyJL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Vonixx INTENSE - Renovador de plásticos com proteção UV, 500ML",
-  "Link": "https:\/\/amzn.to\/3XD1ftn",
-  "Preço": "38,,64",
-  "Vendas": "1221",
+  "Nome do Produto": "vonixx IMPACT 1,5L",
+  "Link": "https:\/\/amzn.to\/3KV1ubI",
+  "Preço": "45,,81",
+  "Vendas": "441",
   "Classe": "Acessórios para veículos",
   "Categoria": "Linha VONIXX",
   "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51bO3C+IF9L._AC_SY300_SX300_.jpg"
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61BKN-1rVWL.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
+  "Nome do Produto": "Philips Lâmpada de sinalização veicular Ultinon Pro3000 LED T10 (W5W), 6.000K branco frio",
+  "Link": "https:\/\/amzn.to\/3WIlDXU",
+  "Preço": "46,,90",
+  "Vendas": "790",
+  "Classe": "Acessórios para veículos",
+  "Categoria": "LEDs",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/81LqFc1XpeL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "vonixx CARNAUBA TOK FINAL 500ML",
@@ -100,16 +100,6 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/519rmdfngKL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "VONIXX V40 4 EM 1 500ML POLIDOR CORTE REFINO LUSTRO PROTEÇÃO",
-  "Link": "https:\/\/amzn.to\/3SHLqhS",
-  "Preço": "74,,72",
-  "Vendas": "3",
-  "Classe": "Acessórios para veículos",
-  "Categoria": "Linha VONIXX",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61HxCYZEaJL.__AC_SX300_SY300_QL70_ML2_.jpg"
- },
- {
   "Nome do Produto": "vonixx V-FLOC 1,5L",
   "Link": "https:\/\/amzn.to\/3Xy04eT",
   "Preço": "46,,72",
@@ -120,14 +110,14 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/61fdHnQR4rL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "vonixx V-FLOC 500ML",
-  "Link": "https:\/\/amzn.to\/3xAtCOj",
-  "Preço": "21,,99",
-  "Vendas": "1187",
+  "Nome do Produto": "VONIXX V40 4 EM 1 500ML POLIDOR CORTE REFINO LUSTRO PROTEÇÃO",
+  "Link": "https:\/\/amzn.to\/3SHLqhS",
+  "Preço": "74,,72",
+  "Vendas": "3",
   "Classe": "Acessórios para veículos",
   "Categoria": "Linha VONIXX",
   "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/514ASqEftUL.__AC_SX300_SY300_QL70_ML2_.jpg"
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61HxCYZEaJL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Kit Lavagem Automotiva Completa Vonixx Cera Carnauba Tok Final V-Floc Revitalizador de Plasticos intense Sintra fast",
@@ -138,6 +128,16 @@
   "Categoria": "Linha VONIXX",
   "Local": "Nacional",
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/71YGgU6EeDL.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
+  "Nome do Produto": "vonixx V-FLOC 500ML",
+  "Link": "https:\/\/amzn.to\/3xAtCOj",
+  "Preço": "21,,99",
+  "Vendas": "1187",
+  "Classe": "Acessórios para veículos",
+  "Categoria": "Linha VONIXX",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/514ASqEftUL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "V-MOL 1,5L VONIXX",
@@ -210,6 +210,16 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/81ZWGtQ5x2L.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
+  "Nome do Produto": "vonixx IMPACT 1,5L",
+  "Link": "https:\/\/amzn.to\/46Nouni",
+  "Preço": "45,,81",
+  "Vendas": "441",
+  "Classe": "Acessórios para veículos",
+  "Categoria": "Linha VONIXX",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61BKN-1rVWL.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
   "Nome do Produto": "Limpa Vidros 4 Em 1 Redutor Atrito Risco Glazy 500ml Vonixx",
   "Link": "https:\/\/amzn.to\/4dxQJIC",
   "Preço": "17,,90",
@@ -239,14 +249,14 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/81H512FfxFL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "vonixx IMPACT 1,5L",
-  "Link": "https:\/\/amzn.to\/46Nouni",
-  "Preço": "45,,81",
-  "Vendas": "441",
+  "Nome do Produto": "Descontaminante Ferroso Izer 500ml Vonixx",
+  "Link": "https:\/\/amzn.to\/3WTGZD3",
+  "Preço": "29,,90",
+  "Vendas": "337",
   "Classe": "Acessórios para veículos",
   "Categoria": "Linha VONIXX",
   "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61BKN-1rVWL.__AC_SX300_SY300_QL70_ML2_.jpg"
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/518vBggH6hL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "SINERGY PAINT 500ML",
@@ -259,6 +269,16 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/61k6edXxKDL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
+  "Nome do Produto": "Console Nintendo Switch - Azul Neon e Vermelho Neon",
+  "Link": "https:\/\/amzn.to\/4cUB8Dj",
+  "Preço": "1.750,,50",
+  "Vendas": "819",
+  "Classe": "Área Gamer ",
+  "Categoria": "Consoles",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61Uya8nseoL.__AC_SY300_SX300_QL70_ML2_.jpg"
+ },
+ {
   "Nome do Produto": "vonixx Limpador de Couro - Higicouro - Higienizador de couros",
   "Link": "https:\/\/amzn.to\/3WWuIhd",
   "Preço": "34,,99",
@@ -269,16 +289,6 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/61l2gWo5+yL._AC_SY300_SX300_.jpg"
  },
  {
-  "Nome do Produto": "Descontaminante Ferroso Izer 500ml Vonixx",
-  "Link": "https:\/\/amzn.to\/3WTGZD3",
-  "Preço": "29,,90",
-  "Vendas": "337",
-  "Classe": "Acessórios para veículos",
-  "Categoria": "Linha VONIXX",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/518vBggH6hL.__AC_SX300_SY300_QL70_ML2_.jpg"
- },
- {
   "Nome do Produto": "vonixx Limpador Bactericida para Interior Sintra Pro 3 Litros",
   "Link": "https:\/\/amzn.to\/4fGtPR4",
   "Preço": "58,,90",
@@ -287,16 +297,6 @@
   "Categoria": "Linha VONIXX",
   "Local": "Nacional",
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/61eleR61zJL.__AC_SX300_SY300_QL70_ML2_.jpg"
- },
- {
-  "Nome do Produto": "Console Nintendo Switch - Azul Neon e Vermelho Neon",
-  "Link": "https:\/\/amzn.to\/4cUB8Dj",
-  "Preço": "1.750,,50",
-  "Vendas": "819",
-  "Classe": "Área Gamer ",
-  "Categoria": "Consoles",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61Uya8nseoL.__AC_SY300_SX300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Console PlayStation 5 - Digital Edition",
@@ -328,14 +328,14 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/516pVDAQMnL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Console PlayStation®5 + Marvel's Spider-Man 2",
-  "Link": "https:\/\/amzn.to\/3zzlhLl",
-  "Preço": "3.789,,00",
-  "Vendas": "558",
+  "Nome do Produto": "Nintendo Switch Lite - Azul",
+  "Link": "https:\/\/amzn.to\/3zzllL5",
+  "Preço": "1.287,,00",
+  "Vendas": "9344",
   "Classe": "Área Gamer ",
   "Categoria": "Consoles",
   "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/612SFC+tsbL._AC_SX342_SY445_.jpg"
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61JhOrXMQYL.__AC_SY300_SX300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Console PlayStation® 5 + EA SPORTS FC™ 24",
@@ -348,14 +348,14 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/61HfpqOu1RL.__AC_SY300_SX300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Nintendo Switch Lite - Azul",
-  "Link": "https:\/\/amzn.to\/3zzllL5",
-  "Preço": "1.287,,00",
-  "Vendas": "9344",
+  "Nome do Produto": "Console PlayStation®5 + Marvel's Spider-Man 2",
+  "Link": "https:\/\/amzn.to\/3zzlhLl",
+  "Preço": "3.789,,00",
+  "Vendas": "558",
   "Classe": "Área Gamer ",
   "Categoria": "Consoles",
   "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61JhOrXMQYL.__AC_SY300_SX300_QL70_ML2_.jpg"
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/612SFC+tsbL._AC_SX342_SY445_.jpg"
  },
  {
   "Nome do Produto": "Nintendo, Videogame, Nintendo Switch Console Joy-Con, Mario Kart 8 Digital + 3 Meses Assinatura Nintendo Switch Online",
@@ -368,14 +368,14 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/61KfG0-kIiL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Nintendo, Console, Nintendo Switch OLED, Nacional, Portátil e Doméstico, Tela de 7 Polegadas, Bateria de até 9 Horas, 64GB de Armazenamento, Porta LAN Integrada, Áudio Aprimorado, Inclui Joy-Con com Suporte e Alças, Branco",
-  "Link": "https:\/\/amzn.to\/3Y4ljFu",
-  "Preço": "2.086,,90",
-  "Vendas": "3774",
+  "Nome do Produto": "PlayStation®5 Slim Edição Digital",
+  "Link": "https:\/\/amzn.to\/3Y2Epvr",
+  "Preço": "3.590,,00",
+  "Vendas": "926",
   "Classe": "Área Gamer ",
   "Categoria": "Consoles",
   "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51zTb1hUHJL.__AC_SX300_SY300_QL70_ML2_.jpg"
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51SM5xU-M1L.__AC_SY300_SX300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "PlayStation®5 Standard Edition",
@@ -388,14 +388,14 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/51+qnZm7V7L._AC_SX342_SY445_.jpg"
  },
  {
-  "Nome do Produto": "PlayStation®5 Slim Edição Digital",
-  "Link": "https:\/\/amzn.to\/3Y2Epvr",
-  "Preço": "3.590,,00",
-  "Vendas": "926",
+  "Nome do Produto": "Nintendo, Console, Nintendo Switch OLED, Nacional, Portátil e Doméstico, Tela de 7 Polegadas, Bateria de até 9 Horas, 64GB de Armazenamento, Porta LAN Integrada, Áudio Aprimorado, Inclui Joy-Con com Suporte e Alças, Branco",
+  "Link": "https:\/\/amzn.to\/3Y4ljFu",
+  "Preço": "2.086,,90",
+  "Vendas": "3774",
   "Classe": "Área Gamer ",
   "Categoria": "Consoles",
   "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51SM5xU-M1L.__AC_SY300_SX300_QL70_ML2_.jpg"
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51zTb1hUHJL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Controle sem Fio Xbox - Carbon Black",
@@ -418,16 +418,6 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/51txHzNLHHL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Controle sem Fio Xbox - Deep Pink",
-  "Link": "https:\/\/amzn.to\/3S6qQHv",
-  "Preço": "349,,90",
-  "Vendas": "3435",
-  "Classe": "Área Gamer ",
-  "Categoria": "Controle Gamer",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61hxzGfRpKL.__AC_SX300_SY300_QL70_ML2_.jpg"
- },
- {
   "Nome do Produto": "Controle sem Fio Xbox - Eletric Volt",
   "Link": "https:\/\/amzn.to\/4f3Lwdm",
   "Preço": "399,,90",
@@ -438,14 +428,14 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/511TjMmK0HL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "CONTROLE SEM FIO XBOX - REMIX EDICAO ESPECIAL",
-  "Link": "https:\/\/amzn.to\/4bKelbV",
-  "Preço": "599,,00",
-  "Vendas": "1117",
+  "Nome do Produto": "Controle sem Fio Xbox - Deep Pink",
+  "Link": "https:\/\/amzn.to\/3S6qQHv",
+  "Preço": "349,,90",
+  "Vendas": "3435",
   "Classe": "Área Gamer ",
   "Categoria": "Controle Gamer",
   "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61gheawVmAL.__AC_SX300_SY300_QL70_ML2_.jpg"
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61hxzGfRpKL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Controle Sem Fio Xbox + Cabo USB",
@@ -458,16 +448,6 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/51qqtkgtAuL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Controle Usb Com Fio Para Xbox 360 Computador Notebook Preto",
-  "Link": "https:\/\/amzn.to\/4cCAUjL",
-  "Preço": "51,,99",
-  "Vendas": "2796",
-  "Classe": "Área Gamer ",
-  "Categoria": "Controle Gamer",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/619M3Mvz-1L.__AC_SX300_SY300_QL70_ML2_.jpg"
- },
- {
   "Nome do Produto": "Controle Sem Fio Xbox Series - Branco",
   "Link": "https:\/\/amzn.to\/3S9zWUa",
   "Preço": "354,,36",
@@ -478,14 +458,24 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/61nF2yki7vL.__AC_SY300_SX300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "PlayStation DualSense Controle sem fio – Branco",
-  "Link": "https:\/\/amzn.to\/4cGsc45",
-  "Preço": "375,,00",
-  "Vendas": "11690",
+  "Nome do Produto": "Controle Usb Com Fio Para Xbox 360 Computador Notebook Preto",
+  "Link": "https:\/\/amzn.to\/4cCAUjL",
+  "Preço": "51,,99",
+  "Vendas": "2796",
   "Classe": "Área Gamer ",
   "Categoria": "Controle Gamer",
   "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/41dxVVHRNWL.__AC_SX300_SY300_QL70_ML2_.jpg"
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/619M3Mvz-1L.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
+  "Nome do Produto": "CONTROLE SEM FIO XBOX - REMIX EDICAO ESPECIAL",
+  "Link": "https:\/\/amzn.to\/4bKelbV",
+  "Preço": "599,,00",
+  "Vendas": "1117",
+  "Classe": "Área Gamer ",
+  "Categoria": "Controle Gamer",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61gheawVmAL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Controle Xbox Elite Series 2 Core - Branco",
@@ -508,6 +498,16 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/51iXILIT27L.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
+  "Nome do Produto": "PlayStation DualSense Controle sem fio – Branco",
+  "Link": "https:\/\/amzn.to\/4cGsc45",
+  "Preço": "375,,00",
+  "Vendas": "11690",
+  "Classe": "Área Gamer ",
+  "Categoria": "Controle Gamer",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/41dxVVHRNWL.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
   "Nome do Produto": "PlayStation DualSense Controle sem fio – Cosmic Red",
   "Link": "https:\/\/amzn.to\/3zBZFOq",
   "Preço": "348,,53",
@@ -528,16 +528,6 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/51VAN74vJKL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "PlayStation DualSense Controle sem fio – Midnight Black",
-  "Link": "https:\/\/amzn.to\/4cCAIRz",
-  "Preço": "382,,00",
-  "Vendas": "12160",
-  "Classe": "Área Gamer ",
-  "Categoria": "Controle Gamer",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51DF-14iHzL.__AC_SX300_SY300_QL70_ML2_.jpg"
- },
- {
   "Nome do Produto": "PlayStation DualSense Controle sem fio – Gray Camouflage",
   "Link": "https:\/\/amzn.to\/4cCXvNn",
   "Preço": "393,,51",
@@ -548,6 +538,16 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/41KybAQ9QbL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
+  "Nome do Produto": "PlayStation DualSense Controle sem fio – Midnight Black",
+  "Link": "https:\/\/amzn.to\/4cCAIRz",
+  "Preço": "382,,00",
+  "Vendas": "12160",
+  "Classe": "Área Gamer ",
+  "Categoria": "Controle Gamer",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51DF-14iHzL.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
   "Nome do Produto": "PlayStation DualSense Wireless Controller – Galactic Purple",
   "Link": "https:\/\/amzn.to\/4cD8W7r",
   "Preço": "420,,00",
@@ -556,16 +556,6 @@
   "Categoria": "Controle Gamer",
   "Local": "Nacional",
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/61sDelCqROL.__AC_SY300_SX300_QL70_ML2_.jpg"
- },
- {
-  "Nome do Produto": "Xbox Core Wireless Gaming Controller – Astral Purple – Xbox Series X|S, Xbox One, Windows PC, Android, and iOS",
-  "Link": "https:\/\/amzn.to\/4cCaWwX",
-  "Preço": "420,,00",
-  "Vendas": "3601",
-  "Classe": "Área Gamer ",
-  "Categoria": "Controle Gamer",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61B4klaWctL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "JBL Caixa de Som, Boombox 3, Bluetooth, À Prova D'água e Poeira - Preto",
@@ -588,24 +578,14 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/81C-TBklDHL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "JBL, Caixa de Som Bluetooth, Go 3, Ultraportátil - Preta",
-  "Link": "https:\/\/amzn.to\/4ds74iT",
-  "Preço": "139,,00",
-  "Vendas": "34096",
-  "Classe": "Áudio",
-  "Categoria": "Caixa de som",
+  "Nome do Produto": "Xbox Core Wireless Gaming Controller – Astral Purple – Xbox Series X|S, Xbox One, Windows PC, Android, and iOS",
+  "Link": "https:\/\/amzn.to\/4cCaWwX",
+  "Preço": "420,,00",
+  "Vendas": "3601",
+  "Classe": "Área Gamer ",
+  "Categoria": "Controle Gamer",
   "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61jz42v-8CL.__AC_SX300_SY300_QL70_ML2_.jpg"
- },
- {
-  "Nome do Produto": "JBL, Caixa de Som Bluetooth, Go Essential, À Prova D'água - Azul",
-  "Link": "https:\/\/amzn.to\/4dsTc85",
-  "Preço": "164,,00",
-  "Vendas": "1115",
-  "Classe": "Áudio",
-  "Categoria": "Caixa de som",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/611sWbtw5oL.__AC_SX300_SY300_QL70_ML2_.jpg"
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61B4klaWctL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Darrow Actine - Gel de Limpeza Facial 400g",
@@ -618,6 +598,16 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/51MibanwhrL.__AC_SY445_SX342_QL70_ML2_.jpg"
  },
  {
+  "Nome do Produto": "JBL, Caixa de Som Bluetooth, Go 3, Ultraportátil - Preta",
+  "Link": "https:\/\/amzn.to\/4ds74iT",
+  "Preço": "139,,00",
+  "Vendas": "34096",
+  "Classe": "Áudio",
+  "Categoria": "Caixa de som",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61jz42v-8CL.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
   "Nome do Produto": "Actine Protetor Solar, Darrow",
   "Link": "https:\/\/amzn.to\/3PWOLIk",
   "Preço": "54,,00",
@@ -628,14 +618,14 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/51C+8PwGREL._AC_SX342_SY445_.jpg"
  },
  {
-  "Nome do Produto": "CeraVe, Loção Hidratante Corporal, com textura Fluida e Ácido Hialurônico",
-  "Link": "https:\/\/amzn.to\/3VOTmQO",
-  "Preço": "83,,90",
-  "Vendas": "52331",
+  "Nome do Produto": "Darrow Actine - Protetor Solar Ultra Fps80",
+  "Link": "https:\/\/amzn.to\/4aOC3DJ",
+  "Preço": "73,,06",
+  "Vendas": "573",
   "Classe": "Beleza e cuidados",
   "Categoria": "Cosméticos",
   "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61vyW3Dl-7L.__AC_SY445_SX342_QL70_ML2_.jpg"
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51n7u3SGgFL.__AC_SY445_SX342_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Bepantol Derma Hidratante Corporal, Hidratante Restaurador para Pele Seca, 400ml",
@@ -648,14 +638,24 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/61i1miIi1GL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Darrow Actine - Protetor Solar Ultra Fps80",
-  "Link": "https:\/\/amzn.to\/4aOC3DJ",
-  "Preço": "73,,06",
-  "Vendas": "573",
+  "Nome do Produto": "JBL, Caixa de Som Bluetooth, Go Essential, À Prova D'água - Azul",
+  "Link": "https:\/\/amzn.to\/4dsTc85",
+  "Preço": "164,,00",
+  "Vendas": "1115",
+  "Classe": "Áudio",
+  "Categoria": "Caixa de som",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/611sWbtw5oL.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
+  "Nome do Produto": "CeraVe, Loção Hidratante Corporal, com textura Fluida e Ácido Hialurônico",
+  "Link": "https:\/\/amzn.to\/3VOTmQO",
+  "Preço": "83,,90",
+  "Vendas": "52331",
   "Classe": "Beleza e cuidados",
   "Categoria": "Cosméticos",
   "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51n7u3SGgFL.__AC_SY445_SX342_QL70_ML2_.jpg"
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61vyW3Dl-7L.__AC_SY445_SX342_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Darrow Actine Control Sabonete Barra Pele Mista A Oleosa - 70G 70G",
@@ -678,6 +678,16 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/61BclXmbVtL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
+  "Nome do Produto": "Gel de Limpeza Principia 2% Ácido Salicílico + 5% Glicerina com 350g",
+  "Link": "https:\/\/amzn.to\/3Uer94E",
+  "Preço": "39,,70",
+  "Vendas": "8218",
+  "Classe": "Beleza e cuidados",
+  "Categoria": "Cosméticos",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/418WnW8jcLL.__AC_SY300_SX300_QL70_ML2_.jpg"
+ },
+ {
   "Nome do Produto": "La Roche-Posay Effaclar Sérum Ultra Concentrado, Sérum Antiacne, Reduz Espinhas, Cravos, Marcas de Acne e Poros Visíveis",
   "Link": "https:\/\/amzn.to\/3UfvnsX",
   "Preço": "169,,72",
@@ -698,16 +708,6 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/51YVzVZI1sL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Gel de Limpeza Principia 2% Ácido Salicílico + 5% Glicerina com 350g",
-  "Link": "https:\/\/amzn.to\/3Uer94E",
-  "Preço": "39,,70",
-  "Vendas": "8218",
-  "Classe": "Beleza e cuidados",
-  "Categoria": "Cosméticos",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/418WnW8jcLL.__AC_SY300_SX300_QL70_ML2_.jpg"
- },
- {
   "Nome do Produto": "Maybelline NY Batom Líquido Longa Duração, Acabamento Espelhado e Brilho Instantâneo SuperStay Matte Ink 125 Inspirer, 5ml",
   "Link": "https:\/\/amzn.to\/3TXXITa",
   "Preço": "73,,99",
@@ -716,26 +716,6 @@
   "Categoria": "Cosméticos",
   "Local": "Nacional",
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/61fUAEEWuNL.__AC_SX300_SY300_QL70_ML2_.jpg"
- },
- {
-  "Nome do Produto": "Neutrogena Gel Esfoliante Facial Deep Clean Intensive,100g",
-  "Link": "https:\/\/amzn.to\/3vEBOMJ",
-  "Preço": "24,,56",
-  "Vendas": "7740",
-  "Classe": "Beleza e cuidados",
-  "Categoria": "Cosméticos",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51bPSO93ItL.__AC_SX300_SY300_QL70_ML2_.jpg"
- },
- {
-  "Nome do Produto": "Neutrogena Hidratante Corporal Body Care Intensive Hidrata & Revitaliza, 400ml",
-  "Link": "https:\/\/amzn.to\/4aHyIpY",
-  "Preço": "26,,99",
-  "Vendas": "1953",
-  "Classe": "Beleza e cuidados",
-  "Categoria": "Cosméticos",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/419COQ5rbGL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Neutrogena Hidratante Corporal Body Care Intensive Hidrata & Suaviza, 400ml",
@@ -758,6 +738,26 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/51wXS22gGOL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
+  "Nome do Produto": "Neutrogena Hidratante Corporal Body Care Intensive Hidrata & Revitaliza, 400ml",
+  "Link": "https:\/\/amzn.to\/4aHyIpY",
+  "Preço": "26,,99",
+  "Vendas": "1953",
+  "Classe": "Beleza e cuidados",
+  "Categoria": "Cosméticos",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/419COQ5rbGL.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
+  "Nome do Produto": "Neutrogena Gel Esfoliante Facial Deep Clean Intensive,100g",
+  "Link": "https:\/\/amzn.to\/3vEBOMJ",
+  "Preço": "24,,56",
+  "Vendas": "7740",
+  "Classe": "Beleza e cuidados",
+  "Categoria": "Cosméticos",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51bPSO93ItL.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
   "Nome do Produto": "Neutrogena Sun Fresh Protetor Solar Facial Para Pele Oleosa Derm Care Sem Cor FPS 70, 40g",
   "Link": "https:\/\/amzn.to\/3xvFh0u",
   "Preço": "39,,89",
@@ -776,6 +776,16 @@
   "Categoria": "Cosméticos",
   "Local": "Nacional",
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/51cj7VbcDSL.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
+  "Nome do Produto": "Boca Rosa By Payot Batom Liquido Mate - Terca",
+  "Link": "https:\/\/amzn.to\/3Uc7Bhm",
+  "Preço": "38,,90",
+  "Vendas": "737",
+  "Classe": "Beleza e cuidados",
+  "Categoria": "Maquiagens",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/31S3Mmo9yIL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Pantene Ultimate Care Multibenefícios - Shampoo, 1L",
@@ -808,14 +818,14 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/61CpgGQT+5L._AC_SY300_SX300_.jpg"
  },
  {
-  "Nome do Produto": "Boca Rosa By Payot Batom Liquido Mate - Terca",
-  "Link": "https:\/\/amzn.to\/3Uc7Bhm",
-  "Preço": "38,,90",
-  "Vendas": "737",
-  "Classe": "Beleza e cuidados",
-  "Categoria": "Maquiagens",
+  "Nome do Produto": "Hot Wheels - Hw Pacote 20 Carros H7045 Mattel",
+  "Link": "https:\/\/amzn.to\/4btxYoU",
+  "Preço": "277,,99",
+  "Vendas": "12589",
+  "Classe": "Brinquedos",
+  "Categoria": "Hotwheels",
   "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/31S3Mmo9yIL.__AC_SX300_SY300_QL70_ML2_.jpg"
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/81Ykz9TAacL.__AC_SY300_SX300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "NIVEA Hidratante Labial Hidra Color 2 em 1 Nude 4,8g",
@@ -846,16 +856,6 @@
   "Categoria": "Maquiagens",
   "Local": "Nacional",
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/61du3RZMnkL.__AC_SX300_SY300_QL70_ML2_.jpg"
- },
- {
-  "Nome do Produto": "Hot Wheels - Hw Pacote 20 Carros H7045 Mattel",
-  "Link": "https:\/\/amzn.to\/4btxYoU",
-  "Preço": "277,,99",
-  "Vendas": "12589",
-  "Classe": "Brinquedos",
-  "Categoria": "Hotwheels",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/81Ykz9TAacL.__AC_SY300_SX300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Hot Wheels - Hw Tb Conjunto de Acelerador Mattel",
@@ -898,16 +898,6 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/71gpoCNnmsL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Hot Wheels City Guincho Tubarão",
-  "Link": "https:\/\/amzn.to\/3UvLtxl",
-  "Preço": "147,,30",
-  "Vendas": "3884",
-  "Classe": "Brinquedos",
-  "Categoria": "Hotwheels",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/71P0uqKcbML.__AC_SY300_SX300_QL70_ML2_.jpg"
- },
- {
   "Nome do Produto": "Hot Wheels Color Shifters, Pista Estação Cientifica com 1 Carrinho que Muda de Cor, Mattel",
   "Link": "https:\/\/amzn.to\/4bqwjA9",
   "Preço": "197,,99",
@@ -916,26 +906,6 @@
   "Categoria": "Hotwheels",
   "Local": "Nacional",
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/810IakuZDaL.__AC_SX300_SY300_QL70_ML2_.jpg"
- },
- {
-  "Nome do Produto": "Hot Wheels City Reboque de Dragão, Multi",
-  "Link": "https:\/\/amzn.to\/4b6gGy1",
-  "Preço": "147,,30",
-  "Vendas": "1202",
-  "Classe": "Brinquedos",
-  "Categoria": "Hotwheels",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61errorTtbL.__AC_SY300_SX300_QL70_ML2_.jpg"
- },
- {
-  "Nome do Produto": "Hot Wheels City Robô Tubarão, Mattel",
-  "Link": "https:\/\/amzn.to\/3WyaP0i",
-  "Preço": "224,,99",
-  "Vendas": "5208",
-  "Classe": "Brinquedos",
-  "Categoria": "Hotwheels",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/71oOVcor4ML.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Hot Wheels Pista de Brinquedo Garagem, Multi",
@@ -948,6 +918,26 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/71wwDCNMzUL.__AC_SY300_SX300_QL70_ML2_.jpg"
  },
  {
+  "Nome do Produto": "Hot Wheels City Guincho Tubarão",
+  "Link": "https:\/\/amzn.to\/3UvLtxl",
+  "Preço": "147,,30",
+  "Vendas": "3884",
+  "Classe": "Brinquedos",
+  "Categoria": "Hotwheels",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/71P0uqKcbML.__AC_SY300_SX300_QL70_ML2_.jpg"
+ },
+ {
+  "Nome do Produto": "Hot Wheels City Robô Tubarão, Mattel",
+  "Link": "https:\/\/amzn.to\/3WyaP0i",
+  "Preço": "224,,99",
+  "Vendas": "5208",
+  "Classe": "Brinquedos",
+  "Categoria": "Hotwheels",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/71oOVcor4ML.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
   "Nome do Produto": "Hot Wheels Monster Trucks 1:64 Pacote De 2 - NÃO É POSSÍVEL ESCOLHER, Multicor, Paquete",
   "Link": "https:\/\/amzn.to\/44vSa7g",
   "Preço": "89,,59",
@@ -956,6 +946,16 @@
   "Categoria": "Hotwheels",
   "Local": "Nacional",
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/81TQcfMXAKL.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
+  "Nome do Produto": "Hot Wheels City Reboque de Dragão, Multi",
+  "Link": "https:\/\/amzn.to\/4b6gGy1",
+  "Preço": "147,,30",
+  "Vendas": "1202",
+  "Classe": "Brinquedos",
+  "Categoria": "Hotwheels",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61errorTtbL.__AC_SY300_SX300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Hot Wheels Pacote 10 Carros Sortidos Modelo Pode Variar Mattel Multicor - 1 (UM) PACOTE SORTIDO SEM OPÇÃO DE ESCOLHA",
@@ -968,16 +968,6 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/717vmR2p1OL.__AC_SY300_SX300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Hot Wheels Pistas City, Mattel",
-  "Link": "https:\/\/amzn.to\/3UP19Np",
-  "Preço": "147,,30",
-  "Vendas": "2099",
-  "Classe": "Brinquedos",
-  "Categoria": "Hotwheels",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51TZSP6g4VL.__AC_SX300_SY300_QL70_ML2_.jpg"
- },
- {
   "Nome do Produto": "Hot Wheels Pista de Brinquedo Lava-Rápido da cidade, Multi",
   "Link": "https:\/\/amzn.to\/3wqSVSi",
   "Preço": "99,,99",
@@ -986,6 +976,16 @@
   "Categoria": "Hotwheels",
   "Local": "Nacional",
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/71OfGVRtfCL.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
+  "Nome do Produto": "Hot Wheels Pistas City, Mattel",
+  "Link": "https:\/\/amzn.to\/3UP19Np",
+  "Preço": "147,,30",
+  "Vendas": "2099",
+  "Classe": "Brinquedos",
+  "Categoria": "Hotwheels",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51TZSP6g4VL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Hot Wheels Pista de Brinquedo Lanchonete de Hambúrgueres, Multi",
@@ -1018,16 +1018,6 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/514WFUG6gRL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Pacote 5 Carros Sortidos, Hot Wheels, Mattel, Multicor - não é possível escolher as cores",
-  "Link": "https:\/\/amzn.to\/44BHu6X",
-  "Preço": "58,,49",
-  "Vendas": "14699",
-  "Classe": "Brinquedos",
-  "Categoria": "Hotwheels",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/81idMtZC5KL.__AC_SX300_SY300_QL70_ML2_.jpg"
- },
- {
   "Nome do Produto": "Brincando de Engenheiro 73 Peças Xalingo",
   "Link": "https:\/\/amzn.to\/3QzzE8a",
   "Preço": "28,,03",
@@ -1036,6 +1026,16 @@
   "Categoria": "Infantil",
   "Local": "Nacional",
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/6189v7IMNWL.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
+  "Nome do Produto": "Pacote 5 Carros Sortidos, Hot Wheels, Mattel, Multicor - não é possível escolher as cores",
+  "Link": "https:\/\/amzn.to\/44BHu6X",
+  "Preço": "58,,49",
+  "Vendas": "14699",
+  "Classe": "Brinquedos",
+  "Categoria": "Hotwheels",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/81idMtZC5KL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Cotiplas Cotiplás Brinquedo Educativo Mesa Play Time Multicores",
@@ -1058,16 +1058,6 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/617KNFfYfUL.__AC_SY300_SX300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Brinquedo para Bebe Dino Papa Tudo com Acessórios, Elka, Multicor",
-  "Link": "https:\/\/amzn.to\/4bsnmqd",
-  "Preço": "69,,90",
-  "Vendas": "4355",
-  "Classe": "Brinquedos",
-  "Categoria": "Infantil",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61zbnB9U02L.__AC_SX300_SY300_QL70_ML2_.jpg"
- },
- {
   "Nome do Produto": "Estrela Brinquedo Educativo Caixa-Encaixa a Partir de 1 Ano, Multicor",
   "Link": "https:\/\/amzn.to\/4aajDfN",
   "Preço": "108,,99",
@@ -1088,16 +1078,6 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/51lSdPDMY8L.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Giro Mágico Dismat, MK326, Colorido",
-  "Link": "https:\/\/amzn.to\/3wBij7U",
-  "Preço": "30,,45",
-  "Vendas": "2984",
-  "Classe": "Brinquedos",
-  "Categoria": "Infantil",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61fmDp62htL.__AC_SX300_SY300_QL70_ML2_.jpg"
- },
- {
   "Nome do Produto": "Jogo de Boliche Cardoso",
   "Link": "https:\/\/amzn.to\/3QvMqEv",
   "Preço": "28,,49",
@@ -1106,6 +1086,26 @@
   "Categoria": "Infantil",
   "Local": "Nacional",
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/71uIuUloU5L.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
+  "Nome do Produto": "Brinquedo para Bebe Dino Papa Tudo com Acessórios, Elka, Multicor",
+  "Link": "https:\/\/amzn.to\/4bsnmqd",
+  "Preço": "69,,90",
+  "Vendas": "4355",
+  "Classe": "Brinquedos",
+  "Categoria": "Infantil",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61zbnB9U02L.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
+  "Nome do Produto": "Giro Mágico Dismat, MK326, Colorido",
+  "Link": "https:\/\/amzn.to\/3wBij7U",
+  "Preço": "30,,45",
+  "Vendas": "2984",
+  "Classe": "Brinquedos",
+  "Categoria": "Infantil",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61fmDp62htL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Jogo Eu Sou...?, Estrela",
@@ -1118,16 +1118,6 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/51Jhte5Y2QL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Jogo Pula Pirata, Estrela",
-  "Link": "https:\/\/amzn.to\/4dssn3V",
-  "Preço": "49,,69",
-  "Vendas": "4175",
-  "Classe": "Brinquedos",
-  "Categoria": "Infantil",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61bdlXMn3uL.__AC_SX300_SY300_QL70_ML2_.jpg"
- },
- {
   "Nome do Produto": "Jogo Pula Macaco, Estrela",
   "Link": "https:\/\/amzn.to\/4dJjl2L",
   "Preço": "33,,93",
@@ -1136,6 +1126,16 @@
   "Categoria": "Infantil",
   "Local": "Nacional",
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/81lmUosUXBL.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
+  "Nome do Produto": "Jogo Pula Pirata, Estrela",
+  "Link": "https:\/\/amzn.to\/4dssn3V",
+  "Preço": "49,,69",
+  "Vendas": "4175",
+  "Classe": "Brinquedos",
+  "Categoria": "Infantil",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61bdlXMn3uL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Jogo Puxa Puxa Batatinha, Estrela",
@@ -1188,16 +1188,6 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/719OGq0vd3L.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Maral Ramp Racer - Caixa Multicolor",
-  "Link": "https:\/\/amzn.to\/4adEWgq",
-  "Preço": "61,,99",
-  "Vendas": "1747",
-  "Classe": "Brinquedos",
-  "Categoria": "Infantil",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51kFm2G3v8L.__AC_SX300_SY300_QL70_ML2_.jpg"
- },
- {
   "Nome do Produto": "Pais & Filhos - Caiu Perdeu, 54 Pçs, idade mínima recomendada - 6 anos",
   "Link": "https:\/\/amzn.to\/4bvGYtF",
   "Preço": "22,,72",
@@ -1216,6 +1206,26 @@
   "Categoria": "Infantil",
   "Local": "Nacional",
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/61br70kV3CL.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
+  "Nome do Produto": "Cadeira de Escritório Presidente Brizza Braço 3D Backplax Revestimento Couro Ecológico Preto- Plaxmetal",
+  "Link": "https:\/\/amzn.to\/3UbRf8r",
+  "Preço": "909,,00",
+  "Vendas": "598",
+  "Classe": "Cadeiras",
+  "Categoria": "Cadeiras Ergonômicas",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51Yr9cK09bL.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
+  "Nome do Produto": "Maral Ramp Racer - Caixa Multicolor",
+  "Link": "https:\/\/amzn.to\/4adEWgq",
+  "Preço": "61,,99",
+  "Vendas": "1747",
+  "Classe": "Brinquedos",
+  "Categoria": "Infantil",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51kFm2G3v8L.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Trator Giant Escavator Até 50Kg, Roma, Multicor",
@@ -1248,16 +1258,6 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/61PWkWC-VCL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Cadeira de Escritório Presidente Brizza Braço 3D Backplax Revestimento Couro Ecológico Preto- Plaxmetal",
-  "Link": "https:\/\/amzn.to\/3UbRf8r",
-  "Preço": "909,,00",
-  "Vendas": "598",
-  "Classe": "Cadeiras",
-  "Categoria": "Cadeiras Ergonômicas",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51Yr9cK09bL.__AC_SX300_SY300_QL70_ML2_.jpg"
- },
- {
   "Nome do Produto": "Cadeira de Escritório Giratória Diretor Executive Três Comfort Preta",
   "Link": "https:\/\/amzn.to\/3Jg1Mt2",
   "Preço": "210,,00",
@@ -1278,69 +1278,93 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/61VpeQ3B-JL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
+  "Nome do Produto": "Xtreme Gamers, Cadeira Cinesis Giratória Reclinável Altura Ajustável Preta",
   "Link": "https:\/\/amzn.to\/3WZN2WR",
+  "Preço": "890,,00",
+  "Vendas": "284",
   "Classe": "Cadeiras",
   "Categoria": "Cadeira Gamer",
-  "Local": "Nacional"
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61PiTj91MSL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
+  "Nome do Produto": "CADEIRA GAMER SUPER HERO C\/VERMELHO\/AZUL - CH06RDBE - ELG",
   "Link": "https:\/\/amzn.to\/3WX51NA",
+  "Preço": "899,,90",
+  "Vendas": "2",
   "Classe": "Cadeiras",
   "Categoria": "Cadeira Gamer",
-  "Local": "Nacional"
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51s4TIen9OL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Link": "https:\/\/amzn.to\/3WYYz8F",
-  "Classe": "Cadeiras",
-  "Categoria": "Cadeira Gamer",
-  "Local": "Nacional"
- },
- {
+  "Nome do Produto": "Cadeira Gamer TGT Heron, Preta, TGT-HR-BL01",
   "Link": "https:\/\/amzn.to\/3yyEWeq",
+  "Preço": "600,,90",
+  "Vendas": "3128",
   "Classe": "Cadeiras",
   "Categoria": "Cadeira Gamer",
-  "Local": "Nacional"
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51+k9whBbEL._AC_SY300_SX300_.jpg"
  },
  {
+  "Nome do Produto": "Cadeira Xtreme Gamers Cinesis Giratória Reclinável Altura Ajustável Preta e Vermelha",
   "Link": "https:\/\/amzn.to\/3yx6zEH",
+  "Preço": "623,,85",
+  "Vendas": "31",
   "Classe": "Cadeiras",
   "Categoria": "Cadeira Gamer",
-  "Local": "Nacional"
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/71vY3yiU3zL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
+  "Nome do Produto": "Cadeira Gamer EC1, ThunderX3, 2019, Windows_XP, Preta",
   "Link": "https:\/\/amzn.to\/3X3AMVq",
+  "Preço": "776,,99",
+  "Vendas": "516",
   "Classe": "Cadeiras",
   "Categoria": "Cadeira Gamer",
-  "Local": "Nacional"
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51YDyVE6IoS.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
+  "Nome do Produto": "Cadeira Gamer EC3 Preta THUNDERX3",
   "Link": "https:\/\/amzn.to\/3WZEPBN",
+  "Preço": "1.000,,24",
+  "Vendas": "781",
   "Classe": "Cadeiras",
   "Categoria": "Cadeira Gamer",
-  "Local": "Nacional"
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51eGpHXgDaS.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
+  "Nome do Produto": "MAX RACER - Cadeira Gamer Aggressive - Poltronas Gamer de Aço, Cadeira Ergonômica para Jogos - Até 150kg, Giratória, Braços 1D, Tecido Sintético PVC, Inclinação 180°, Almofada Cervical e Lombar - Roxa",
   "Link": "https:\/\/amzn.to\/3YMmdqx",
-  "Classe": "Cadeiras",
-  "Categoria": "Cadeira Gamer"
- },
- {
-  "Link": "https:\/\/amzn.to\/46Z7muZ",
+  "Preço": "1.199,,00",
+  "Vendas": "7",
   "Classe": "Cadeiras",
   "Categoria": "Cadeira Gamer",
-  "Local": "Nacional"
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/71rX99F0IoL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
+  "Nome do Produto": "Cadeira Gamer Premium, Xzone, Preto\/Branco - CGR-01-BW",
   "Link": "https:\/\/amzn.to\/4fDZXVH",
+  "Preço": "673,,10",
+  "Vendas": "3114",
   "Classe": "Cadeiras",
   "Categoria": "Cadeira Gamer",
-  "Local": "Nacional"
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/810IvIxv7NL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Link": "https:\/\/amzn.to\/4cmolIs",
+  "Nome do Produto": "Cadeira Gamer Pichau Omega L, Vermelho e Dourado, PG-OMGL-GDR01",
+  "Link": "https:\/\/amzn.to\/46Z7muZ",
+  "Preço": "599,,90",
+  "Vendas": "234",
   "Classe": "Cadeiras",
   "Categoria": "Cadeira Gamer",
-  "Local": "Nacional"
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51aGymcsxcL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Cadeira de escritório presidente, cadeira de home office com apoio para os pés e encosto ajustável（Preto）",
@@ -1353,6 +1377,16 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/71+UV1-34zL._AC_SY300_SX300_.jpg"
  },
  {
+  "Nome do Produto": "Cadeira Gamer MX5 Giratoria Preto e Branco, Mymax, 25.009177, Preto e Branco",
+  "Link": "https:\/\/amzn.to\/4cmolIs",
+  "Preço": "814,,79",
+  "Vendas": "1200",
+  "Classe": "Cadeiras",
+  "Categoria": "Cadeira Gamer",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/510Y2QboQqL.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
   "Nome do Produto": "Cadeira de escritório, design ergonômico com suporte lombar independente, malha respirável e encosto de cabeça ajustável（Preto)",
   "Link": "https:\/\/amzn.to\/3VW4nQ9",
   "Preço": "789,,00",
@@ -1361,36 +1395,6 @@
   "Categoria": "Cadeiras Ergonômicas",
   "Local": "Nacional",
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/61yZf9gaTxL.__AC_SX300_SY300_QL70_ML2_.jpg"
- },
- {
-  "Nome do Produto": "Cadeira Escritório Presidente Atlanta Duoffice Preta Comfort DU500A",
-  "Link": "https:\/\/amzn.to\/4aKtA4n",
-  "Preço": "624,,90",
-  "Vendas": "747",
-  "Classe": "Cadeiras",
-  "Categoria": "Cadeiras Ergonômicas",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51BMMOKhSJL.__AC_SX300_SY300_QL70_ML2_.jpg"
- },
- {
-  "Nome do Produto": "Cosco Kids, Cadeira de Refeição Portátil Smart, Cinza",
-  "Link": "https:\/\/amzn.to\/4cQSssT",
-  "Preço": "154,,99",
-  "Vendas": "10558",
-  "Classe": "Cadeiras",
-  "Categoria": "Cadeiras Infantis",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/415FZBJSRQL.__AC_SX300_SY300_QL70_ML2_.jpg"
- },
- {
-  "Nome do Produto": "Bota Coturno Masculino Adventure Conforto",
-  "Link": "https:\/\/amzn.to\/3SLGWqv",
-  "Preço": "119,,90",
-  "Vendas": "1565",
-  "Classe": "Calçados",
-  "Categoria": "Botas Masculinas",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51W665uTGAL.__AC_SX395_SY395_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Bota Masculina Em Couro Para Trabalho Com Bico PVC e C.A",
@@ -1403,44 +1407,34 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/714O6oDHekL.__AC_SX395_SY395_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Bota Adventure Coturno Masculino Trail Spiller Shoes Casual - Preto",
-  "Link": "https:\/\/amzn.to\/4fRKMIG",
-  "Preço": "179,,90",
-  "Vendas": "505",
+  "Nome do Produto": "Cadeira Escritório Presidente Atlanta Duoffice Preta Comfort DU500A",
+  "Link": "https:\/\/amzn.to\/4aKtA4n",
+  "Preço": "624,,90",
+  "Vendas": "747",
+  "Classe": "Cadeiras",
+  "Categoria": "Cadeiras Ergonômicas",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51BMMOKhSJL.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
+  "Nome do Produto": "Bota Coturno Masculino Adventure Conforto",
+  "Link": "https:\/\/amzn.to\/3SLGWqv",
+  "Preço": "119,,90",
+  "Vendas": "1565",
   "Classe": "Calçados",
   "Categoria": "Botas Masculinas",
   "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61bEBPqWPhL.__AC_SX395_SY395_QL70_ML2_.jpg"
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51W665uTGAL.__AC_SX395_SY395_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Bota Columbia Masculina Crestwood Mid Waterproof",
-  "Link": "https:\/\/amzn.to\/4fGDYgM",
-  "Preço": "399,,79",
-  "Vendas": "8",
-  "Classe": "Calçados",
-  "Categoria": "Botas Masculinas",
+  "Nome do Produto": "Cosco Kids, Cadeira de Refeição Portátil Smart, Cinza",
+  "Link": "https:\/\/amzn.to\/4cQSssT",
+  "Preço": "154,,99",
+  "Vendas": "10558",
+  "Classe": "Cadeiras",
+  "Categoria": "Cadeiras Infantis",
   "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61uX5xf4+YL._AC_SY395_SX395_.jpg"
- },
- {
-  "Nome do Produto": "Chinelo Nuvem Original Slide Retro 100% EVA Confortável",
-  "Link": "https:\/\/amzn.to\/4fEiwci",
-  "Preço": "65,,00",
-  "Vendas": "536",
-  "Classe": "Calçados",
-  "Categoria": "Chinelos",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/414-d48Ao9L.__AC_SX395_SY395_QL70_ML2_.jpg"
- },
- {
-  "Nome do Produto": "Mocassim Masculino Dockside Confort em Couro Legítimo",
-  "Link": "https:\/\/amzn.to\/3SKtumE",
-  "Preço": "259,,90",
-  "Vendas": "21",
-  "Classe": "Calçados",
-  "Categoria": "Mocassim",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/517pE6IdJJL.__AC_SX395_SY395_QL70_ML2_.jpg"
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/415FZBJSRQL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Sandália Vizzano Salto Médio Feminina - Marinho",
@@ -1453,24 +1447,44 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/41wVym88g4L.__AC_SX395_SY395_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Sandália Feminina Salto Quadrado Glitter Ouro Rosado Vizzano 6291.900",
-  "Link": "https:\/\/amzn.to\/3YZngUb",
-  "Preço": "108,,99",
-  "Vendas": "145",
+  "Nome do Produto": "Bota Adventure Coturno Masculino Trail Spiller Shoes Casual - Preto",
+  "Link": "https:\/\/amzn.to\/4fRKMIG",
+  "Preço": "179,,90",
+  "Vendas": "505",
   "Classe": "Calçados",
-  "Categoria": "Saltos",
+  "Categoria": "Botas Masculinas",
   "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51DyVNnGF0L.__AC_SX395_SY395_QL70_ML2_.jpg"
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61bEBPqWPhL.__AC_SX395_SY395_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Sapato Scarpin Feminino Salto Baixo Fino Confortável R2.29 (Preto, BR, Adulto, Numérico, M, 34)",
-  "Link": "https:\/\/amzn.to\/3WG6HK6",
-  "Preço": "59,,90",
-  "Vendas": "2",
+  "Nome do Produto": "Mocassim Masculino Dockside Confort em Couro Legítimo",
+  "Link": "https:\/\/amzn.to\/3SKtumE",
+  "Preço": "259,,90",
+  "Vendas": "21",
   "Classe": "Calçados",
-  "Categoria": "Saltos",
+  "Categoria": "Mocassim",
   "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51-Uhyo0SzL.__AC_SX395_SY395_QL70_ML2_.jpg"
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/517pE6IdJJL.__AC_SX395_SY395_QL70_ML2_.jpg"
+ },
+ {
+  "Nome do Produto": "Chinelo Nuvem Original Slide Retro 100% EVA Confortável",
+  "Link": "https:\/\/amzn.to\/4fEiwci",
+  "Preço": "65,,00",
+  "Vendas": "536",
+  "Classe": "Calçados",
+  "Categoria": "Chinelos",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/414-d48Ao9L.__AC_SX395_SY395_QL70_ML2_.jpg"
+ },
+ {
+  "Nome do Produto": "Cadeira Gamer TGT Heron TC, Preto e Cinza, TGT-HRTC-BL02",
+  "Link": "https:\/\/amzn.to\/3WYYz8F",
+  "Preço": "636,,90",
+  "Vendas": "3145",
+  "Classe": "Cadeiras",
+  "Categoria": "Cadeira Gamer",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51rnalV4u9L.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Tênis Feminino Casual Ultra Conforto Branco Beira Rio 4205.123",
@@ -1483,14 +1497,24 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/416fvUpuezL.__AC_SX395_SY395_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Kit Sapato Masculino Oxford Italiano Phillipo Eco Canyon em Material Alternatico com Fechamento em Cadarço e Costuras Personalizada + Palmilha Grossa Confortável com elevação de 2 cm",
-  "Link": "https:\/\/amzn.to\/3WBOBsy",
-  "Preço": "94,,90",
-  "Vendas": "176",
+  "Nome do Produto": "Sapato Scarpin Feminino Salto Baixo Fino Confortável R2.29 (Preto, BR, Adulto, Numérico, M, 34)",
+  "Link": "https:\/\/amzn.to\/3WG6HK6",
+  "Preço": "59,,90",
+  "Vendas": "2",
   "Classe": "Calçados",
-  "Categoria": "Sapatênis Masculino",
+  "Categoria": "Saltos",
   "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/413GfkkEklL.__AC_SX395_SY395_QL70_ML2_.jpg"
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51-Uhyo0SzL.__AC_SX395_SY395_QL70_ML2_.jpg"
+ },
+ {
+  "Nome do Produto": "Sandália Feminina Salto Quadrado Glitter Ouro Rosado Vizzano 6291.900",
+  "Link": "https:\/\/amzn.to\/3YZngUb",
+  "Preço": "108,,99",
+  "Vendas": "145",
+  "Classe": "Calçados",
+  "Categoria": "Saltos",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51DyVNnGF0L.__AC_SX395_SY395_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Sapatênis Casual Masculino Basico V2",
@@ -1501,16 +1525,6 @@
   "Categoria": "Sapatênis Masculino",
   "Local": "Nacional",
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/41RNpN+yzjL._AC_SY395_SX395_.jpg"
- },
- {
-  "Nome do Produto": "Sapatenis Masculino Confort Slip On Ultra Conforto",
-  "Link": "https:\/\/amzn.to\/3WGh3cH",
-  "Preço": "59,,90",
-  "Vendas": "543",
-  "Classe": "Calçados",
-  "Categoria": "Sapatênis Masculino",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51ZqQrmf6AL.__AC_SX395_SY395_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Tênis Olympikus Mood Masculino",
@@ -1531,6 +1545,16 @@
   "Categoria": "Tênis Feminino",
   "Local": "Nacional",
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/61O-6t-pwDL.__AC_SX395_SY395_QL70_ML2_.jpg"
+ },
+ {
+  "Nome do Produto": "Kit Sapato Masculino Oxford Italiano Phillipo Eco Canyon em Material Alternatico com Fechamento em Cadarço e Costuras Personalizada + Palmilha Grossa Confortável com elevação de 2 cm",
+  "Link": "https:\/\/amzn.to\/3WBOBsy",
+  "Preço": "94,,90",
+  "Vendas": "176",
+  "Classe": "Calçados",
+  "Categoria": "Sapatênis Masculino",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/413GfkkEklL.__AC_SX395_SY395_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Tênis Olympikus Feminino 130G Ultraleve\/749",
@@ -1583,14 +1607,14 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/51Ut+OAYuBL._AC_SY395_SX395_.jpg"
  },
  {
-  "Nome do Produto": "Tênis Casual Tribute Style Cano Baixo Skate Leve Confortável",
-  "Link": "https:\/\/amzn.to\/3AkK8Db",
-  "Preço": "114,,90",
-  "Vendas": "274",
+  "Nome do Produto": "Sapatenis Masculino Confort Slip On Ultra Conforto",
+  "Link": "https:\/\/amzn.to\/3WGh3cH",
+  "Preço": "59,,90",
+  "Vendas": "544",
   "Classe": "Calçados",
-  "Categoria": "Tênis Masculino",
+  "Categoria": "Sapatênis Masculino",
   "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51E57XX95kL.__AC_SY395_SX395_QL70_ML2_.jpg"
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/518bzGURcsL.__AC_SX395_SY395_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Sapatênis Casual Masculino Basico V2",
@@ -1603,6 +1627,16 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/41RNpN+yzjL._AC_SY395_SX395_.jpg"
  },
  {
+  "Nome do Produto": "Tênis Casual VL 2500, Rainha, Masculino",
+  "Link": "https:\/\/amzn.to\/3WGJkQv",
+  "Preço": "132,,83",
+  "Vendas": "97",
+  "Classe": "Calçados",
+  "Categoria": "Tênis Masculino",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/511orXHjzWL.__AC_SX395_SY395_QL70_ML2_.jpg"
+ },
+ {
   "Nome do Produto": "Tênis Olympikus Poseidon Unissex",
   "Link": "https:\/\/amzn.to\/3SMavs2",
   "Preço": "148,,90",
@@ -1613,14 +1647,14 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/51fes9Hdf1L.__AC_SX395_SY395_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Tênis Casual VL 2500, Rainha, Masculino",
-  "Link": "https:\/\/amzn.to\/3WGJkQv",
-  "Preço": "132,,83",
-  "Vendas": "97",
+  "Nome do Produto": "Tênis Casual Tribute Style Cano Baixo Skate Leve Confortável",
+  "Link": "https:\/\/amzn.to\/3AkK8Db",
+  "Preço": "114,,90",
+  "Vendas": "274",
   "Classe": "Calçados",
   "Categoria": "Tênis Masculino",
   "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/511orXHjzWL.__AC_SX395_SY395_QL70_ML2_.jpg"
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51E57XX95kL.__AC_SY395_SX395_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Tênis Olympikus Masculino Lap\/946 Casual",
@@ -1633,14 +1667,14 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/61hXvN2TlnL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Tênis Olympikus Aquarios Masculino",
-  "Link": "https:\/\/amzn.to\/3WKDD3U",
-  "Preço": "199,,87",
-  "Vendas": "2",
+  "Nome do Produto": "Tênis Olympikus LAP masculino",
+  "Link": "https:\/\/amzn.to\/3yIkdEQ",
+  "Preço": "169,,90",
+  "Vendas": "16",
   "Classe": "Calçados",
   "Categoria": "Tênis Masculino",
   "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51sIEgkaztL.__AC_SX300_SY300_QL70_ML2_.jpg"
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61NO73uMOqL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Tenis Masculino Esportivo Caminhada Leve",
@@ -1663,26 +1697,6 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/61Q2cmYw3yL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Tênis Olympikus LAP masculino",
-  "Link": "https:\/\/amzn.to\/3yIkdEQ",
-  "Preço": "169,,90",
-  "Vendas": "16",
-  "Classe": "Calçados",
-  "Categoria": "Tênis Masculino",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61NO73uMOqL.__AC_SX300_SY300_QL70_ML2_.jpg"
- },
- {
-  "Nome do Produto": "Babá Eletronica Câmera, TakTark 3.2\" Monitor de querido com Câmera, Visão Noturna Infravermelha, Áudio Bidirecional, Detecção de Som VOX, Monitoramento Temperatura, Canção de Ninar",
-  "Link": "https:\/\/amzn.to\/3QEzso9",
-  "Preço": "399,,99",
-  "Vendas": "1002",
-  "Classe": "Câmeras",
-  "Categoria": "Babá eletrônica",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61h2x-zBZIL.__AC_SY300_SX300_QL70_ML2_.jpg"
- },
- {
   "Nome do Produto": "Sony Alpha ZV-E10 - Kit de câmera Vlog sem espelho com lentes intercambiáveis APS-C - Preto",
   "Link": "https:\/\/amzn.to\/3XCJdHH",
   "Preço": "5.899,,00",
@@ -1693,14 +1707,14 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/71tNHVuBEhL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Camera Canon EOS Rebel T7 com lente 18-55mm IS II",
-  "Link": "https:\/\/amzn.to\/4a7mM05",
-  "Preço": "4.199,,00",
-  "Vendas": "4370",
-  "Classe": "Câmeras",
-  "Categoria": "Câmera Profissional",
+  "Nome do Produto": "Tênis Olympikus Aquarios Masculino",
+  "Link": "https:\/\/amzn.to\/3WKDD3U",
+  "Preço": "199,,87",
+  "Vendas": "2",
+  "Classe": "Calçados",
+  "Categoria": "Tênis Masculino",
   "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/71Is-Zv6A0L.__AC_SX300_SY300_QL70_ML2_.jpg"
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51sIEgkaztL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Câmera de ação Jadfezy 1080p à prova d'água subaquática 40 m com duas baterias recarregáveis de 900 mAh com ângulo amplo de 140 graus e kit de acessórios",
@@ -1723,14 +1737,24 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/41cgshAv-4L.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Câmera Inteligente Externa Compatível com Alexa Wi-Fi Full HD iM5 SC Branco Intelbras",
-  "Link": "https:\/\/amzn.to\/3WzogNo",
-  "Preço": "329,,90",
-  "Vendas": "1338",
+  "Nome do Produto": "Camera Canon EOS Rebel T7 com lente 18-55mm IS II",
+  "Link": "https:\/\/amzn.to\/4a7mM05",
+  "Preço": "4.199,,00",
+  "Vendas": "4370",
   "Classe": "Câmeras",
-  "Categoria": "CâmerasWi-Fi ",
+  "Categoria": "Câmera Profissional",
   "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/41s1-YTvwbL.__AC_SX300_SY300_QL70_ML2_.jpg"
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/71Is-Zv6A0L.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
+  "Nome do Produto": "Babá Eletronica Câmera, TakTark 3.2\" Monitor de querido com Câmera, Visão Noturna Infravermelha, Áudio Bidirecional, Detecção de Som VOX, Monitoramento Temperatura, Canção de Ninar",
+  "Link": "https:\/\/amzn.to\/3QEzso9",
+  "Preço": "399,,99",
+  "Vendas": "1002",
+  "Classe": "Câmeras",
+  "Categoria": "Babá eletrônica",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61h2x-zBZIL.__AC_SY300_SX300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Camera de Segurança Wi-Fi 360º, 1080p Full HD TP-Link Tapo C200, Visão Noturna, Audio de duas vias, Detecção de Movimentos, Trabalha com Alexa, 512G de Armazenamento Local, Armazenamento na Nuvem",
@@ -1741,6 +1765,16 @@
   "Categoria": "CâmerasWi-Fi ",
   "Local": "Nacional",
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/41WQe9NiU6L.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
+  "Nome do Produto": "Câmera Inteligente Externa Compatível com Alexa Wi-Fi Full HD iM5 SC Branco Intelbras",
+  "Link": "https:\/\/amzn.to\/3WzogNo",
+  "Preço": "329,,90",
+  "Vendas": "1338",
+  "Classe": "Câmeras",
+  "Categoria": "CâmerasWi-Fi ",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/41s1-YTvwbL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Camera de Segurança Wi-Fi, 1080p Full HD TP-Link Tapo C100, Visão Noturna, Audio de Duas Vias, Trabalha com Alexa, Detecção de Movimento, 512G de armazenagem, Armazenamento na Nuvem",
@@ -1763,6 +1797,26 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/417H8YGi4lL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
+  "Nome do Produto": "Smart dataCâmera ip lâmpada câmera 1080p hd panorâmica sem fio de segurança em casa wi fi cctv fisheye lâmpada câmera ycc365\/Yoosee graus segurança em casa Yoosee",
+  "Link": "https:\/\/amzn.to\/44xzFPI",
+  "Preço": "62,,30",
+  "Vendas": "1567",
+  "Classe": "Câmeras",
+  "Categoria": "CâmerasWi-Fi ",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/41RqAYvHVJL.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
+  "Nome do Produto": "Câmera Inteligente Interna Wi-Fi Full HD iME360 Branco Intelbras",
+  "Link": "https:\/\/amzn.to\/44BnOAm",
+  "Preço": "239,,00",
+  "Vendas": "2402",
+  "Classe": "Câmeras",
+  "Categoria": "CâmerasWi-Fi ",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/41pzL9q7HuL.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
   "Nome do Produto": "Câmera Inteligente Interna Compatível com Alexa Wi-Fi Full HD iM3 C com Micro SD 32GB Branco Intelbras",
   "Link": "https:\/\/amzn.to\/4batAer",
   "Preço": "188,,23",
@@ -1783,14 +1837,14 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/51ySFLlI-aL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Câmera Inteligente Interna Wi-Fi Full HD iME360 Branco Intelbras",
-  "Link": "https:\/\/amzn.to\/44BnOAm",
-  "Preço": "239,,00",
-  "Vendas": "2402",
+  "Nome do Produto": "Câmera IP Sem Fio de Segurança Externa HD 4MP, Câmera de Visão Noturna Infravermelha WiFi, IP66 à Prova D'água e à Prova de Poeira, Chamada de Voz Bidirecional, Campo de Visão Completo PTZ 360 Graus",
+  "Link": "https:\/\/amzn.to\/3Qyhhk3",
+  "Preço": "139,,99",
+  "Vendas": "991",
   "Classe": "Câmeras",
   "Categoria": "CâmerasWi-Fi ",
   "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/41pzL9q7HuL.__AC_SX300_SY300_QL70_ML2_.jpg"
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51B6TNVkoCL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Câmera Inteligente Interna Compatível com Alexa Wi-fi Full HD iM3 C Branca Intelbras",
@@ -1803,34 +1857,14 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/312oAwsZTlL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Câmera IP Sem Fio de Segurança Externa HD 4MP, Câmera de Visão Noturna Infravermelha WiFi, IP66 à Prova D'água e à Prova de Poeira, Chamada de Voz Bidirecional, Campo de Visão Completo PTZ 360 Graus",
-  "Link": "https:\/\/amzn.to\/3Qyhhk3",
-  "Preço": "139,,99",
-  "Vendas": "991",
+  "Nome do Produto": "Camera Lâmpada Wifi Ip Segurança Panorâmica Giratória 360 1080P com Visão Noturna Pet",
+  "Link": "https:\/\/amzn.to\/44AME3l",
+  "Preço": "54,,82",
+  "Vendas": "2134",
   "Classe": "Câmeras",
   "Categoria": "CâmerasWi-Fi ",
   "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51B6TNVkoCL.__AC_SX300_SY300_QL70_ML2_.jpg"
- },
- {
-  "Nome do Produto": "Smart dataCâmera ip lâmpada câmera 1080p hd panorâmica sem fio de segurança em casa wi fi cctv fisheye lâmpada câmera ycc365\/Yoosee graus segurança em casa Yoosee",
-  "Link": "https:\/\/amzn.to\/44xzFPI",
-  "Preço": "62,,30",
-  "Vendas": "1567",
-  "Classe": "Câmeras",
-  "Categoria": "CâmerasWi-Fi ",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/41RqAYvHVJL.__AC_SX300_SY300_QL70_ML2_.jpg"
- },
- {
-  "Nome do Produto": "Steck, Câmera Inteligente Steck Ambiente Conectado, Segurança Externa, Wi-Fi com IP65, Branca",
-  "Link": "https:\/\/amzn.to\/3UQKWY1",
-  "Preço": "279,,00",
-  "Vendas": "679",
-  "Classe": "Câmeras",
-  "Categoria": "CâmerasWi-Fi ",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/41Blux6hPnL.__AC_SX300_SY300_QL70_ML2_.jpg"
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51I0q+GCwqL._AC_SY300_SX300_.jpg"
  },
  {
   "Nome do Produto": "Smart Câmera Bot Wi-Fi 360° Positivo Casa Inteligente 2ª Geração, 1080p Full HD, 15 FPS, Detecção de Movimentos, Visão Noturna, Áudio Bidirecional - Bivolt, Compatível com Alexa",
@@ -1843,14 +1877,14 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/41X6azTI94L.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Camera Lâmpada Wifi Ip Segurança Panorâmica Giratória 360 1080P com Visão Noturna Pet",
-  "Link": "https:\/\/amzn.to\/44AME3l",
-  "Preço": "54,,82",
-  "Vendas": "2134",
+  "Nome do Produto": "Steck, Câmera Inteligente Steck Ambiente Conectado, Segurança Externa, Wi-Fi com IP65, Branca",
+  "Link": "https:\/\/amzn.to\/3UQKWY1",
+  "Preço": "279,,00",
+  "Vendas": "679",
   "Classe": "Câmeras",
   "Categoria": "CâmerasWi-Fi ",
   "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51I0q+GCwqL._AC_SY300_SX300_.jpg"
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/41Blux6hPnL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Wifi Hd 1080p A8 Câmera de Segurança, Câmera Ip Icsee Prova D'água Infravermelho Externa（Smartcamera-A08）",
@@ -1863,16 +1897,6 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/61XZlLdPRbL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Estabilizador Gimbal H4 3 Eixos Para Smartphone Android IOS",
-  "Link": "https:\/\/amzn.to\/3wq1jSc",
-  "Preço": "298,,90",
-  "Vendas": "575",
-  "Classe": "Câmeras",
-  "Categoria": "Gimbal",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/517BEym7KAL.__AC_SX300_SY300_QL70_ML2_.jpg"
- },
- {
   "Nome do Produto": "Zhiyun Smooth Q3 Smartphone Estabilizador Gimbal Portátil de 3 eixos com Tripod Vlog LED Fill Light Compatível com iPhone 12 11 PRO MAX X XR XS Smartphone com controle gestos e rastreamento objetos",
   "Link": "https:\/\/amzn.to\/4brszhY",
   "Preço": "549,,00",
@@ -1883,14 +1907,14 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/610NCbGTxtS.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Hohem Kit iSteady M6 estabilizador de suspensão cardan para smartphone de 3 eixos com luz de preenchimento magnético\/sensor de rastreamento AI para iPhone Android com tela OLED de 0,9 polegadas, carga",
-  "Link": "https:\/\/amzn.to\/4dAdYm7",
-  "Preço": "1.139,,00",
-  "Vendas": "936",
+  "Nome do Produto": "Estabilizador Gimbal H4 3 Eixos Para Smartphone Android IOS",
+  "Link": "https:\/\/amzn.to\/3wq1jSc",
+  "Preço": "298,,90",
+  "Vendas": "575",
   "Classe": "Câmeras",
   "Categoria": "Gimbal",
   "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/71rvxf1JdAL.__AC_SX300_SY300_QL70_ML2_.jpg"
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/517BEym7KAL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Zhiyun Smooth 4 Estabilizador De Cardan Profissional Para iPhone Smartphone Android Celular De 3 Eixos Handheld Gimble Stick Com Grip Tripé Ideal Para Vlog Youtube Vlog Tiktok Instagram Live Video Kit",
@@ -1913,16 +1937,6 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/51NSTSEiHXL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Câmera GoPro HERO8 Black à Prova D’água 12MP 4K Wi-Fi - Preto",
-  "Link": "https:\/\/amzn.to\/4abqnKu",
-  "Preço": "1.150,,00",
-  "Vendas": "755",
-  "Classe": "Câmeras",
-  "Categoria": "GoPro",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51c4RToPsYL.__AC_SX300_SY300_QL70_ML2_.jpg"
- },
- {
   "Nome do Produto": "Câmera GoPro HERO11 Black Mini - Câmera de ação compacta à prova d'água com vídeo Ultra HD 5.3K60, captura de quadro de 24,7 MP, sensor de imagem de 1\/1,9\", transmissão ao vivo, estabilizador",
   "Link": "https:\/\/amzn.to\/3QEkQ8d",
   "Preço": "2.169,,00",
@@ -1943,14 +1957,24 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/51vnR1ZN+sL._AC_SY300_SX300_.jpg"
  },
  {
-  "Nome do Produto": "GoPro 3-Way 2.0 (Suporte\/Bastão\/Tripé)",
-  "Link": "https:\/\/amzn.to\/3JVhJF6",
-  "Preço": "49,,90",
-  "Vendas": "1428",
+  "Nome do Produto": "Hohem Kit iSteady M6 estabilizador de suspensão cardan para smartphone de 3 eixos com luz de preenchimento magnético\/sensor de rastreamento AI para iPhone Android com tela OLED de 0,9 polegadas, carga",
+  "Link": "https:\/\/amzn.to\/4dAdYm7",
+  "Preço": "1.139,,00",
+  "Vendas": "936",
+  "Classe": "Câmeras",
+  "Categoria": "Gimbal",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/71rvxf1JdAL.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
+  "Nome do Produto": "Câmera GoPro HERO8 Black à Prova D’água 12MP 4K Wi-Fi - Preto",
+  "Link": "https:\/\/amzn.to\/4abqnKu",
+  "Preço": "1.150,,00",
+  "Vendas": "755",
   "Classe": "Câmeras",
   "Categoria": "GoPro",
   "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61eW9AJzM9L.__AC_SX300_SY300_QL70_ML2_.jpg"
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51c4RToPsYL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "GoPro Caixa Protetora para HERO12\/HERO11\/HERO10\/HERO9 Black",
@@ -1963,6 +1987,16 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/71E6hWi0P+L._AC_SX300_SY300_.jpg"
  },
  {
+  "Nome do Produto": "GoPro 3-Way 2.0 (Suporte\/Bastão\/Tripé)",
+  "Link": "https:\/\/amzn.to\/3JVhJF6",
+  "Preço": "49,,90",
+  "Vendas": "1428",
+  "Classe": "Câmeras",
+  "Categoria": "GoPro",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61eW9AJzM9L.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
   "Nome do Produto": "GoPro HERO12 BLACK - à Prova D'água com 5.3K60, 27MP, Vídeo + Foto HDR, HyperSmooth 6.0, Trava de horizonte 360°, Live + webcam, Áudio por Bluetooth, Bateria enduro, QUIK",
   "Link": "https:\/\/amzn.to\/4assYA1",
   "Preço": "2.590,,00",
@@ -1971,16 +2005,6 @@
   "Categoria": "GoPro",
   "Local": "Nacional",
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/71p5V8+OnfL._AC_SY300_SX300_.jpg"
- },
- {
-  "Nome do Produto": "GoPro Shorty (Minibastão Extensor + Tripé) - Preto",
-  "Link": "https:\/\/amzn.to\/3JU9IjM",
-  "Preço": "253,,42",
-  "Vendas": "10591",
-  "Classe": "Câmeras",
-  "Categoria": "GoPro",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/510tSUzMWfL.__AC_SY300_SX300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "GoPro The Handler 3.0",
@@ -1993,6 +2017,16 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/61diTfy-yiL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
+  "Nome do Produto": "GoPro Shorty (Minibastão Extensor + Tripé) - Preto",
+  "Link": "https:\/\/amzn.to\/3JU9IjM",
+  "Preço": "253,,42",
+  "Vendas": "10591",
+  "Classe": "Câmeras",
+  "Categoria": "GoPro",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/510tSUzMWfL.__AC_SY300_SX300_QL70_ML2_.jpg"
+ },
+ {
   "Nome do Produto": "GoPro Volta (Garra externa com bateria\/tripé\/controle remoto)",
   "Link": "https:\/\/amzn.to\/44B4FhQ",
   "Preço": "1.199,,00",
@@ -2001,6 +2035,16 @@
   "Categoria": "GoPro",
   "Local": "Nacional",
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/51D3cPrCtkL.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
+  "Nome do Produto": "Polaroid Câmera instantânea tipo I Now 2ª geração + pacote de filme - agora câmera preta + 16 fotos coloridas (6248) - preta",
+  "Link": "https:\/\/amzn.to\/4dzDurY",
+  "Preço": "1.732,,88",
+  "Vendas": "656",
+  "Classe": "Câmeras",
+  "Categoria": "Polaroid",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/71JbgMHA5nL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Fujifilm Câmera instantânea Instax Mini 12 - Rosa",
@@ -2023,16 +2067,6 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/7160lwqrh0L.__AC_SY300_SX300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Polaroid Câmera instantânea tipo I Now 2ª geração + pacote de filme - agora câmera preta + 16 fotos coloridas (6248) - preta",
-  "Link": "https:\/\/amzn.to\/4dzDurY",
-  "Preço": "1.732,,88",
-  "Vendas": "656",
-  "Classe": "Câmeras",
-  "Categoria": "Polaroid",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/71JbgMHA5nL.__AC_SX300_SY300_QL70_ML2_.jpg"
- },
- {
   "Nome do Produto": "Webcam Full HD Logitech C922 Pro Stream com Microfone Embutido para Chamadas e Gravações em Video 1080p e Tripé Incluso - Compatível com Logitech Capture",
   "Link": "https:\/\/amzn.to\/3QDJ3vw",
   "Preço": "599,,90",
@@ -2041,45 +2075,6 @@
   "Categoria": "WebCam",
   "Local": "Nacional",
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/61gpJAcAQIL.__AC_SX300_SY300_QL70_ML2_.jpg"
- },
- {
-  "Nome do Produto": "Ventilador de mesa 30cm, Ultra, 220V, Branco\/Azul - V-30-6P",
-  "Link": "https:\/\/amzn.to\/3wr05Ga",
-  "Preço": "83,,22",
-  "Vendas": "5534",
-  "Classe": "Eletrodomésticos",
-  "Categoria": "Ar condicionado ",
-  "Local": "Nacional ",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/81P0r5+MpdL._AC_SY300_SX300_.jpg"
- },
- {
-  "Nome do Produto": "Ar-condicionado Split Inverter 9000 Btus Eos Master Comfort High Wall Só Frio Easm9001ifi\/easm9000ife 220v",
-  "Link": "https:\/\/amzn.to\/3AjTVJA",
-  "Preço": "2.033,,20",
-  "Classe": "Eletrodomésticos",
-  "Categoria": "Ar condicionado ",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51d7GGoqIxL.__AC_SY445_SX342_QL70_ML2_.jpg"
- },
- {
-  "Nome do Produto": "Defletor Ar Condicionado Para Direcionar Vento De Saída Com Regulagem De Ângulo Tamanho 50 a 100CM",
-  "Link": "https:\/\/amzn.to\/45O4Wi7",
-  "Preço": "25,,84",
-  "Vendas": "2965",
-  "Classe": "Eletrodomésticos",
-  "Categoria": "Ar condicionado ",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51G0wkzmLwL.__AC_SY445_SX342_QL70_ML2_.jpg"
- },
- {
-  "Nome do Produto": "Ventilador de Mesa 30cm Super Power, Mondial, Preto, 60W, 220V - VSP-30-B",
-  "Link": "https:\/\/amzn.to\/4b5ubhK",
-  "Preço": "92,,65",
-  "Vendas": "18883",
-  "Classe": "Eletrodomésticos",
-  "Categoria": "Ar condicionado ",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/81e0BpZekHL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Ar-condicionado Split Inverter Samsung WindFree Connect Sem Vento 12.000 BTUs Frio Branco",
@@ -2092,6 +2087,45 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/51PdZgbII7L.__AC_SY445_SX342_QL70_ML2_.jpg"
  },
  {
+  "Nome do Produto": "Defletor Ar Condicionado Para Direcionar Vento De Saída Com Regulagem De Ângulo Tamanho 50 a 100CM",
+  "Link": "https:\/\/amzn.to\/45O4Wi7",
+  "Preço": "25,,84",
+  "Vendas": "2965",
+  "Classe": "Eletrodomésticos",
+  "Categoria": "Ar condicionado ",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51G0wkzmLwL.__AC_SY445_SX342_QL70_ML2_.jpg"
+ },
+ {
+  "Nome do Produto": "Ar-condicionado Split Inverter 9000 Btus Eos Master Comfort High Wall Só Frio Easm9001ifi\/easm9000ife 220v",
+  "Link": "https:\/\/amzn.to\/3AjTVJA",
+  "Preço": "2.033,,20",
+  "Classe": "Eletrodomésticos",
+  "Categoria": "Ar condicionado ",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51d7GGoqIxL.__AC_SY445_SX342_QL70_ML2_.jpg"
+ },
+ {
+  "Nome do Produto": "Ventilador de Mesa 30cm Super Power, Mondial, Preto, 60W, 220V - VSP-30-B",
+  "Link": "https:\/\/amzn.to\/4b5ubhK",
+  "Preço": "92,,65",
+  "Vendas": "18883",
+  "Classe": "Eletrodomésticos",
+  "Categoria": "Ar condicionado ",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/81e0BpZekHL.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
+  "Nome do Produto": "Ventilador de mesa 30cm, Ultra, 220V, Branco\/Azul - V-30-6P",
+  "Link": "https:\/\/amzn.to\/3wr05Ga",
+  "Preço": "83,,22",
+  "Vendas": "5534",
+  "Classe": "Eletrodomésticos",
+  "Categoria": "Ar condicionado ",
+  "Local": "Nacional ",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/81P0r5+MpdL._AC_SY300_SX300_.jpg"
+ },
+ {
   "Nome do Produto": "Ar-condicionado Split Inverter 9000 Btus Springer Midea Xtreme Save Connect High Wall Só Frio 42agvci09m5\/38agvci09m5 220v",
   "Link": "https:\/\/amzn.to\/4dgWc6O",
   "Preço": "2.159,,00",
@@ -2100,16 +2134,6 @@
   "Categoria": "Ar condicionado ",
   "Local": "Nacional",
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/61yabXW6WHL.__AC_SY445_SX342_QL70_ML2_.jpg"
- },
- {
-  "Nome do Produto": "Ar-condicionado Split Inverter 12000 Btus Electrolux Color Adapt com Wi-fi Só Frio Yi12f\/ye12f 220v",
-  "Link": "https:\/\/amzn.to\/4djcsUU",
-  "Preço": "2.350,,08",
-  "Vendas": "34",
-  "Classe": "Eletrodomésticos",
-  "Categoria": "Ar condicionado ",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61TLVfSeDcL.__AC_SY445_SX342_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Ar Condicionado Split Hi Wall Inverter Springer Midea Airvolution Connect 9.000 Btus Frio 220v R-32",
@@ -2122,6 +2146,16 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/51CN4x5GPaL.__AC_SY445_SX342_QL70_ML2_.jpg"
  },
  {
+  "Nome do Produto": "Ar-condicionado Split Inverter 12000 Btus Electrolux Color Adapt com Wi-fi Só Frio Yi12f\/ye12f 220v",
+  "Link": "https:\/\/amzn.to\/4djcsUU",
+  "Preço": "2.350,,08",
+  "Vendas": "34",
+  "Classe": "Eletrodomésticos",
+  "Categoria": "Ar condicionado ",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61TLVfSeDcL.__AC_SY445_SX342_QL70_ML2_.jpg"
+ },
+ {
   "Nome do Produto": "Defletor Ar Condicionado Split Ajustável Direciona Vento",
   "Link": "https:\/\/amzn.to\/4fBSd6x",
   "Preço": "49,,80",
@@ -2130,16 +2164,6 @@
   "Categoria": "Ar condicionado ",
   "Local": "Nacional",
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/51B9W9r6qaL.__AC_SY445_SX342_QL70_ML2_.jpg"
- },
- {
-  "Nome do Produto": "Ar-condicionado Split Inverter Samsung WindFree Connect Sem Vento 12.000 BTUs Frio AR12CVFAMWKNAZ 220V Kit",
-  "Link": "https:\/\/amzn.to\/4fC314C",
-  "Preço": "3.384,,09",
-  "Vendas": "26",
-  "Classe": "Eletrodomésticos",
-  "Categoria": "Ar condicionado ",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51DiHV8ZsGL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Aspirador de Pó Turbo Cycle, Mondial, Vermelho\/Preto, 1100W, 220V - AP-36",
@@ -2162,6 +2186,16 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/71+WCj8tfZL._AC_SX300_SY300_.jpg"
  },
  {
+  "Nome do Produto": "Ar-condicionado Split Inverter Samsung WindFree Connect Sem Vento 12.000 BTUs Frio AR12CVFAMWKNAZ 220V Kit",
+  "Link": "https:\/\/amzn.to\/4fC314C",
+  "Preço": "3.384,,09",
+  "Vendas": "26",
+  "Classe": "Eletrodomésticos",
+  "Categoria": "Ar condicionado ",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51DiHV8ZsGL.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
   "Nome do Produto": "Aspirador de Pó Vertical Turbo Cycle, Mondial, Preto\/Laranja, 1100W, 220V - AP-35",
   "Link": "https:\/\/amzn.to\/4dwCIM7",
   "Preço": "134,,10",
@@ -2170,16 +2204,6 @@
   "Categoria": "Aspirador de pó",
   "Local": "Nacional",
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/61nOHGGcZgL.__AC_SY300_SX300_QL70_ML2_.jpg"
- },
- {
-  "Nome do Produto": "Aspirador de Pó Vertical Perfect Clean II 2 em 1 Elgin Preto Compacto e Desmontável 220V",
-  "Link": "https:\/\/amzn.to\/4brxFLg",
-  "Preço": "139,,70",
-  "Vendas": "524",
-  "Classe": "Eletrodomésticos",
-  "Categoria": "Aspirador de pó",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/31b7pydqCvL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "WAP Aspirador de Pó e água Compacto GTW BAGLESS 1400W 6 Litros 160 mbar Soprador e Barril Portátil 220V",
@@ -2192,14 +2216,24 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/51N-uh8W60L.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Batedeira Prática, Mondial, Preto, 400W, 110V - B-44-B",
-  "Link": "https:\/\/amzn.to\/4ad0Bpg",
-  "Preço": "74,,20",
-  "Vendas": "2274",
+  "Nome do Produto": "Aspirador de Pó Vertical Perfect Clean II 2 em 1 Elgin Preto Compacto e Desmontável 220V",
+  "Link": "https:\/\/amzn.to\/4brxFLg",
+  "Preço": "139,,70",
+  "Vendas": "524",
   "Classe": "Eletrodomésticos",
-  "Categoria": "Batedeira",
+  "Categoria": "Aspirador de pó",
   "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/71a-aiH-n+L._AC_SY300_SX300_.jpg"
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/31b7pydqCvL.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
+  "Nome do Produto": "Cafeteira Elétrica Electrolux 15 Xícaras Efficient (ECM10)",
+  "Link": "https:\/\/amzn.to\/3WxXB3w",
+  "Preço": "118,,00",
+  "Vendas": "2489",
+  "Classe": "Eletrodomésticos",
+  "Categoria": "Cafeteira",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/71cM7xwJqXL.__AC_SY300_SX300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Batedeira Planetária, Mondial, Preto, 700W, 220V - BP-03-B",
@@ -2222,16 +2256,6 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/811erab5-PL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Cafeteira Elétrica Electrolux 15 Xícaras Efficient (ECM10)",
-  "Link": "https:\/\/amzn.to\/3WxXB3w",
-  "Preço": "118,,00",
-  "Vendas": "2489",
-  "Classe": "Eletrodomésticos",
-  "Categoria": "Cafeteira",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/71cM7xwJqXL.__AC_SY300_SX300_QL70_ML2_.jpg"
- },
- {
   "Nome do Produto": "Cafeteira Cadence Single Contrast, 220V, Preto, 240ml, CAF218",
   "Link": "https:\/\/amzn.to\/44uGLEF",
   "Preço": "181,,17",
@@ -2240,16 +2264,6 @@
   "Categoria": "Cafeteira",
   "Local": "Nacional",
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/51CFeyTPlRS.__AC_SX300_SY300_QL70_ML2_.jpg"
- },
- {
-  "Nome do Produto": "Cafeteira Elétrica Dolce Arome, Mondial, Preto, 550W, 220V - C-30-18X-FB",
-  "Link": "https:\/\/amzn.to\/3wARdxL",
-  "Preço": "88,,77",
-  "Vendas": "5226",
-  "Classe": "Eletrodomésticos",
-  "Categoria": "Cafeteira",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/71wvN7GZ2mL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Moedor de Café, Inox, 220v, Oster",
@@ -2262,14 +2276,14 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/51rrDN4Za0L.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Nespresso CitiZ Cafeteira 220V, máquina de café Espresso em casa, cápsula \/ cápsula elétrica automática (vermelho cereja)",
-  "Link": "https:\/\/amzn.to\/3Wusi9K",
-  "Preço": "636,,20",
-  "Vendas": "540",
+  "Nome do Produto": "Batedeira Prática, Mondial, Preto, 400W, 110V - B-44-B",
+  "Link": "https:\/\/amzn.to\/4ad0Bpg",
+  "Preço": "74,,20",
+  "Vendas": "2274",
   "Classe": "Eletrodomésticos",
-  "Categoria": "Cafeteira",
+  "Categoria": "Batedeira",
   "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51azjrco33L.__AC_SX300_SY300_QL70_ML2_.jpg"
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/71a-aiH-n+L._AC_SY300_SX300_.jpg"
  },
  {
   "Nome do Produto": "Agratto 784 - Chaleira Eletrica Inox, 220v, 1,8 Litro, Preto\/inox",
@@ -2282,6 +2296,26 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/51CQpjS6NrL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
+  "Nome do Produto": "Nespresso CitiZ Cafeteira 220V, máquina de café Espresso em casa, cápsula \/ cápsula elétrica automática (vermelho cereja)",
+  "Link": "https:\/\/amzn.to\/3Wusi9K",
+  "Preço": "636,,20",
+  "Vendas": "540",
+  "Classe": "Eletrodomésticos",
+  "Categoria": "Cafeteira",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51azjrco33L.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
+  "Nome do Produto": "Cafeteira Elétrica Dolce Arome, Mondial, Preto, 550W, 220V - C-30-18X-FB",
+  "Link": "https:\/\/amzn.to\/3wARdxL",
+  "Preço": "88,,77",
+  "Vendas": "5226",
+  "Classe": "Eletrodomésticos",
+  "Categoria": "Cafeteira",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/71wvN7GZ2mL.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
   "Nome do Produto": "Black Decker Chaleira Elétrica com Controle de Temperatura, Ideal para Aquecer Bebidas, Modelo K2200, 127V",
   "Link": "https:\/\/amzn.to\/3QzjtaZ",
   "Preço": "103,,05",
@@ -2292,26 +2326,6 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/41yBjrUb-KL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Chaleira Elétrica Contrast, Cadence, Preto",
-  "Link": "https:\/\/amzn.to\/3Uz5ZwT",
-  "Preço": "96,,53",
-  "Vendas": "5625",
-  "Classe": "Eletrodomésticos",
-  "Categoria": "Chaleira",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/517c17in3RL.__AC_SX300_SY300_QL70_ML2_.jpg"
- },
- {
-  "Nome do Produto": "Chaleira Elétrica Pratic, Mondial, Preto\/Inox, 1200W, 220V - CE-06",
-  "Link": "https:\/\/amzn.to\/3QwBt5W",
-  "Preço": "81,,63",
-  "Vendas": "1364",
-  "Classe": "Eletrodomésticos",
-  "Categoria": "Chaleira",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51K6htcmuWL.__AC_SX300_SY300_QL70_ML2_.jpg"
- },
- {
   "Nome do Produto": "Chaleira Elétrica Cadence Infusion, 1,7L, Preto, 220V, CEL550",
   "Link": "https:\/\/amzn.to\/4bkQRdG",
   "Preço": "138,,90",
@@ -2320,6 +2334,16 @@
   "Categoria": "Chaleira",
   "Local": "Nacional",
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/51lvq9DSWzL.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
+  "Nome do Produto": "Chaleira Elétrica Contrast, Cadence, Preto",
+  "Link": "https:\/\/amzn.to\/3Uz5ZwT",
+  "Preço": "96,,53",
+  "Vendas": "5625",
+  "Classe": "Eletrodomésticos",
+  "Categoria": "Chaleira",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/517c17in3RL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Chaleira elétrica Inox Elgin em Inox Sem fio 1,8 Litros Vermelha 220V",
@@ -2342,6 +2366,16 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/81O2m1sU5bL.__AC_SY300_SX300_QL70_ML2_.jpg"
  },
  {
+  "Nome do Produto": "Chaleira Elétrica Pratic, Mondial, Preto\/Inox, 1200W, 220V - CE-06",
+  "Link": "https:\/\/amzn.to\/3QwBt5W",
+  "Preço": "81,,63",
+  "Vendas": "1364",
+  "Classe": "Eletrodomésticos",
+  "Categoria": "Chaleira",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51K6htcmuWL.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
   "Nome do Produto": "Press Grill Sanduicheira Master Press, Mondial, Preto\/Inox, 1000W, 220V - PG-01",
   "Link": "https:\/\/amzn.to\/4a8dReF",
   "Preço": "118,,15",
@@ -2350,16 +2384,6 @@
   "Categoria": "Churrasqueiras",
   "Local": "Nacional",
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/91q0UlI2fpL.__AC_SY300_SX300_QL70_ML2_.jpg"
- },
- {
-  "Nome do Produto": "Grill Elétrico Oster Burguer 2 em 1 com Estufa, 110V, 1200W, OGRL500",
-  "Link": "https:\/\/amzn.to\/4a9Lxc2",
-  "Preço": "186,,08",
-  "Vendas": "450",
-  "Classe": "Eletrodomésticos",
-  "Categoria": "Churrasqueiras",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/613pQ3UdxkL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Grill Asteria Compact Mallory Grill multifunção, Luzes indicadoras de funcionamento, Alça com toque-frio e Trava de segurança 220V",
@@ -2372,6 +2396,16 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/41ODcJDTUhL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
+  "Nome do Produto": "Grill Elétrico Oster Burguer 2 em 1 com Estufa, 110V, 1200W, OGRL500",
+  "Link": "https:\/\/amzn.to\/4a9Lxc2",
+  "Preço": "186,,08",
+  "Vendas": "450",
+  "Classe": "Eletrodomésticos",
+  "Categoria": "Churrasqueiras",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/613pQ3UdxkL.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
   "Nome do Produto": "Cooktop a Gás, 4 Bocas, Mondial, Preto\/Inox, Bivolt - CTG-01",
   "Link": "https:\/\/amzn.to\/3yaEUJ6",
   "Preço": "419,,13",
@@ -2380,16 +2414,6 @@
   "Categoria": "Cooktop",
   "Local": "Nacional",
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/71oSXsvi1tL.__AC_SY445_SX342_QL70_ML2_.jpg"
- },
- {
-  "Nome do Produto": "Cooktop a Gás, 5 Bocas, Mondial, Preto\/Inox, Bivolt - CTG-02",
-  "Link": "https:\/\/amzn.to\/3UQr6fO",
-  "Preço": "492,,27",
-  "Vendas": "1410",
-  "Classe": "Eletrodomésticos",
-  "Categoria": "Cooktop",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/518RdD83LUL.__AC_SY445_SX342_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "iCLAMPER Energia 8 Preto",
@@ -2412,6 +2436,16 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/51wfv7AchqL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
+  "Nome do Produto": "Cooktop a Gás, 5 Bocas, Mondial, Preto\/Inox, Bivolt - CTG-02",
+  "Link": "https:\/\/amzn.to\/3UQr6fO",
+  "Preço": "492,,27",
+  "Vendas": "1410",
+  "Classe": "Eletrodomésticos",
+  "Categoria": "Cooktop",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/518RdD83LUL.__AC_SY445_SX342_QL70_ML2_.jpg"
+ },
+ {
   "Nome do Produto": "Ferro de passar seco e vapor Electrolux base antiaderente vapor vertical extra anti gotejamento 1500W cabo 1,65m azul SIE60 220V",
   "Link": "https:\/\/amzn.to\/4dugPx2",
   "Preço": "98,,00",
@@ -2420,16 +2454,6 @@
   "Categoria": "Ferro de passar ",
   "Local": "Nacional",
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/618rSkqGPPL.__AC_SX300_SY300_QL70_ML2_.jpg"
- },
- {
-  "Nome do Produto": "Fritadeira Elétrica Grand Airfryer 4L Electrolux EAF30 Grafite",
-  "Link": "https:\/\/amzn.to\/4btiXTT",
-  "Preço": "382,,94",
-  "Vendas": "2998",
-  "Classe": "Eletrodomésticos",
-  "Categoria": "Fritadeira Air Fryer",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/517S484FWnL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Fritadeira Eletrica sem oleo Electrolux Airfryer 3,2L digital 9 receitas pre-programadas cesto removivel 1400W EAF20 220v por Rita Lobo",
@@ -2442,30 +2466,30 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/51+aHN8cjiL._AC_SY300_SX300_.jpg"
  },
  {
-  "Nome do Produto": "Fritadeira Philco Air Fryer Oven 12L PFR2200P - 220V",
-  "Link": "https:\/\/amzn.to\/4ds9rSP",
-  "Preço": "594,,15",
-  "Vendas": "11351",
+  "Nome do Produto": "Fritadeira Elétrica Grand Airfryer 4L Electrolux EAF30 Grafite",
+  "Link": "https:\/\/amzn.to\/4btiXTT",
+  "Preço": "382,,94",
+  "Vendas": "2998",
   "Classe": "Eletrodomésticos",
   "Categoria": "Fritadeira Air Fryer",
   "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51CUZh0m8bL.__AC_SX300_SY300_QL70_ML2_.jpg"
- },
- {
-  "Nome do Produto": "Fritadeira Forno Oven Fry 4 em 1 Elgin 12 Litros 110V - Assa, Frita sem óleo, Desidrata e Reaquece Airfryer",
-  "Link": "https:\/\/amzn.to\/3QzFDKa",
-  "Preço": "539,,00",
-  "Vendas": "2292",
-  "Classe": "Eletrodomésticos",
-  "Categoria": "Fritadeira Air Fryer",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/615fRAJDzyL.__AC_SX300_SY300_QL70_ML2_.jpg"
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/517S484FWnL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Fritadeira Forno Oven Fry 4 em 1 Elgin 12 Litros 220V - Assa, Frita sem óleo, Desidrata e Reaquece - Airfryer",
   "Link": "https:\/\/amzn.to\/3UzWbTk",
   "Preço": "532,,47",
   "Vendas": "2297",
+  "Classe": "Eletrodomésticos",
+  "Categoria": "Fritadeira Air Fryer",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/615fRAJDzyL.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
+  "Nome do Produto": "Fritadeira Forno Oven Fry 4 em 1 Elgin 12 Litros 110V - Assa, Frita sem óleo, Desidrata e Reaquece Airfryer",
+  "Link": "https:\/\/amzn.to\/3QzFDKa",
+  "Preço": "539,,00",
+  "Vendas": "2292",
   "Classe": "Eletrodomésticos",
   "Categoria": "Fritadeira Air Fryer",
   "Local": "Nacional",
@@ -2502,6 +2526,16 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/51Hovs4qK6L.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
+  "Nome do Produto": "Fritadeira Philco Air Fryer Oven 12L PFR2200P - 220V",
+  "Link": "https:\/\/amzn.to\/4ds9rSP",
+  "Preço": "594,,15",
+  "Vendas": "11351",
+  "Classe": "Eletrodomésticos",
+  "Categoria": "Fritadeira Air Fryer",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51CUZh0m8bL.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
   "Nome do Produto": "Liquidificador Oster 1400 Full, Preto 3,2L, OLIQ,610, 220V",
   "Link": "https:\/\/amzn.to\/4dp2cLz",
   "Preço": "154,,17",
@@ -2532,6 +2566,16 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/81m5hJSkwiL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
+  "Nome do Produto": "Liquidificador Oster 1100 Full 3,2L Cinza OLIQ606-220",
+  "Link": "https:\/\/amzn.to\/3QDaOnT",
+  "Preço": "150,,40",
+  "Vendas": "4263",
+  "Classe": "Eletrodomésticos",
+  "Categoria": "Liquidificador",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61tP626zBVL.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
   "Nome do Produto": "Liquidificador Turbo Power, Mondial, Preto, 550W, 110V - L-99 FB",
   "Link": "https:\/\/amzn.to\/4aYuryV",
   "Preço": "76,,42",
@@ -2542,14 +2586,14 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/81s9CRAW+9L._AC_SY300_SX300_.jpg"
  },
  {
-  "Nome do Produto": "Liquidificador Oster 1100 Full 3,2L Cinza OLIQ606-220",
-  "Link": "https:\/\/amzn.to\/3QDaOnT",
-  "Preço": "150,,40",
-  "Vendas": "4263",
+  "Nome do Produto": "MICRO-ONDAS PANASONIC 21LT NN-ST27LWRUN 700W 127V ESPELHADA (AM)",
+  "Link": "https:\/\/amzn.to\/3QDaA01",
+  "Preço": "559,,00",
+  "Vendas": "2852",
   "Classe": "Eletrodomésticos",
-  "Categoria": "Liquidificador",
+  "Categoria": "Micro-ondas",
   "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61tP626zBVL.__AC_SX300_SY300_QL70_ML2_.jpg"
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/412oVgjWUxL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Forno Micro-ondas 20L Preto Midea 220V MRAS22",
@@ -2562,14 +2606,14 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/41kh2TI9f0L.__AC_SY445_SX342_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "MICRO-ONDAS PANASONIC 21LT NN-ST27LWRUN 700W 127V ESPELHADA (AM)",
-  "Link": "https:\/\/amzn.to\/3QDaA01",
-  "Preço": "559,,00",
-  "Vendas": "2852",
+  "Nome do Produto": "Power Mixer Premium, Mondial, Preto\/Inox, 500W, 220V - M-07",
+  "Link": "https:\/\/amzn.to\/3WxGyhT",
+  "Preço": "149,,14",
+  "Vendas": "2496",
   "Classe": "Eletrodomésticos",
-  "Categoria": "Micro-ondas",
+  "Categoria": "Mixer",
   "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/412oVgjWUxL.__AC_SX300_SY300_QL70_ML2_.jpg"
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/8110kc2fowL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Mixer Britânia BMX350V 3 em 1 Vermelho 220V",
@@ -2592,26 +2636,6 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/41Bo0r++HQL._AC_SY300_SX300_.jpg"
  },
  {
-  "Nome do Produto": "Mixer Vertical Turbo Chef Elgin 3 em 1 200W Preto 110v",
-  "Link": "https:\/\/amzn.to\/3wmSA3b",
-  "Preço": "123,,98",
-  "Vendas": "3159",
-  "Classe": "Eletrodomésticos",
-  "Categoria": "Mixer",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61voAQA1EKL.__AC_SX300_SY300_QL70_ML2_.jpg"
- },
- {
-  "Nome do Produto": "Power Mixer Premium, Mondial, Preto\/Inox, 500W, 220V - M-07",
-  "Link": "https:\/\/amzn.to\/3WxGyhT",
-  "Preço": "149,,14",
-  "Vendas": "2496",
-  "Classe": "Eletrodomésticos",
-  "Categoria": "Mixer",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/8110kc2fowL.__AC_SX300_SY300_QL70_ML2_.jpg"
- },
- {
   "Nome do Produto": "Panela De Arroz Fast Rice 5 Premium, Mondial, Preto, 400W, 110V - NPE-08-5X",
   "Link": "https:\/\/amzn.to\/4agMnDz",
   "Preço": "168,,76",
@@ -2620,6 +2644,16 @@
   "Categoria": "Panelas",
   "Local": "Nacional",
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/510RKLRcrXL.__AC_SY300_SX300_QL70_ML2_.jpg"
+ },
+ {
+  "Nome do Produto": "Mixer Vertical Turbo Chef Elgin 3 em 1 200W Preto 110v",
+  "Link": "https:\/\/amzn.to\/3wmSA3b",
+  "Preço": "123,,98",
+  "Vendas": "3159",
+  "Classe": "Eletrodomésticos",
+  "Categoria": "Mixer",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61voAQA1EKL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Panela de Pressão Elétrica 6L Digital, Inox\/Preto, 220v, Midea",
@@ -2640,6 +2674,16 @@
   "Categoria": "Panelas",
   "Local": "Nacional",
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/51sNWqooJkL.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
+  "Nome do Produto": "Pipoqueira Elétrica Mallory Disney Mickey -Pipocas sequinhas, livres de Óleo- 220V",
+  "Link": "https:\/\/amzn.to\/3QCXS1f",
+  "Preço": "134,,00",
+  "Vendas": "2042",
+  "Classe": "Eletrodomésticos",
+  "Categoria": "Pipoqueira",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/71a9-mCpvsL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Panela Elétrica Redonda, Mondial, Vermelho, 1200W, 110V - PE-28",
@@ -2672,16 +2716,6 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/61W25IvSTrL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Pipoqueira Elétrica Mallory Disney Mickey -Pipocas sequinhas, livres de Óleo- 220V",
-  "Link": "https:\/\/amzn.to\/3QCXS1f",
-  "Preço": "134,,00",
-  "Vendas": "2042",
-  "Classe": "Eletrodomésticos",
-  "Categoria": "Pipoqueira",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/71a9-mCpvsL.__AC_SX300_SY300_QL70_ML2_.jpg"
- },
- {
   "Nome do Produto": "Pipoqueira, Pop Time, Branco, 127V, Britânia",
   "Link": "https:\/\/amzn.to\/4dypvlS",
   "Preço": "182,,82",
@@ -2690,16 +2724,6 @@
   "Categoria": "Pipoqueira",
   "Local": "Nacional",
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/61lJjtLR5uL.__AC_SX300_SY300_QL70_ML2_.jpg"
- },
- {
-  "Nome do Produto": "Mini Processador De Alimentos 3 Lâminas Elétrico Bivolt Usb ( Cores variadas)",
-  "Link": "https:\/\/amzn.to\/3UPnZ7z",
-  "Preço": "24,,49",
-  "Vendas": "6643",
-  "Classe": "Eletrodomésticos",
-  "Categoria": "Processador",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51XNgZzSW2S.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Extrator de Sucos Turbo Premium, Mondial, Preto\/Inox, 250W, Bivolt - E-10",
@@ -2722,6 +2746,16 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/616wWLCWUIL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
+  "Nome do Produto": "Mini Processador De Alimentos 3 Lâminas Elétrico Bivolt Usb ( Cores variadas)",
+  "Link": "https:\/\/amzn.to\/3UPnZ7z",
+  "Preço": "24,,49",
+  "Vendas": "6643",
+  "Classe": "Eletrodomésticos",
+  "Categoria": "Processador",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51XNgZzSW2S.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
   "Nome do Produto": "Agratto, Sanduicheira Black SA 02 220V 750W, 4183, Preto",
   "Link": "https:\/\/amzn.to\/4bsk7yT",
   "Preço": "61,,88",
@@ -2730,16 +2764,6 @@
   "Categoria": "Sanduicheira",
   "Local": "Nacional",
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/51WR8rTzqxL.__AC_SX300_SY300_QL70_ML2_.jpg"
- },
- {
-  "Nome do Produto": "Sanduicheira e grill, Crome inox, Preto, 220V, Britânia",
-  "Link": "https:\/\/amzn.to\/4bjJUtc",
-  "Preço": "115,,27",
-  "Vendas": "5676",
-  "Classe": "Eletrodomésticos",
-  "Categoria": "Sanduicheira",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51i9MkpuD5L.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Sanduicheira Minigrill Gourmet 220V com 750W Chapa Dupla e com Revestimento Antiaderente Preta Multilaser - CE044",
@@ -2752,6 +2776,16 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/51uOGLtEd8L.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
+  "Nome do Produto": "Sanduicheira e grill, Crome inox, Preto, 220V, Britânia",
+  "Link": "https:\/\/amzn.to\/4bjJUtc",
+  "Preço": "115,,27",
+  "Vendas": "5676",
+  "Classe": "Eletrodomésticos",
+  "Categoria": "Sanduicheira",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51i9MkpuD5L.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
   "Nome do Produto": "Sanduicheira Elétrica Cadence Toast & Grill, Preta, 750W, 110V, SAN260",
   "Link": "https:\/\/amzn.to\/44wPshD",
   "Preço": "71,,48",
@@ -2760,16 +2794,6 @@
   "Categoria": "Sanduicheira",
   "Local": "Nacional",
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/41ESYXJsCLL.__AC_SX300_SY300_QL70_ML2_.jpg"
- },
- {
-  "Nome do Produto": "Sanduicheira Elétrica Cadence Click - 220V",
-  "Link": "https:\/\/amzn.to\/4dyTIkP",
-  "Preço": "107,,10",
-  "Vendas": "2676",
-  "Classe": "Eletrodomésticos",
-  "Categoria": "Sanduicheira",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51VbM6NJA1L.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Sanduicheira Fast Grill e Sandwich, Mondial, Preto, 750W, 220V - S-12",
@@ -2792,14 +2816,14 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/51WEsVzT4SL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Clamper Energia 5 Tomadas",
-  "Link": "https:\/\/amzn.to\/4aelwrQ",
-  "Preço": "93,,20",
-  "Vendas": "48356",
+  "Nome do Produto": "Sanduicheira Elétrica Cadence Click - 220V",
+  "Link": "https:\/\/amzn.to\/4dyTIkP",
+  "Preço": "107,,10",
+  "Vendas": "2676",
   "Classe": "Eletrodomésticos",
-  "Categoria": "Tomadas",
+  "Categoria": "Sanduicheira",
   "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51C9M7zl-5L.__AC_SX300_SY300_QL70_ML2_.jpg"
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51VbM6NJA1L.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Echo Dot 5ª geração | O Echo Dot com o melhor som já lançado | Cor Preta",
@@ -2822,16 +2846,6 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/61XSjoXPCYL._AC_SY300_SX300_.jpg"
  },
  {
-  "Nome do Produto": "EKAZA Lâmpada Inteligente RGB, 16 milhões de cores, Wi-Fi, Compatível com Amazon Alexa e Google Assistente, 9W+3W - EKGC-T261-E27",
-  "Link": "https:\/\/amzn.to\/4eRnnGA",
-  "Preço": "38,,86",
-  "Vendas": "1011",
-  "Classe": "Eletrônicos",
-  "Categoria": "Dispositivo Inteligente",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61KfECOSMjL.__AC_SX300_SY300_QL70_ML2_.jpg"
- },
- {
   "Nome do Produto": "Echo Pop | Smart speaker compacto com som envolvente e Alexa | Cor Preta",
   "Link": "https:\/\/amzn.to\/3UvM0zs",
   "Preço": "429,,00",
@@ -2842,24 +2856,24 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/71eWKwcVjnL._AC_SY300_SX300_.jpg"
  },
  {
-  "Nome do Produto": "Fechadura Digital de Embutir Wi-Fi com Biometria, Elsys, ESF-DE4000B, Prata - Abertura via Biometria, Senha Numérica e Aplicativo",
-  "Link": "https:\/\/amzn.to\/3ydVQyw",
-  "Preço": "657,,78",
-  "Vendas": "1005",
+  "Nome do Produto": "Smart Controle Universal Wi-Fi Positivo Casa Inteligente, All-in-One, Controle Pelo Celular ou Comando de Voz, Infravermelho, Rede 2.4 GHz, Bivolt – Compatível com Alexa",
+  "Link": "https:\/\/amzn.to\/4bo9vkC",
+  "Preço": "102,,90",
+  "Vendas": "24441",
   "Classe": "Eletrônicos",
   "Categoria": "Dispositivo Inteligente",
   "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/418i4iZomtL.__AC_SX300_SY300_QL70_ML2_.jpg"
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/71xMUKJVuOL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Kit Smart Plug Wi-Fi Positivo Casa Inteligente - Contém 2 Smart Plugues Wi-FI 10A\/1000W, ligue e desligue seus eletrodomésticos usando o celular, Compatível com Alexa",
-  "Link": "https:\/\/amzn.to\/4bnFmSo",
-  "Preço": "149,,90",
-  "Vendas": "16700",
-  "Classe": "Eletrônicos",
-  "Categoria": "Dispositivo Inteligente",
+  "Nome do Produto": "Clamper Energia 5 Tomadas",
+  "Link": "https:\/\/amzn.to\/4aelwrQ",
+  "Preço": "93,,20",
+  "Vendas": "48356",
+  "Classe": "Eletrodomésticos",
+  "Categoria": "Tomadas",
   "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51xznH3TdkL.__AC_SX300_SY300_QL70_ML2_.jpg"
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51C9M7zl-5L.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Lâmpada Inteligente Smart Color 10W Elgin RGB Wifi Compatível com Alexa e Google Home",
@@ -2882,14 +2896,34 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/511R3odrRjL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Smart Controle Universal Wi-Fi Positivo Casa Inteligente, All-in-One, Controle Pelo Celular ou Comando de Voz, Infravermelho, Rede 2.4 GHz, Bivolt – Compatível com Alexa",
-  "Link": "https:\/\/amzn.to\/4bo9vkC",
-  "Preço": "102,,90",
-  "Vendas": "24441",
+  "Nome do Produto": "EKAZA Lâmpada Inteligente RGB, 16 milhões de cores, Wi-Fi, Compatível com Amazon Alexa e Google Assistente, 9W+3W - EKGC-T261-E27",
+  "Link": "https:\/\/amzn.to\/4eRnnGA",
+  "Preço": "38,,86",
+  "Vendas": "1011",
   "Classe": "Eletrônicos",
   "Categoria": "Dispositivo Inteligente",
   "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/71xMUKJVuOL.__AC_SX300_SY300_QL70_ML2_.jpg"
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61KfECOSMjL.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
+  "Nome do Produto": "Fechadura Digital de Embutir Wi-Fi com Biometria, Elsys, ESF-DE4000B, Prata - Abertura via Biometria, Senha Numérica e Aplicativo",
+  "Link": "https:\/\/amzn.to\/3ydVQyw",
+  "Preço": "657,,78",
+  "Vendas": "1005",
+  "Classe": "Eletrônicos",
+  "Categoria": "Dispositivo Inteligente",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/418i4iZomtL.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
+  "Nome do Produto": "Kit Smart Plug Wi-Fi Positivo Casa Inteligente - Contém 2 Smart Plugues Wi-FI 10A\/1000W, ligue e desligue seus eletrodomésticos usando o celular, Compatível com Alexa",
+  "Link": "https:\/\/amzn.to\/4bnFmSo",
+  "Preço": "149,,90",
+  "Vendas": "16700",
+  "Classe": "Eletrônicos",
+  "Categoria": "Dispositivo Inteligente",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51xznH3TdkL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Smart Plug Wi-Fi 10A\/1000W- NBR, Positivo Casa Inteligente, ligue ou desligue seus eletrodomésticos através do celular, Compatível com Alexa",
@@ -2900,16 +2934,6 @@
   "Categoria": "Dispositivo Inteligente",
   "Local": "Nacional",
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/51EDolwwHOS.__AC_SX300_SY300_QL70_ML2_.jpg"
- },
- {
-  "Nome do Produto": "Drone com câmera 1080p HD FPV drone dobrável para iniciantes e crianças, quadricóptero com controle de gestos de voz com estojo de transporte, uma tecla de decolagem\/aterrissagem, posicionamento de",
-  "Link": "https:\/\/amzn.to\/3UBksbE",
-  "Preço": "349,,99",
-  "Vendas": "723",
-  "Classe": "Eletrônicos",
-  "Categoria": "Drones",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/71UmPtEk3GL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "DJI Mini 2 SE, mini drone leve com vídeo QHD, transmissão de vídeo máxima de 10 km, tempo de voo de 31 minutos, menos de 249 g, retorno automático para casa, drone cardan de 3 eixos com EIS, drone com",
@@ -2952,6 +2976,16 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/41zc-MkdJ0L.__AC_SY445_SX342_QL70_ML2_.jpg"
  },
  {
+  "Nome do Produto": "Drone com câmera 1080p HD FPV drone dobrável para iniciantes e crianças, quadricóptero com controle de gestos de voz com estojo de transporte, uma tecla de decolagem\/aterrissagem, posicionamento de",
+  "Link": "https:\/\/amzn.to\/3UBksbE",
+  "Preço": "349,,99",
+  "Vendas": "723",
+  "Classe": "Eletrônicos",
+  "Categoria": "Drones",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/71UmPtEk3GL.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
   "Nome do Produto": "AirPods (3.ª geração)",
   "Link": "https:\/\/amzn.to\/3wpKRRW",
   "Preço": ",00",
@@ -2960,15 +2994,6 @@
   "Categoria": "Fones",
   "Local": "Nacional",
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/416ZUxb5TiL.__AC_SY445_SX342_QL70_ML2_.jpg"
- },
- {
-  "Nome do Produto": "Beats Fit Pro – Autênticos fones de ouvido sem fio com cancelamento de ruído – Cancelamento ativo de ruído, fones de ouvido resistentes ao suor, compatível com Apple e Android – Branco Beats",
-  "Link": "https:\/\/amzn.to\/3y7wTEJ",
-  "Vendas": "1294",
-  "Classe": "Eletrônicos",
-  "Categoria": "Fones",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/519+B9kGfrL._AC_SX342_SY445_.jpg"
  },
  {
   "Nome do Produto": "Beats Studio Buds + (2023) – O autêntico fone de ouvido sem fio com cancelamento de ruído, compatibilidade com Apple e Android aprimorada, microfone embutido – Preto e Dourado",
@@ -2981,6 +3006,15 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/512DqUbzPiL.__AC_SY445_SX342_QL70_ML2_.jpg"
  },
  {
+  "Nome do Produto": "Beats Fit Pro – Autênticos fones de ouvido sem fio com cancelamento de ruído – Cancelamento ativo de ruído, fones de ouvido resistentes ao suor, compatível com Apple e Android – Branco Beats",
+  "Link": "https:\/\/amzn.to\/3y7wTEJ",
+  "Vendas": "1294",
+  "Classe": "Eletrônicos",
+  "Categoria": "Fones",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/519+B9kGfrL._AC_SX342_SY445_.jpg"
+ },
+ {
   "Nome do Produto": "Beats Fit Pro – Autênticos fones de ouvido sem fio com cancelamento de ruído – Cancelamento ativo de ruído, fones de ouvido resistentes ao suor, compatível com Apple e Android – Preto Beats",
   "Link": "https:\/\/amzn.to\/3WQySI3",
   "Vendas": "1294",
@@ -2990,14 +3024,13 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/51E2moxQFpL.__AC_SY445_SX342_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Beats Studio Buds + (2023) – O autêntico fone de ouvido sem fio com cancelamento de ruído, compatibilidade com Apple e Android aprimorada, microfone embutido, fones de ouvido Bluetooth – Translúcido",
-  "Link": "https:\/\/amzn.to\/4b8QD9E",
-  "Preço": "1.076,,55",
-  "Vendas": "494",
+  "Nome do Produto": "Fone de ouvido Beats Solo3 Wireless - The Beats Icon Collection - Preto mate",
+  "Link": "https:\/\/amzn.to\/3WxbXkw",
+  "Vendas": "84575",
   "Classe": "Eletrônicos",
   "Categoria": "Fones",
   "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51eBf+A4-TL._AC_SX342_SY445_.jpg"
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51QxA-98Q+L._AC_SX342_SY445_.jpg"
  },
  {
   "Nome do Produto": "Echo Buds (2ª Geração): Fones de ouvido sem fio com cancelamento de ruído ativo e Alexa | Estojo de recarga sem fio",
@@ -3010,6 +3043,16 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/61YWTYK1nRL._AC_SY300_SX300_.jpg"
  },
  {
+  "Nome do Produto": "Beats Studio Buds + (2023) – O autêntico fone de ouvido sem fio com cancelamento de ruído, compatibilidade com Apple e Android aprimorada, microfone embutido, fones de ouvido Bluetooth – Translúcido",
+  "Link": "https:\/\/amzn.to\/4b8QD9E",
+  "Preço": "1.076,,55",
+  "Vendas": "494",
+  "Classe": "Eletrônicos",
+  "Categoria": "Fones",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51eBf+A4-TL._AC_SX342_SY445_.jpg"
+ },
+ {
   "Nome do Produto": "Fone de ouvido Powerbeats Pro - Totally Wireless — Azul-navy",
   "Link": "https:\/\/amzn.to\/4bxVDEF",
   "Preço": "1.699,,90",
@@ -3018,15 +3061,6 @@
   "Categoria": "Fones",
   "Local": "Nacional",
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/61sZ2wuKFML.__AC_SY445_SX342_QL70_ML2_.jpg"
- },
- {
-  "Nome do Produto": "Fone de ouvido Beats Solo3 Wireless - The Beats Icon Collection - Preto mate",
-  "Link": "https:\/\/amzn.to\/3WxbXkw",
-  "Vendas": "84575",
-  "Classe": "Eletrônicos",
-  "Categoria": "Fones",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51QxA-98Q+L._AC_SX342_SY445_.jpg"
  },
  {
   "Nome do Produto": "Fone de Ouvido Bluetooth Sem Fio QCY T17 com Microfone Intra-auricular (Preto)",
@@ -3049,16 +3083,6 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/41g2KFmApgS.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Fone de ouvido sem fio QCY T13 TWS Bluetooth 5.1 com 4 microfones Touch Control IPX5 à prova d'água 40 horas de tempo de reprodução",
-  "Link": "https:\/\/amzn.to\/4doFUt8",
-  "Preço": "129,,00",
-  "Vendas": "9713",
-  "Classe": "Eletrônicos",
-  "Categoria": "Fones",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61qif4R55hL.__AC_SX300_SY300_QL70_ML2_.jpg"
- },
- {
   "Nome do Produto": "JBL, Fone de Ouvido Bluetooth, Tune 125BT, Intra Auricular, Sem Fio, Microfone Integrado - Branco",
   "Link": "https:\/\/amzn.to\/3Useiuy",
   "Preço": "169,,00",
@@ -3069,6 +3093,16 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/31+8XowsXIL._AC_SY300_SX300_.jpg"
  },
  {
+  "Nome do Produto": "Fone de ouvido sem fio QCY T13 TWS Bluetooth 5.1 com 4 microfones Touch Control IPX5 à prova d'água 40 horas de tempo de reprodução",
+  "Link": "https:\/\/amzn.to\/4doFUt8",
+  "Preço": "129,,00",
+  "Vendas": "9713",
+  "Classe": "Eletrônicos",
+  "Categoria": "Fones",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61qif4R55hL.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
   "Nome do Produto": "JBL, Fone de Ouvido Sem Fio, Bluetooth, Wave Buds TWS - Preto",
   "Link": "https:\/\/amzn.to\/3RVo2gp",
   "Preço": "267,,00",
@@ -3077,6 +3111,16 @@
   "Categoria": "Fones",
   "Local": "Nacional",
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/51lhZsdupGL.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
+  "Nome do Produto": "QCY H3 ANC Fone de Ouvido Bluetooth, Cancelamento de Ruído Ativo Headphone Bluetooth 5.4 Headset com Microfone, Certificação Hi-Res Audio, Conexão Multipontos, 60 horas reprodução, Preto",
+  "Link": "https:\/\/amzn.to\/3QBGRoq",
+  "Preço": "269,,00",
+  "Vendas": "1586",
+  "Classe": "Eletrônicos",
+  "Categoria": "Fones",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51MvjUv989L.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "JBL, Fone de Ouvido Esportivo, Endurance Run 2, In ear - Preto",
@@ -3099,14 +3143,14 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/41pwcoHZl1L.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "QCY H3 ANC Fone de Ouvido Bluetooth, Cancelamento de Ruído Ativo Headphone Bluetooth 5.4 Headset com Microfone, Certificação Hi-Res Audio, Conexão Multipontos, 60 horas reprodução, Preto",
-  "Link": "https:\/\/amzn.to\/3QBGRoq",
-  "Preço": "269,,00",
-  "Vendas": "1586",
+  "Nome do Produto": "Samsung Smartwatch Galaxy Watch6 BT 44mm Tela Super AMOLED de 1.47\" Grafite",
+  "Link": "https:\/\/amzn.to\/3XRbB9f",
+  "Preço": "1.166,,83",
+  "Vendas": "974",
   "Classe": "Eletrônicos",
-  "Categoria": "Fones",
+  "Categoria": "Smartwatchs",
   "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51MvjUv989L.__AC_SX300_SY300_QL70_ML2_.jpg"
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/41Q9pzch-VL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "QCY HT05 Fone de Ouvido Bluetooth Cancelamento de Ruido, Fone de Ouvido sem Fio, 30 Horas De Reprodução, Branco",
@@ -3129,16 +3173,6 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/41rtNdlBmoL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Samsung Smartwatch Galaxy Watch6 BT 44mm Tela Super AMOLED de 1.47\" Grafite",
-  "Link": "https:\/\/amzn.to\/3XRbB9f",
-  "Preço": "1.166,,83",
-  "Vendas": "974",
-  "Classe": "Eletrônicos",
-  "Categoria": "Smartwatchs",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/41Q9pzch-VL.__AC_SX300_SY300_QL70_ML2_.jpg"
- },
- {
   "Nome do Produto": "Amazfit Relógio inteligente BIP 5 preto",
   "Link": "https:\/\/amzn.to\/4bwrdlK",
   "Preço": "489,,90",
@@ -3149,14 +3183,14 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/61ueYKWLNqL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Smartwatch Samsung Galaxy Fit3 Display 1.6\" Grafite",
-  "Link": "https:\/\/amzn.to\/3RX3hkE",
-  "Preço": "332,,00",
-  "Vendas": "971",
+  "Nome do Produto": "POLAR VANTAGE V2 PRETO",
+  "Link": "https:\/\/amzn.to\/3ydwpwY",
+  "Preço": "1.573,,90",
+  "Vendas": "556",
   "Classe": "Eletrônicos",
   "Categoria": "Smartwatchs",
   "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61o3-pf41tL.__AC_SY300_SX300_QL70_ML2_.jpg"
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51fYFsTJ8GL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Smartband XIAOMI MI BAND 7 PRO (Preto)",
@@ -3169,14 +3203,14 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/51gwWNMJv1L.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "POLAR VANTAGE V2 PRETO",
-  "Link": "https:\/\/amzn.to\/3ydwpwY",
-  "Preço": "1.573,,90",
-  "Vendas": "556",
+  "Nome do Produto": "Smartwatch Samsung Galaxy Fit3 Display 1.6\" Grafite",
+  "Link": "https:\/\/amzn.to\/3RX3hkE",
+  "Preço": "332,,00",
+  "Vendas": "971",
   "Classe": "Eletrônicos",
   "Categoria": "Smartwatchs",
   "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51fYFsTJ8GL.__AC_SX300_SY300_QL70_ML2_.jpg"
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61o3-pf41tL.__AC_SY300_SX300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Smartwatch Xiaomi Redmi Watch 4 Hyper OS M2315W1 Obsidian Black BHR7854GL (Versão Global)",
@@ -3199,16 +3233,6 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/71mTOO-TKUL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "C3Tech Base para Notebook Gamer NBC-70BK ate 15,6\" Preto Com 5 opções de inclinação 6 ventiladores Painel digital para controle iluminação em LED",
-  "Link": "https:\/\/amzn.to\/3UtqX0s",
-  "Preço": "89,,99",
-  "Vendas": "1151",
-  "Classe": "Informática",
-  "Categoria": "Acessórios para PC e Notebooks",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61YBDjd4QJL.__AC_SX300_SY300_QL70_ML2_.jpg"
- },
- {
   "Nome do Produto": "C3Tech Base para Notebook NBC-50BK 15,6\" Refrigerada com 2 Coolers, Led de Iluminacao Azul, Inclinacao Ajustável em 5 niveis, com USB, cor Preta",
   "Link": "https:\/\/amzn.to\/3woKbfz",
   "Preço": "65,,90",
@@ -3217,6 +3241,16 @@
   "Categoria": "Acessórios para PC e Notebooks",
   "Local": "Nacional",
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/51L-D6a7EaL.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
+  "Nome do Produto": "C3Tech Base para Notebook Gamer NBC-70BK ate 15,6\" Preto Com 5 opções de inclinação 6 ventiladores Painel digital para controle iluminação em LED",
+  "Link": "https:\/\/amzn.to\/3UtqX0s",
+  "Preço": "89,,99",
+  "Vendas": "1151",
+  "Classe": "Informática",
+  "Categoria": "Acessórios para PC e Notebooks",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61YBDjd4QJL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "C3Tech Base para notebook Gamer NBC-100BK 17,3\" Refrigerada com 4 Ventiladores Led Azul controle de velocidade dos fans até 6 opções e regulagem de altura em 5 posições",
@@ -3259,16 +3293,6 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/511xtBACGAL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Dell Capa para Notebook Essetial 15,6'' polegadas, preto",
-  "Link": "https:\/\/amzn.to\/3JRT6cI",
-  "Preço": "109,,00",
-  "Vendas": "1881",
-  "Classe": "Informática",
-  "Categoria": "Acessórios para PC e Notebooks",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51uJwgoh2mL.__AC_SX300_SY300_QL70_ML2_.jpg"
- },
- {
   "Nome do Produto": "Expansor Hub Usb 3.0 4 Portas Com Led Super Rápido 5.0 Gbps,( cores variadas )",
   "Link": "https:\/\/amzn.to\/3UtjZIB",
   "Preço": "13,,17",
@@ -3279,14 +3303,14 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/61Md-fDEXkS.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Mesa Portátil Para Notebook Suporte Cama Sofá PO",
-  "Link": "https:\/\/amzn.to\/4aS2lFf",
-  "Preço": "43,,90",
-  "Vendas": "976",
+  "Nome do Produto": "Dell Capa para Notebook Essetial 15,6'' polegadas, preto",
+  "Link": "https:\/\/amzn.to\/3JRT6cI",
+  "Preço": "109,,00",
+  "Vendas": "1881",
   "Classe": "Informática",
   "Categoria": "Acessórios para PC e Notebooks",
   "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/717yMJ7Sy-L.__AC_SX300_SY300_QL70_ML2_.jpg"
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51uJwgoh2mL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Placas de captura de áudio e vídeo Placa de link de cam 4k HDMI para USB 2.0 Grave em filmadora DSLR Câmera de ação Dispositivo de captura de computador para streaming",
@@ -3297,6 +3321,16 @@
   "Categoria": "Acessórios para PC e Notebooks",
   "Local": "Nacional",
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/61vAeBS55NL.__AC_SY300_SX300_QL70_ML2_.jpg"
+ },
+ {
+  "Nome do Produto": "Mesa Portátil Para Notebook Suporte Cama Sofá PO",
+  "Link": "https:\/\/amzn.to\/4aS2lFf",
+  "Preço": "43,,90",
+  "Vendas": "976",
+  "Classe": "Informática",
+  "Categoria": "Acessórios para PC e Notebooks",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/717yMJ7Sy-L.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Suporte Articulado de Mesa com Pistão a Gás e Ajuste de Altura para 2 Monitores de 17” a 35” - F160N",
@@ -3319,6 +3353,26 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/61ZqTo-kwpL.__AC_SY300_SX300_QL70_ML2_.jpg"
  },
  {
+  "Nome do Produto": "Suporte para laptop, suporte para laptop, suporte para computador Riser, suporte de notebook portátil dobrável de alumínio ajustável, compatível com MacBook Air Pro, HP, Lenovo, Dell,",
+  "Link": "https:\/\/amzn.to\/3TRaNh0",
+  "Preço": "23,,19",
+  "Vendas": "11774",
+  "Classe": "Informática",
+  "Categoria": "Acessórios para PC e Notebooks",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/71cnkzw9ORL.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
+  "Nome do Produto": "PC Gamer ITX Arena, Ryzen 5 5600G, Radeon™ Graphics Vega 7, 16GB Ram, SSD 480GB, Gabinete RGB",
+  "Link": "https:\/\/amzn.to\/3JMnoxr",
+  "Preço": "2.399,,00",
+  "Vendas": "508",
+  "Classe": "Informática",
+  "Categoria": "Computadores",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61ATsQLjpsL.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
   "Nome do Produto": "Suporte de Monitor 2 Gavetas, Mdf Preto (Black Piano) - Souza & Cia",
   "Link": "https:\/\/amzn.to\/3vShfMH",
   "Preço": "78,,90",
@@ -3327,6 +3381,16 @@
   "Categoria": "Acessórios para PC e Notebooks",
   "Local": "Nacional",
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/610v+0GgDZL._AC_SY300_SX300_.jpg"
+ },
+ {
+  "Nome do Produto": "Computador Intel Core I5 8gb 240gb Ssd. Total",
+  "Link": "https:\/\/amzn.to\/3X18ESQ",
+  "Preço": "585,,00",
+  "Vendas": "497",
+  "Classe": "Informática",
+  "Categoria": "Computadores",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51WiCpYhTnL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Suporte Uptable OCTOO, Preto",
@@ -3339,14 +3403,24 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/51NM5D1VN+L._AC_SX300_SY300_.jpg"
  },
  {
-  "Nome do Produto": "Suporte para laptop, suporte para laptop, suporte para computador Riser, suporte de notebook portátil dobrável de alumínio ajustável, compatível com MacBook Air Pro, HP, Lenovo, Dell,",
-  "Link": "https:\/\/amzn.to\/3TRaNh0",
-  "Preço": "23,,19",
-  "Vendas": "11774",
+  "Nome do Produto": "Pc Cpu Intel Core I5 3º3470 3,2ghz+8gbram+ssd 240gb",
+  "Link": "https:\/\/amzn.to\/4cjUws0",
+  "Preço": "679,,99",
+  "Vendas": "991",
   "Classe": "Informática",
-  "Categoria": "Acessórios para PC e Notebooks",
+  "Categoria": "Computadores",
   "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/71cnkzw9ORL.__AC_SX300_SY300_QL70_ML2_.jpg"
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51ADsKwewBL.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
+  "Nome do Produto": "PC GAMER AMD RYZEN 5 5600G 16GB (RADEON VEGA 7 INTEGRADO) SSD 480GB, 500W 80 PLUS, NEOLOGIC - NLI84302",
+  "Link": "https:\/\/amzn.to\/3WV5WOz",
+  "Preço": "2.317,,00",
+  "Vendas": "77",
+  "Classe": "Informática",
+  "Categoria": "Computadores",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61vtqwiaSXL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Computador Intel Core I5 8gb 240gb Ssd. Total",
@@ -3367,46 +3441,6 @@
   "Categoria": "Computadores",
   "Local": "Nacional",
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/51W68MUbkHL.__AC_SX300_SY300_QL70_ML2_.jpg"
- },
- {
-  "Nome do Produto": "PC Gamer ITX Arena, Ryzen 5 5600G, Radeon™ Graphics Vega 7, 16GB Ram, SSD 480GB, Gabinete RGB",
-  "Link": "https:\/\/amzn.to\/3JMnoxr",
-  "Preço": "2.399,,00",
-  "Vendas": "508",
-  "Classe": "Informática",
-  "Categoria": "Computadores",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61ATsQLjpsL.__AC_SX300_SY300_QL70_ML2_.jpg"
- },
- {
-  "Nome do Produto": "Computador Intel Core I5 8gb 240gb Ssd. Total",
-  "Link": "https:\/\/amzn.to\/3X18ESQ",
-  "Preço": "585,,00",
-  "Vendas": "497",
-  "Classe": "Informática",
-  "Categoria": "Computadores",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51WiCpYhTnL.__AC_SX300_SY300_QL70_ML2_.jpg"
- },
- {
-  "Nome do Produto": "PC GAMER AMD RYZEN 5 5600G 16GB (RADEON VEGA 7 INTEGRADO) SSD 480GB, 500W 80 PLUS, NEOLOGIC - NLI84302",
-  "Link": "https:\/\/amzn.to\/3WV5WOz",
-  "Preço": "2.317,,00",
-  "Vendas": "77",
-  "Classe": "Informática",
-  "Categoria": "Computadores",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61vtqwiaSXL.__AC_SX300_SY300_QL70_ML2_.jpg"
- },
- {
-  "Nome do Produto": "Pc Cpu Intel Core I5 3º3470 3,2ghz+8gbram+ssd 240gb",
-  "Link": "https:\/\/amzn.to\/4cjUws0",
-  "Preço": "679,,99",
-  "Vendas": "991",
-  "Classe": "Informática",
-  "Categoria": "Computadores",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51ADsKwewBL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Desktop Lenovo Legion T5 Intel i7-13700F 16GB 512GB SSD NVIDIA GeForce RTX3060 Windows Home 90UT0018BP",
@@ -3448,14 +3482,14 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/71sV-QnV8TL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Headphone Philips bluetooth on-ear com microfone e energia para 15 horas na cor preto TAH1108BK\/55",
-  "Link": "https:\/\/amzn.to\/3RTXoEu",
-  "Preço": "95,,90",
-  "Vendas": "8314",
+  "Nome do Produto": "Headset Gamer P2 Preto\/Verde Multi - PH123",
+  "Link": "https:\/\/amzn.to\/3JQXOHx",
+  "Preço": "74,,90",
+  "Vendas": "1827",
   "Classe": "Informática",
   "Categoria": "Headset",
   "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/91iWZmXLOAL.__AC_SY300_SX300_QL70_ML2_.jpg"
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/41jTR5wnBNL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Headset Sem Fio Gamer HyperX Cloud Stinger Core 7.1 -HHSS1C-BA-BK\/G",
@@ -3468,24 +3502,14 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/41dOjaGvwbS.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Headset Gamer P2 Preto\/Verde Multi - PH123",
-  "Link": "https:\/\/amzn.to\/3JQXOHx",
-  "Preço": "74,,90",
-  "Vendas": "1827",
+  "Nome do Produto": "Headphone Philips bluetooth on-ear com microfone e energia para 15 horas na cor preto TAH1108BK\/55",
+  "Link": "https:\/\/amzn.to\/3RTXoEu",
+  "Preço": "95,,90",
+  "Vendas": "8314",
   "Classe": "Informática",
   "Categoria": "Headset",
   "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/41jTR5wnBNL.__AC_SX300_SY300_QL70_ML2_.jpg"
- },
- {
-  "Nome do Produto": "Headset Gamer, Headphone, fone de ouvido com microfone AOC GH100 Driver 50 mm, Multiplataforma, LED.",
-  "Link": "https:\/\/amzn.to\/3JRpAUa",
-  "Preço": "74,,11",
-  "Vendas": "1315",
-  "Classe": "Informática",
-  "Categoria": "Headset",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51n7xO1YlOL.__AC_SX300_SY300_QL70_ML2_.jpg"
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/91iWZmXLOAL.__AC_SY300_SX300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "QCY H3 ANC Fone de Ouvido Bluetooth, Headphone com Cancelamento de Ruido, Hi-Res Audio, 60 horas Reprodução, Preto",
@@ -3498,6 +3522,16 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/61LRJL3l2fL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
+  "Nome do Produto": "Headset Gamer, Headphone, fone de ouvido com microfone AOC GH100 Driver 50 mm, Multiplataforma, LED.",
+  "Link": "https:\/\/amzn.to\/3JRpAUa",
+  "Preço": "74,,11",
+  "Vendas": "1315",
+  "Classe": "Informática",
+  "Categoria": "Headset",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51n7xO1YlOL.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
   "Nome do Produto": "WAAW By Alok Fone de Ouvido Headphone com Fio, Microfone Integrado, Assistentes de voz, Dobrável, Over Ear 32ohms WAAW SENSE 100HW",
   "Link": "https:\/\/amzn.to\/3QAeeId",
   "Preço": "89,,25",
@@ -3506,26 +3540,6 @@
   "Categoria": "Headset",
   "Local": "Nacional",
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/71oLfYjEDRL.__AC_SX300_SY300_QL70_ML2_.jpg"
- },
- {
-  "Nome do Produto": "Mouse Pad Gamer Iluminado led Rgb Grande 80 cm por 30 com Mousepad gamer Led com em volta superficie speed para jogos",
-  "Link": "https:\/\/amzn.to\/3UOHLAe",
-  "Preço": "50,,36",
-  "Vendas": "4100",
-  "Classe": "Informática",
-  "Categoria": "Mousepad",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/81lHWGeWtGL.__AC_SX300_SY300_QL70_ML2_.jpg"
- },
- {
-  "Nome do Produto": "Havit HV-MP830 - Mouse Pad Professional Gaming, 30x90 cm",
-  "Link": "https:\/\/amzn.to\/44yun6x",
-  "Preço": "34,,99",
-  "Vendas": "27834",
-  "Classe": "Informática",
-  "Categoria": "Mousepad",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/31VsRBgen0L.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Mouse Pad Gamer Extra Grande 700x350x3mm Bordas Costuradas e Base Antiderrapante Exbom MP7035C Mapa Mundi",
@@ -3538,6 +3552,26 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/61JAf2KBG4L.__AC_SY300_SX300_QL70_ML2_.jpg"
  },
  {
+  "Nome do Produto": "Havit HV-MP830 - Mouse Pad Professional Gaming, 30x90 cm",
+  "Link": "https:\/\/amzn.to\/44yun6x",
+  "Preço": "34,,99",
+  "Vendas": "27834",
+  "Classe": "Informática",
+  "Categoria": "Mousepad",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/31VsRBgen0L.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
+  "Nome do Produto": "Mouse Pad Gamer Iluminado led Rgb Grande 80 cm por 30 com Mousepad gamer Led com em volta superficie speed para jogos",
+  "Link": "https:\/\/amzn.to\/3UOHLAe",
+  "Preço": "50,,36",
+  "Vendas": "4100",
+  "Classe": "Informática",
+  "Categoria": "Mousepad",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/81lHWGeWtGL.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
   "Nome do Produto": "Mouse Pad Gamer Speed MPG-101 Azul Fortrek",
   "Link": "https:\/\/amzn.to\/4bcVDKA",
   "Preço": "18,,00",
@@ -3546,16 +3580,6 @@
   "Categoria": "Mousepad",
   "Local": "Nacional",
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/81yZKnXyaiL.__AC_SX300_SY300_QL70_ML2_.jpg"
- },
- {
-  "Nome do Produto": "Mouse Pad Gamer Lenovo Legion, Preto",
-  "Link": "https:\/\/amzn.to\/3YGHK3E",
-  "Preço": "39,,00",
-  "Vendas": "1312",
-  "Classe": "Informática",
-  "Categoria": "Mousepad",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/31z3LIaxVrL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Havit HV-MP830 - Mouse Pad Professional Gaming, 30x90 cm",
@@ -3568,16 +3592,6 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/31VsRBgen0L.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Mouse Pad Grande 70 X 30 Cm Gamer, Havit, Hv-MP861, Preto",
-  "Link": "https:\/\/amzn.to\/3y8jgFn",
-  "Preço": "34,,99",
-  "Vendas": "6892",
-  "Classe": "Informática",
-  "Categoria": "Mousepad",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51YFYzyTHnL.__AC_SX300_SY300_QL70_ML2_.jpg"
- },
- {
   "Nome do Produto": "Mouse Pad Gamer Extra Grande 700x350x3mm Bordas Costuradas e Base Antiderrapante Exbom MP7035C Mapa Mundi",
   "Link": "https:\/\/amzn.to\/4ckyYLK",
   "Preço": "20,,94",
@@ -3588,44 +3602,24 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/61JAf2KBG4L.__AC_SY300_SX300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Mouse Pad Gamer Iluminado led Rgb Grande 80 cm por 30 com Mousepad gamer Led com em volta superficie speed para jogos",
-  "Link": "https:\/\/amzn.to\/4fxTATT",
-  "Preço": "50,,36",
-  "Vendas": "4100",
+  "Nome do Produto": "Mouse Pad Gamer Lenovo Legion, Preto",
+  "Link": "https:\/\/amzn.to\/3YGHK3E",
+  "Preço": "39,,00",
+  "Vendas": "1312",
   "Classe": "Informática",
   "Categoria": "Mousepad",
   "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/81lHWGeWtGL.__AC_SX300_SY300_QL70_ML2_.jpg"
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/31z3LIaxVrL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Mouse pad para jogos RGB, UtechSmart Mouse pad grande estendido macio com 14 modos de iluminação, 2 níveis de brilho, mousepads para teclado de computador 800 x 300 mm \/ 31,5 × 11,8 polegadas",
-  "Link": "https:\/\/amzn.to\/4fBT7jr",
-  "Preço": "33,,90",
-  "Vendas": "21479",
+  "Nome do Produto": "Mouse Pad Grande 70 X 30 Cm Gamer, Havit, Hv-MP861, Preto",
+  "Link": "https:\/\/amzn.to\/3y8jgFn",
+  "Preço": "34,,99",
+  "Vendas": "6892",
   "Classe": "Informática",
   "Categoria": "Mousepad",
   "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51tUuGl-qkL.__AC_SY300_SX300_QL70_ML2_.jpg"
- },
- {
-  "Nome do Produto": "Mouse Pad Grande 70 X 30 Cm Gamer, Havit, Hv-MP860, Preto",
-  "Link": "https:\/\/amzn.to\/4fASEht",
-  "Preço": "34,,30",
-  "Vendas": "7136",
-  "Classe": "Informática",
-  "Categoria": "Mousepad",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/71wMVHdtIuL.__AC_SY300_SX300_QL70_ML2_.jpg"
- },
- {
-  "Nome do Produto": "Mouse Pad Gamer Lenovo Legion Extra Grande, Preto",
-  "Link": "https:\/\/amzn.to\/3X18vig",
-  "Preço": "109,,00",
-  "Vendas": "1430",
-  "Classe": "Informática",
-  "Categoria": "Mousepad",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/41Uq8N9W0AL.__AC_SX300_SY300_QL70_ML2_.jpg"
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51YFYzyTHnL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Mousepad Gamer Extra Grande 90 x 40 cm Com Base Emborrachada - Preto",
@@ -3638,14 +3632,44 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/519JP8julQL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Multilaser MO251 - Mouse Sem Fio 2.4 Ghz 1200 DPI Usb, Preto, normal",
-  "Link": "https:\/\/amzn.to\/45SORYf",
-  "Preço": "19,,90",
-  "Vendas": "37945",
+  "Nome do Produto": "Mouse Pad Gamer Iluminado led Rgb Grande 80 cm por 30 com Mousepad gamer Led com em volta superficie speed para jogos",
+  "Link": "https:\/\/amzn.to\/4fxTATT",
+  "Preço": "50,,36",
+  "Vendas": "4100",
   "Classe": "Informática",
-  "Categoria": "Mouses",
+  "Categoria": "Mousepad",
   "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61-CUx4VelL.__AC_SX300_SY300_QL70_ML2_.jpg"
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/81lHWGeWtGL.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
+  "Nome do Produto": "Mouse Pad Grande 70 X 30 Cm Gamer, Havit, Hv-MP860, Preto",
+  "Link": "https:\/\/amzn.to\/4fASEht",
+  "Preço": "34,,30",
+  "Vendas": "7136",
+  "Classe": "Informática",
+  "Categoria": "Mousepad",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/71wMVHdtIuL.__AC_SY300_SX300_QL70_ML2_.jpg"
+ },
+ {
+  "Nome do Produto": "Mouse pad para jogos RGB, UtechSmart Mouse pad grande estendido macio com 14 modos de iluminação, 2 níveis de brilho, mousepads para teclado de computador 800 x 300 mm \/ 31,5 × 11,8 polegadas",
+  "Link": "https:\/\/amzn.to\/4fBT7jr",
+  "Preço": "33,,90",
+  "Vendas": "21479",
+  "Classe": "Informática",
+  "Categoria": "Mousepad",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51tUuGl-qkL.__AC_SY300_SX300_QL70_ML2_.jpg"
+ },
+ {
+  "Nome do Produto": "Combo Teclado e Mouse sem fio Logitech MK235 com Conexão USB, Pilhas Inclusas e Layout ABNT2",
+  "Link": "https:\/\/amzn.to\/3Lbrsb0",
+  "Preço": "133,,20",
+  "Vendas": "17035",
+  "Classe": "Informática",
+  "Categoria": "Mouses ",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61vdNn+737L._AC_SY300_SX300_.jpg"
  },
  {
   "Nome do Produto": "HyperX Pulsefire Core Mouse para Jogos, Preto, Até 6200 dpi",
@@ -3658,6 +3682,16 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/61-fpVt1cYL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
+  "Nome do Produto": "Mouse Pad Gamer Lenovo Legion Extra Grande, Preto",
+  "Link": "https:\/\/amzn.to\/3X18vig",
+  "Preço": "109,,00",
+  "Vendas": "1430",
+  "Classe": "Informática",
+  "Categoria": "Mousepad",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/41Uq8N9W0AL.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
   "Nome do Produto": "Mouse Gamer HyperX Pulsefire Haste RGB, 16000 DPI - HMSH1-A-BK\/G",
   "Link": "https:\/\/amzn.to\/4b6nvQq",
   "Preço": "171,,23",
@@ -3666,16 +3700,6 @@
   "Categoria": "Mouses ",
   "Local": "Nacional",
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/61nKxSAAVFL.__AC_SX300_SY300_QL70_ML2_.jpg"
- },
- {
-  "Nome do Produto": "Combo Teclado e Mouse sem fio Logitech MK235 com Conexão USB, Pilhas Inclusas e Layout ABNT2",
-  "Link": "https:\/\/amzn.to\/3Lbrsb0",
-  "Preço": "133,,20",
-  "Vendas": "17035",
-  "Classe": "Informática",
-  "Categoria": "Mouses ",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61vdNn+737L._AC_SY300_SX300_.jpg"
  },
  {
   "Nome do Produto": "MOUSE GAMER SEM FIO HYPERX HASTE 6 BOTOES PRETO",
@@ -3696,6 +3720,16 @@
   "Categoria": "Notebooks",
   "Local": "Nacional",
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/41J9j6iVDvS.__AC_SY445_SX342_QL70_ML2_.jpg"
+ },
+ {
+  "Nome do Produto": "Multilaser MO251 - Mouse Sem Fio 2.4 Ghz 1200 DPI Usb, Preto, normal",
+  "Link": "https:\/\/amzn.to\/45SORYf",
+  "Preço": "19,,90",
+  "Vendas": "37945",
+  "Classe": "Informática",
+  "Categoria": "Mouses",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61-CUx4VelL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Lenovo 82MG0009BR - Notebook ideapad Gaming 3i, i5-11300H, 8GB, 512GB SSD Dedicada GTX 1650 4GB 15.6\" FHD WVA W11, Preto",
@@ -3758,6 +3792,15 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/71IelM5QjjL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
+  "Nome do Produto": "otebook Gamer Acer Nitro V15 15.6 FHD 144Hz I5-13420H SSD 512GB 8GB DDR5 RTX 2050 4GB ANV15-51-50KD",
+  "Link": "https:\/\/amzn.to\/3SHMsdI",
+  "Preço": "4.349,,90",
+  "Classe": "Informática",
+  "Categoria": "Notebooks",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/613PZt698DL.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
   "Nome do Produto": "Notebook ASUS TUF Gaming F15, NVIDIA RTX3050, Intel Core I5, 8GB, 512GB, KeepOS, Tela de 15,6\", Cinza - FX507ZC4-HN100",
   "Link": "https:\/\/amzn.to\/46Gdec6",
   "Preço": "5.357,,06",
@@ -3768,13 +3811,24 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/71zxWLbeYYL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "otebook Gamer Acer Nitro V15 15.6 FHD 144Hz I5-13420H SSD 512GB 8GB DDR5 RTX 2050 4GB ANV15-51-50KD",
-  "Link": "https:\/\/amzn.to\/3SHMsdI",
-  "Preço": "4.349,,90",
+  "Nome do Produto": "Notebook Acer Aspire5 A515-45-R36L AMD Ryzen7 5700U 12GB RAM (AMD Radeon) 512GB SSD 15.6” LED IPS Full HD Prata Teclado numérico Independente Linux Gutta",
+  "Link": "https:\/\/amzn.to\/3SHpCmq",
+  "Preço": "3.000,,89",
+  "Vendas": "141",
   "Classe": "Informática",
   "Categoria": "Notebooks",
   "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/613PZt698DL.__AC_SX300_SY300_QL70_ML2_.jpg"
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51f+8DD2VbL._AC_SY300_SX300_.jpg"
+ },
+ {
+  "Nome do Produto": "Notebook Samsung Galaxy Book Go, Windows 11 Home, 4GB, 128GB UFS, 14'' Full HD LED, 1.38kg",
+  "Link": "https:\/\/amzn.to\/3YEelHj",
+  "Preço": "1.949,,00",
+  "Vendas": "516",
+  "Classe": "Informática",
+  "Categoria": "Notebooks",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51WLQOhXRoL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Notebook Lenovo Ideapad 1i i5-1235U 8GB 512GB SSD 15.6\" W11",
@@ -3785,16 +3839,6 @@
   "Categoria": "Notebooks",
   "Local": "Nacional",
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/51Ri6f37FRL.__AC_SX300_SY300_QL70_ML2_.jpg"
- },
- {
-  "Nome do Produto": "Notebook Acer Aspire5 A515-45-R36L AMD Ryzen7 5700U 12GB RAM (AMD Radeon) 512GB SSD 15.6” LED IPS Full HD Prata Teclado numérico Independente Linux Gutta",
-  "Link": "https:\/\/amzn.to\/3SHpCmq",
-  "Preço": "3.000,,89",
-  "Vendas": "141",
-  "Classe": "Informática",
-  "Categoria": "Notebooks",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51f+8DD2VbL._AC_SY300_SX300_.jpg"
  },
  {
   "Nome do Produto": "Notebook Gamer Legion Slim 5 Intel Core i5-13420H 16GB 512GB RTX 3050 6GB W11 16\" WQXGA 83D60003BR",
@@ -3817,16 +3861,6 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/51gEkEbXrHL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Notebook Samsung Galaxy Book Go, Windows 11 Home, 4GB, 128GB UFS, 14'' Full HD LED, 1.38kg",
-  "Link": "https:\/\/amzn.to\/3YEelHj",
-  "Preço": "1.949,,00",
-  "Vendas": "516",
-  "Classe": "Informática",
-  "Categoria": "Notebooks",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51WLQOhXRoL.__AC_SX300_SY300_QL70_ML2_.jpg"
- },
- {
   "Nome do Produto": "Intel Core i5-13400F 2.5GHz (4.6 Turbo) 10 Core LGA 1700 Processador para Desktop (Raptor Lake)",
   "Link": "https:\/\/amzn.to\/3UOQ5zV",
   "Preço": "1.288,,88",
@@ -3845,16 +3879,6 @@
   "Categoria": "Peças para PC e Notebooks",
   "Local": "Nacional",
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/71oz85Vv6mL.__AC_SY300_SX300_QL70_ML2_.jpg"
- },
- {
-  "Nome do Produto": "KF432S20IB\/8 - Memória 8GB SODIMM DDR4 3200Mhz FURY Impact 1,35V 1Rx8 260 pinos para notebook, Preto",
-  "Link": "https:\/\/amzn.to\/3JNkc4u",
-  "Preço": "175,,00",
-  "Vendas": "2173",
-  "Classe": "Informática",
-  "Categoria": "Peças para PC e Notebooks",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61Ro+Ua5hKS._AC_SX300_SY300_.jpg"
  },
  {
   "Nome do Produto": "Kingston, Memória 8GB 3200MHz DDR4 CL22 SODIMM KVR32S22S6\/8",
@@ -3877,14 +3901,14 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/619I38ZjbDL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Memória Notebook Crucial 8GB DDR4 3200 Mhz",
-  "Link": "https:\/\/amzn.to\/3ycDkqg",
-  "Preço": "130,,90",
-  "Vendas": "74857",
+  "Nome do Produto": "KF432S20IB\/8 - Memória 8GB SODIMM DDR4 3200Mhz FURY Impact 1,35V 1Rx8 260 pinos para notebook, Preto",
+  "Link": "https:\/\/amzn.to\/3JNkc4u",
+  "Preço": "175,,00",
+  "Vendas": "2173",
   "Classe": "Informática",
   "Categoria": "Peças para PC e Notebooks",
   "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61kUAiJQK-L.__AC_SX300_SY300_QL70_ML2_.jpg"
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61Ro+Ua5hKS._AC_SX300_SY300_.jpg"
  },
  {
   "Nome do Produto": "Pasta Térmica Alto Desempenho Snowdog Husky 12,8w\/m.k 3g",
@@ -3907,6 +3931,16 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/51A6E9HPocL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
+  "Nome do Produto": "Memória Notebook Crucial 8GB DDR4 3200 Mhz",
+  "Link": "https:\/\/amzn.to\/3ycDkqg",
+  "Preço": "130,,90",
+  "Vendas": "74857",
+  "Classe": "Informática",
+  "Categoria": "Peças para PC e Notebooks",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61kUAiJQK-L.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
   "Nome do Produto": "PROCESSADOR AMD RYZEN 7 5700X 3.4GHz (TURBO 4.6GHz) 32MB CACHE AM4 100-100000926WOF, Cerâmica cinza",
   "Link": "https:\/\/amzn.to\/3UMWXxP",
   "Preço": "1.229,,00",
@@ -3927,16 +3961,6 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/71ecOJDxBSS.__AC_SY300_SX300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Dell - KM3322W, Teclado e Mouse sem fio, Preto",
-  "Link": "https:\/\/amzn.to\/3QAdouG",
-  "Preço": "141,,16",
-  "Vendas": "3308",
-  "Classe": "Informática",
-  "Categoria": "Teclado",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51IPtedWrsL.__AC_SX300_SY300_QL70_ML2_.jpg"
- },
- {
   "Nome do Produto": "Kit Gamer Teclado Semi Mecanico Gamer Iluminado, Mouse Gamer Com Led USB 3200DPI, 7 Botões",
   "Link": "https:\/\/amzn.to\/3ygxyUg",
   "Preço": "67,,00",
@@ -3947,14 +3971,24 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/71FkawjLUDL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Hyper X, TECLADO MECANICO HYPERX ALLOY ORIGINS 60, Preto com iluminação RGB, HKBO1S-RB-US\/G",
-  "Link": "https:\/\/amzn.to\/4b4P2BP",
-  "Preço": "595,,28",
-  "Vendas": "2533",
+  "Nome do Produto": "Roku Express | Dispositivo de streaming para TV HD\/Full HD compatível com Alexa, Siri e Google. Inclui Cabo HDMI Premium",
+  "Link": "https:\/\/amzn.to\/3ArBVwO",
+  "Preço": "183,,36",
+  "Vendas": "787",
+  "Classe": "Smart TV e dispositivos",
+  "Categoria": "Dispositivos",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/71ls0w+LdGL._AC_SY300_SX300_.jpg"
+ },
+ {
+  "Nome do Produto": "Dell - KM3322W, Teclado e Mouse sem fio, Preto",
+  "Link": "https:\/\/amzn.to\/3QAdouG",
+  "Preço": "141,,16",
+  "Vendas": "3308",
   "Classe": "Informática",
   "Categoria": "Teclado",
   "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/71HV-xAiyML.__AC_SX300_SY300_QL70_ML2_.jpg"
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51IPtedWrsL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Teclado sem fio Logitech MX Keys Mini com Iluminação Inteligente, Conexão USB ou Bluetooth Easy-Switch para até 3 dispositivos e Bateria Recarregável - Grafite",
@@ -3965,16 +3999,6 @@
   "Categoria": "Teclado",
   "Local": "Nacional",
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/71Ah3jH993L.__AC_SX300_SY300_QL70_ML2_.jpg"
- },
- {
-  "Nome do Produto": "Roku Express | Dispositivo de streaming para TV HD\/Full HD compatível com Alexa, Siri e Google. Inclui Cabo HDMI Premium",
-  "Link": "https:\/\/amzn.to\/3ArBVwO",
-  "Preço": "183,,36",
-  "Vendas": "787",
-  "Classe": "Smart TV e dispositivos",
-  "Categoria": "Dispositivos",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/71ls0w+LdGL._AC_SY300_SX300_.jpg"
  },
  {
   "Nome do Produto": "Fire TV Stick Lite | Streaming em Full HD com Alexa | Com Controle Remoto Lite por Voz com Alexa (sem controles de TV)",
@@ -3997,16 +4021,6 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/61+J5+SRkuL._AC_SY300_SX300_.jpg"
  },
  {
-  "Nome do Produto": "Samsung Smart TV LED 32\" HD LS32BETBL - Wifi, HDMI, USB",
-  "Link": "https:\/\/amzn.to\/3WGR5pr",
-  "Preço": "1.097,,00",
-  "Vendas": "327",
-  "Classe": "Smart Tv e dispositivos",
-  "Categoria": "Smart TV",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/916Ts4fDi5L.__AC_SY300_SX300_QL70_ML2_.jpg"
- },
- {
   "Nome do Produto": "Smart TV 43\" 4K LG UHD ThinQ AI 43UR7800PSA HDR Bluetooth Alexa Google Assistente Airplay2 3 HDMI",
   "Link": "https:\/\/amzn.to\/3YGcFgI",
   "Preço": "1.939,,47",
@@ -4017,14 +4031,24 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/61cz2Iaku4L.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Smart TV 24” Philco PTV24G5YR2CP Roku TV Dolby Audio",
-  "Link": "https:\/\/amzn.to\/3YC2aLa",
-  "Preço": "704,,65",
-  "Vendas": "17",
+  "Nome do Produto": "Samsung Smart TV LED 32\" HD LS32BETBL - Wifi, HDMI, USB",
+  "Link": "https:\/\/amzn.to\/3WGR5pr",
+  "Preço": "1.097,,00",
+  "Vendas": "327",
   "Classe": "Smart Tv e dispositivos",
   "Categoria": "Smart TV",
   "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/41Z3RTy-NgL.__AC_SX300_SY300_QL70_ML2_.jpg"
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/916Ts4fDi5L.__AC_SY300_SX300_QL70_ML2_.jpg"
+ },
+ {
+  "Nome do Produto": "Hyper X, TECLADO MECANICO HYPERX ALLOY ORIGINS 60, Preto com iluminação RGB, HKBO1S-RB-US\/G",
+  "Link": "https:\/\/amzn.to\/4b4P2BP",
+  "Preço": "595,,28",
+  "Vendas": "2533",
+  "Classe": "Informática",
+  "Categoria": "Teclado",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/71HV-xAiyML.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Fast Smart TV Philco 32” PTV32G7PR2CSBLH Dolby Audio Led Bivolt",
@@ -4037,14 +4061,14 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/61PohabQpGL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Samsung Smart TV 43\" UHD 4K 43DU7700 - Processador Crystal 4K, Gaming Hub",
-  "Link": "https:\/\/amzn.to\/3yCkxoH",
-  "Preço": "2.049,,00",
-  "Vendas": "91",
+  "Nome do Produto": "2021 Smart TV LG 43\" Full HD 43LM6370 WiFi Bluetooth HDR ThinQAI compatível com Inteligência Artificial",
+  "Link": "https:\/\/amzn.to\/4cgwTAx",
+  "Preço": "1.879,,06",
+  "Vendas": "725",
   "Classe": "Smart Tv e dispositivos",
   "Categoria": "Smart TV",
   "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51lElwjJUeL.__AC_SX300_SY300_QL70_ML2_.jpg"
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61qCaCvrxdL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Smart TV LED 32\" HD AOC 32S5135\/78G - Design sem bordas, Wifi, Conversor Digital, USB, HDMI",
@@ -4057,14 +4081,24 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/713gsa8hdpL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "2021 Smart TV LG 43\" Full HD 43LM6370 WiFi Bluetooth HDR ThinQAI compatível com Inteligência Artificial",
-  "Link": "https:\/\/amzn.to\/4cgwTAx",
-  "Preço": "1.879,,06",
-  "Vendas": "725",
+  "Nome do Produto": "Smart TV 24” Philco PTV24G5YR2CP Roku TV Dolby Audio",
+  "Link": "https:\/\/amzn.to\/3YC2aLa",
+  "Preço": "704,,65",
+  "Vendas": "17",
   "Classe": "Smart Tv e dispositivos",
   "Categoria": "Smart TV",
   "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61qCaCvrxdL.__AC_SX300_SY300_QL70_ML2_.jpg"
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/41Z3RTy-NgL.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
+  "Nome do Produto": "Samsung Smart TV 43\" UHD 4K 43DU7700 - Processador Crystal 4K, Gaming Hub",
+  "Link": "https:\/\/amzn.to\/3yCkxoH",
+  "Preço": "2.049,,00",
+  "Vendas": "91",
+  "Classe": "Smart Tv e dispositivos",
+  "Categoria": "Smart TV",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51lElwjJUeL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Apple iPhone 11 (64 GB) Preto",
@@ -4077,6 +4111,16 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/71iO2R+CLjL._AC_SX342_SY445_.jpg"
  },
  {
+  "Nome do Produto": "Apple iPhone 12 (64 GB) - Branco",
+  "Link": "https:\/\/amzn.to\/3WIGZo6",
+  "Preço": "2.999,,00",
+  "Vendas": "8694",
+  "Classe": "Smart Tv e dispositivos",
+  "Categoria": "Smart TV",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/41slQ93jLZL.__AC_SY445_SX342_QL70_ML2_.jpg"
+ },
+ {
   "Nome do Produto": "Apple iPhone 15 Pro Max (512 GB) — Titânio natural",
   "Link": "https:\/\/amzn.to\/3AfRsjf",
   "Vendas": "397",
@@ -4084,26 +4128,6 @@
   "Categoria": "Smart TV",
   "Local": "Nacional",
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/81YSmKnlijL.__AC_SY445_SX342_QL70_ML2_.jpg"
- },
- {
-  "Nome do Produto": "Apple iPhone 15 Pro (128 GB) — Titânio natural",
-  "Link": "https:\/\/amzn.to\/3AjnBXh",
-  "Preço": "7.299,,00",
-  "Vendas": "265",
-  "Classe": "Smart Tv e dispositivos",
-  "Categoria": "Smart TV",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/81gTH9iEn+L._AC_SX342_SY445_.jpg"
- },
- {
-  "Nome do Produto": "Samsung Smart TV OLED 55\" 4K UHD 55S90C - Alexa built in, Processador com IA, Painel de Pontos Quanticos",
-  "Link": "https:\/\/amzn.to\/3WXedBp",
-  "Preço": "5.795,,78",
-  "Vendas": "111",
-  "Classe": "Smart Tv e dispositivos",
-  "Categoria": "Smart TV",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61oiiGulDPL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Samsung Smart TV 65\" QLED 4K 65Q60D - Tecnologia de Pontos Quânticos, Design AirSlim, Gaming Hub",
@@ -4116,14 +4140,14 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/71JlrHZtEeL.__AC_SY300_SX300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Apple iPhone 12 (64 GB) - Branco",
-  "Link": "https:\/\/amzn.to\/3WIGZo6",
-  "Preço": "2.999,,00",
-  "Vendas": "8694",
+  "Nome do Produto": "Samsung Smart TV OLED 55\" 4K UHD 55S90C - Alexa built in, Processador com IA, Painel de Pontos Quanticos",
+  "Link": "https:\/\/amzn.to\/3WXedBp",
+  "Preço": "5.795,,78",
+  "Vendas": "111",
   "Classe": "Smart Tv e dispositivos",
   "Categoria": "Smart TV",
   "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/41slQ93jLZL.__AC_SY445_SX342_QL70_ML2_.jpg"
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61oiiGulDPL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "iPad da Apple (10a geração): Com chip A14 Bionic, tela Liquid Retina de 10,9 polegadas, 64 GB Wi-Fi 6 + rede celular 5G, câmera frontal de 12 MP, câmera traseira de 12 MP, Touch ID – Prateado",
@@ -4136,14 +4160,14 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/41pCFSDVeBL.__AC_SY445_SX342_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Apple iPhone 14 (128 GB) – Estelar",
-  "Link": "https:\/\/amzn.to\/3XWd1z5",
-  "Preço": "4.310,,00",
-  "Vendas": "7358",
-  "Classe": "Smartphones e Tablets",
-  "Categoria": "Apple",
+  "Nome do Produto": "Apple iPhone 15 Pro (128 GB) — Titânio natural",
+  "Link": "https:\/\/amzn.to\/3AjnBXh",
+  "Preço": "7.299,,00",
+  "Vendas": "265",
+  "Classe": "Smart Tv e dispositivos",
+  "Categoria": "Smart TV",
   "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/41t1UNX2zHL.__AC_SY445_SX342_QL70_ML2_.jpg"
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/81gTH9iEn+L._AC_SX342_SY445_.jpg"
  },
  {
   "Nome do Produto": "iPad da Apple (9a geração): Com chip A13 Bionic, tela Retina de 10,2 polegadas, 64 GB Wi-Fi, câmera frontal de 12 MP, câmera traseira de 8 MP, Touch ID, Prateado",
@@ -4164,34 +4188,14 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/41-iKVywQBL.__AC_SY445_SX342_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Samsung Cabo USB tipo C EP-DA705BBEGWW para USB tipo C, 1 m, 60 W, preto",
-  "Link": "https:\/\/amzn.to\/4bukzN4",
-  "Preço": "35,,36",
-  "Vendas": "6497",
+  "Nome do Produto": "Apple iPhone 14 (128 GB) – Estelar",
+  "Link": "https:\/\/amzn.to\/3XWd1z5",
+  "Preço": "4.310,,00",
+  "Vendas": "7358",
   "Classe": "Smartphones e Tablets",
-  "Categoria": "Cabo de dados",
+  "Categoria": "Apple",
   "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/41LfjIrxUnL.__AC_SY300_SX300_QL70_ML2_.jpg"
- },
- {
-  "Nome do Produto": "Carregador sem fio, estação de carregamento sem fio ANYLINCON 3 em 1 para iPhone\/iWatch\/Airpods, iPhone15 14,13,12,11 (Pro, Pro Max)\/XS\/XR\/XS\/X\/8(Plus), iWatch 7\/6\/SE\/5\/4\/3\/2, AirPods 3\/2\/pro",
-  "Link": "https:\/\/amzn.to\/3ArW1Hf",
-  "Preço": "129,,90",
-  "Vendas": "4351",
-  "Classe": "Smartphones e Tablets",
-  "Categoria": "Carregador",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61K+GuIYZWL._AC_SY300_SX300_.jpg"
- },
- {
-  "Nome do Produto": "Geonav Power Bank, Carregador Portátil Universal 12.000 mAh, 2 Saídas USB + 1 Saída USB-C, PB12KMB, Azul Marinho",
-  "Link": "https:\/\/amzn.to\/4diH3SB",
-  "Preço": "114,,43",
-  "Vendas": "5232",
-  "Classe": "Smartphones e Tablets",
-  "Categoria": "Carregador",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61YVLVn6FbL.__AC_SX300_SY300_QL70_ML2_.jpg"
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/41t1UNX2zHL.__AC_SY445_SX342_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Carregador Sem Fio Fast Charge I2GO 10W Chumbo - I2GO PRO Preto",
@@ -4214,14 +4218,24 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/41xKGeG-xPL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Fire TV Stick | Streaming em Full HD com Alexa | Com Controle Remoto por Voz com Alexa (inclui comandos de TV)",
-  "Link": "https:\/\/amzn.to\/3SK0GLc",
-  "Preço": "119,,00",
-  "Vendas": "105951",
+  "Nome do Produto": "Carregador sem fio, estação de carregamento sem fio ANYLINCON 3 em 1 para iPhone\/iWatch\/Airpods, iPhone15 14,13,12,11 (Pro, Pro Max)\/XS\/XR\/XS\/X\/8(Plus), iWatch 7\/6\/SE\/5\/4\/3\/2, AirPods 3\/2\/pro",
+  "Link": "https:\/\/amzn.to\/3ArW1Hf",
+  "Preço": "129,,90",
+  "Vendas": "4351",
   "Classe": "Smartphones e Tablets",
   "Categoria": "Carregador",
   "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61+J5+SRkuL._AC_SY300_SX300_.jpg"
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61K+GuIYZWL._AC_SY300_SX300_.jpg"
+ },
+ {
+  "Nome do Produto": "Samsung Cabo USB tipo C EP-DA705BBEGWW para USB tipo C, 1 m, 60 W, preto",
+  "Link": "https:\/\/amzn.to\/4bukzN4",
+  "Preço": "35,,36",
+  "Vendas": "6497",
+  "Classe": "Smartphones e Tablets",
+  "Categoria": "Cabo de dados",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/41LfjIrxUnL.__AC_SY300_SX300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Carregador Turbo 25W Compativel C\/iPhone 8 Plus X Xr 11 12 13 14 Pro Max Carga Rápida Usb-c Com Cabo Tipo-C LIGTHNING Com Tecnologia PD",
@@ -4234,6 +4248,16 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/51aSm5K75+L._AC_SY300_SX300_.jpg"
  },
  {
+  "Nome do Produto": "Fire TV Stick | Streaming em Full HD com Alexa | Com Controle Remoto por Voz com Alexa (inclui comandos de TV)",
+  "Link": "https:\/\/amzn.to\/3SK0GLc",
+  "Preço": "119,,00",
+  "Vendas": "105951",
+  "Classe": "Smartphones e Tablets",
+  "Categoria": "Carregador",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61+J5+SRkuL._AC_SY300_SX300_.jpg"
+ },
+ {
   "Nome do Produto": "Cabo Usb-C-Lightning + Fonte Carregador 25W Turbo Compatível iPhone X Xr SE 11 12 13 14 Premium LAGUS IMP.",
   "Link": "https:\/\/amzn.to\/4dAcGa7",
   "Preço": "66,,40",
@@ -4242,6 +4266,26 @@
   "Categoria": "Carregador",
   "Local": "Nacional",
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/5166ogGvNYL.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
+  "Nome do Produto": "Geonav Power Bank, Carregador Portátil Universal 12.000 mAh, 2 Saídas USB + 1 Saída USB-C, PB12KMB, Azul Marinho",
+  "Link": "https:\/\/amzn.to\/4diH3SB",
+  "Preço": "114,,43",
+  "Vendas": "5232",
+  "Classe": "Smartphones e Tablets",
+  "Categoria": "Carregador",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61YVLVn6FbL.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
+  "Nome do Produto": "Carregador Super Turbo 50W Ultra Rápido Tipo C Tipo C Carregamento Rápido + Cabo Tipo C Compatível com Iphone 15 e todos aparelhos",
+  "Link": "https:\/\/amzn.to\/3SJQiD0",
+  "Preço": "59,,90",
+  "Vendas": "25",
+  "Classe": "Smartphones e Tablets",
+  "Categoria": "Carregador",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51TGOsSjt1L.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Carregador Turbo 25W Compatível iPhone X XR SE 8 11 12 13 14 Pro Max Plus USB-c Com Cabo Tipo C Lightning Com Tecnologia PD POWER DELIVERY",
@@ -4272,16 +4316,6 @@
   "Categoria": "Carregador",
   "Local": "Nacional",
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/41j7VoTN4oL.__AC_SX300_SY300_QL70_ML2_.jpg"
- },
- {
-  "Nome do Produto": "Carregador Super Turbo 50W Ultra Rápido Tipo C Tipo C Carregamento Rápido + Cabo Tipo C Compatível com Iphone 15 e todos aparelhos",
-  "Link": "https:\/\/amzn.to\/3SJQiD0",
-  "Preço": "59,,90",
-  "Vendas": "25",
-  "Classe": "Smartphones e Tablets",
-  "Categoria": "Carregador",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51TGOsSjt1L.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Motorola, Carregador Turbo Power 20W, Cabo 1 Metro, Porta USB-A, Cabo USB-C",
@@ -4334,16 +4368,6 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/51qNEJ3WETL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Smartphone Moto G54 5G 256GB 8GB RAM Azul - Vegan Leather",
-  "Link": "https:\/\/amzn.to\/4b4GQ4z",
-  "Preço": "1.019,,15",
-  "Vendas": "2146",
-  "Classe": "Smartphones e Tablets",
-  "Categoria": "Motorola",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51FfH8HlqPL.__AC_SX300_SY300_QL70_ML2_.jpg"
- },
- {
   "Nome do Produto": "Smartphone Moto G84 5G 16GB RAM Boost* 256GB Grafite",
   "Link": "https:\/\/amzn.to\/4ajaTEs",
   "Preço": "1.265,,55",
@@ -4354,24 +4378,14 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/51vjQLRYFzL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Smartphone Moto G54 5G 8GB RAM Boost* 128GB Grafite",
-  "Link": "https:\/\/amzn.to\/3UQ2xPY",
-  "Preço": "1.339,,61",
-  "Vendas": "638",
+  "Nome do Produto": "Smartphone Moto G54 5G 256GB 8GB RAM Azul - Vegan Leather",
+  "Link": "https:\/\/amzn.to\/4b4GQ4z",
+  "Preço": "1.019,,15",
+  "Vendas": "2146",
   "Classe": "Smartphones e Tablets",
   "Categoria": "Motorola",
   "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51fJtGBrnQL.__AC_SX300_SY300_QL70_ML2_.jpg"
- },
- {
-  "Nome do Produto": "Smartphone Motorola Edge 40 Neo 256GB 8GB RAM Black Beauty",
-  "Link": "https:\/\/amzn.to\/3Yz1eY1",
-  "Preço": "1.779,,00",
-  "Vendas": "497",
-  "Classe": "Smartphones e Tablets",
-  "Categoria": "Motorola",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51rB2U+NQIL._AC_SY300_SX300_.jpg"
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51FfH8HlqPL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Smartphone Moto G84 5G 256GB 8GB RAM Azul - Vegan Leather",
@@ -4384,6 +4398,16 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/511aUfrlrPL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
+  "Nome do Produto": "Smartphone Motorola Moto G04s - 128GB 8GB Ram Boost Camera 16MP com sensor Moto AI FPS lateral Grafite",
+  "Link": "https:\/\/amzn.to\/3YJTdzH",
+  "Preço": "776,,67",
+  "Vendas": "91",
+  "Classe": "Smartphones e Tablets",
+  "Categoria": "Motorola",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51J5poXTtpL.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
   "Nome do Produto": "Smartphone Motorola Edge 50 Fusion 5G - 256GB 16GB Ram Boost 50MP Sony AI Camera IP68 NFC Pink - Vegan Suede",
   "Link": "https:\/\/amzn.to\/3SIcwpa",
   "Preço": "2.639,,20",
@@ -4394,14 +4418,14 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/61ov7wPxntL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Smartphone Motorola Moto G34 5G 8GB RAM Boost* 128GB Preto",
-  "Link": "https:\/\/amzn.to\/3YDE16P",
-  "Preço": "929,,00",
-  "Vendas": "438",
+  "Nome do Produto": "Smartphone Motorola Edge 40 Neo 256GB 8GB RAM Black Beauty",
+  "Link": "https:\/\/amzn.to\/3Yz1eY1",
+  "Preço": "1.779,,00",
+  "Vendas": "497",
   "Classe": "Smartphones e Tablets",
   "Categoria": "Motorola",
   "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51ezdcOv0qL.__AC_SX300_SY300_QL70_ML2_.jpg"
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51rB2U+NQIL._AC_SY300_SX300_.jpg"
  },
  {
   "Nome do Produto": "Smartphone Motorola Moto G24 8GB RAM Boost* 128GB Grafite",
@@ -4414,14 +4438,34 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/51PBH2nM83L.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Smartphone Motorola Moto G04s - 128GB 8GB Ram Boost Camera 16MP com sensor Moto AI FPS lateral Grafite",
-  "Link": "https:\/\/amzn.to\/3YJTdzH",
-  "Preço": "776,,67",
-  "Vendas": "91",
+  "Nome do Produto": "Smartphone Moto G54 5G 8GB RAM Boost* 128GB Grafite",
+  "Link": "https:\/\/amzn.to\/3UQ2xPY",
+  "Preço": "1.339,,61",
+  "Vendas": "638",
   "Classe": "Smartphones e Tablets",
   "Categoria": "Motorola",
   "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51J5poXTtpL.__AC_SX300_SY300_QL70_ML2_.jpg"
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51fJtGBrnQL.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
+  "Nome do Produto": "Smartphone Motorola Moto G34 5G 8GB RAM Boost* 128GB Preto",
+  "Link": "https:\/\/amzn.to\/3YDE16P",
+  "Preço": "929,,00",
+  "Vendas": "438",
+  "Classe": "Smartphones e Tablets",
+  "Categoria": "Motorola",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51ezdcOv0qL.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
+  "Nome do Produto": "Tablet Samsung Galaxy Tab S6 Lite (2024), 64GB, 4GB RAM, Tela Imersiva de 10.4', Câmera Traseira 8MP, Câmera frontal de 5MP, Wifi, Android 14",
+  "Link": "https:\/\/amzn.to\/3WFx8PV",
+  "Preço": "1.844,,43",
+  "Vendas": "503",
+  "Classe": "Smartphones e Tablets",
+  "Categoria": "Samsung",
+  "Local": "Nacional ",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/710SVJBnw+L._AC_SX300_SY300_.jpg"
  },
  {
   "Nome do Produto": "Galaxy Tab S9 FE, Lavanda, Wifi, 10.9\", 128 GB, 6 GB RAM, Câmera Principal 8 MP, Câmera Frontal 12 MP UW",
@@ -4444,14 +4488,14 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/41zrg4ISTBL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Tablet Samsung Galaxy Tab S6 Lite (2024), 64GB, 4GB RAM, Tela Imersiva de 10.4', Câmera Traseira 8MP, Câmera frontal de 5MP, Wifi, Android 14",
-  "Link": "https:\/\/amzn.to\/3WFx8PV",
-  "Preço": "1.844,,43",
-  "Vendas": "503",
+  "Nome do Produto": "Smartphone Samsung Galaxy A54 5G 256GB 8GB RAM Tela 6.4'' Câmera Tripla de até 50MP + Selfie 32MP - Preto",
+  "Link": "https:\/\/amzn.to\/4duJ6n0",
+  "Preço": "1.319,,00",
+  "Vendas": "1190",
   "Classe": "Smartphones e Tablets",
   "Categoria": "Samsung",
-  "Local": "Nacional ",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/710SVJBnw+L._AC_SX300_SY300_.jpg"
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51mxUbenXOL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Samsung Galaxy S23 Ultra 5G 256GB Tela 6.8'' 12GB RAM IP68 Processador Qualcomm Snapdragon 8 Gen 2 Câmera Quádrupla de até 200MP + Selfie 12MP - Preto",
@@ -4472,16 +4516,6 @@
   "Categoria": "Samsung",
   "Local": "Nacional",
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/61YIejt-SNL.__AC_SY300_SX300_QL70_ML2_.jpg"
- },
- {
-  "Nome do Produto": "Smartphone Samsung Galaxy A54 5G 256GB 8GB RAM Tela 6.4'' Câmera Tripla de até 50MP + Selfie 32MP - Preto",
-  "Link": "https:\/\/amzn.to\/4duJ6n0",
-  "Preço": "1.319,,00",
-  "Vendas": "1190",
-  "Classe": "Smartphones e Tablets",
-  "Categoria": "Samsung",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51mxUbenXOL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Smartphone Samsung Galaxy S24, Galaxy AI, Selfie de 12MP, Tela de 6.2\" 1-120Hz, 128GB, 8GB RAM - Preto",
@@ -4524,6 +4558,16 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/61x53c15DqL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
+  "Nome do Produto": "Smartphone Xiaomi POCO X6 Pro 5G 12GB+512GB NFC Dimensity 8300-Ultra 64MP câmera tripla 67W 120Hz AMOLED (Preto)",
+  "Link": "https:\/\/amzn.to\/4bpXeMC",
+  "Preço": "2.213,,99",
+  "Vendas": "1109",
+  "Classe": "Smartphones e Tablets",
+  "Categoria": "Xiaomi",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61jhAdvYcyL.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
   "Nome do Produto": "Smartphone Samsung Galaxy A25 5G 256GB - Azul",
   "Link": "https:\/\/amzn.to\/4dCLozE",
   "Preço": "1.419,,00",
@@ -4532,6 +4576,26 @@
   "Categoria": "Samsung",
   "Local": "Nacional",
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/41QJmjYIUML.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
+  "Nome do Produto": "Tablet Xiaomi Redmi Pad SE 11\" 4GB\/128GB Cor : Roxo (Global) (23073RPBFL)",
+  "Link": "https:\/\/amzn.to\/4ckRP9L",
+  "Preço": "1.115,,01",
+  "Vendas": "20",
+  "Classe": "Smartphones e Tablets",
+  "Categoria": "Xiaomi",
+  "Local": "Nacional ",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51U3jFIAVaL.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
+  "Nome do Produto": "Smartphone Xiaomi POCO X6 5G 8GB+256GB NFC Snapdragon 7s Gen 2 Smartphone 120Hz FioW AMOLED 64MP Câmera tripla com OIS (preto)",
+  "Link": "https:\/\/amzn.to\/4b9eVjL",
+  "Preço": "1.605,,41",
+  "Vendas": "1121",
+  "Classe": "Smartphones e Tablets",
+  "Categoria": "Xiaomi",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61thL+4B4QL._AC_SY300_SX300_.jpg"
  },
  {
   "Nome do Produto": "Celular Samsung Galaxy A15 5G 256GB, 8GB RAM, Tela Infinita de 6.5\" Azul Escuro",
@@ -4554,46 +4618,6 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/51zjg+85qaL._AC_SY300_SX300_.jpg"
  },
  {
-  "Nome do Produto": "Tablet Xiaomi Redmi Pad SE 11\" 4GB\/128GB Cor : Roxo (Global) (23073RPBFL)",
-  "Link": "https:\/\/amzn.to\/4ckRP9L",
-  "Preço": "1.115,,01",
-  "Vendas": "20",
-  "Classe": "Smartphones e Tablets",
-  "Categoria": "Xiaomi",
-  "Local": "Nacional ",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51U3jFIAVaL.__AC_SX300_SY300_QL70_ML2_.jpg"
- },
- {
-  "Nome do Produto": "Smartphone Xiaomi POCO X6 Pro 5G 12GB+512GB NFC Dimensity 8300-Ultra 64MP câmera tripla 67W 120Hz AMOLED (Preto)",
-  "Link": "https:\/\/amzn.to\/4bpXeMC",
-  "Preço": "2.213,,99",
-  "Vendas": "1109",
-  "Classe": "Smartphones e Tablets",
-  "Categoria": "Xiaomi",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61jhAdvYcyL.__AC_SX300_SY300_QL70_ML2_.jpg"
- },
- {
-  "Nome do Produto": "Smartphone Xiaomi POCO X6 5G 8GB+256GB NFC Snapdragon 7s Gen 2 Smartphone 120Hz FioW AMOLED 64MP Câmera tripla com OIS (preto)",
-  "Link": "https:\/\/amzn.to\/4b9eVjL",
-  "Preço": "1.605,,41",
-  "Vendas": "1121",
-  "Classe": "Smartphones e Tablets",
-  "Categoria": "Xiaomi",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61thL+4B4QL._AC_SY300_SX300_.jpg"
- },
- {
-  "Nome do Produto": "Xiaomi Redmi Pad SE Tablet de 11\", WiFi, ecrã FHD de 90 Hz, 4 GB de RAM, 128 GB de ROM, bateria de 8000 mAh, versão ES, cinzento",
-  "Link": "https:\/\/amzn.to\/3AfVIzn",
-  "Preço": "1.016,,58",
-  "Vendas": "71",
-  "Classe": "Smartphones e Tablets",
-  "Categoria": "Xiaomi",
-  "Local": "Nacional ",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51hiI7caFTL.__AC_SX300_SY300_QL70_ML2_.jpg"
- },
- {
   "Nome do Produto": "Smartphone Xiaomi Redmi Note 12 Pro 5G Dual SIM 256 GB - 8 GB de RAM (preto meia-noite)",
   "Link": "https:\/\/amzn.to\/4dsxMIf",
   "Preço": "1.709,,90",
@@ -4604,14 +4628,14 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/31ielR1rgRL.__AC_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Smartphone Xiaomi Redmi Note 13 4G 8+256 GB, preto",
-  "Link": "https:\/\/amzn.to\/4dx0RSU",
-  "Preço": "1.154,,00",
-  "Vendas": "2287",
+  "Nome do Produto": "Xiaomi Redmi Pad SE Tablet de 11\", WiFi, ecrã FHD de 90 Hz, 4 GB de RAM, 128 GB de ROM, bateria de 8000 mAh, versão ES, cinzento",
+  "Link": "https:\/\/amzn.to\/3AfVIzn",
+  "Preço": "1.016,,58",
+  "Vendas": "71",
   "Classe": "Smartphones e Tablets",
   "Categoria": "Xiaomi",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61sab12r6ML.__AC_SX300_SY300_QL70_ML2_.jpg"
+  "Local": "Nacional ",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51hiI7caFTL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Smartphone Xiaomi Redmi Note 13 Pro 5G 8GB+256GB Snapdragon 7s Gen 2, Câmera 200MP OIS, Carregamento Turbo 67W, 120Hz, AMOLED, NFC... (Preto)",
@@ -4634,24 +4658,14 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/61zUVaOpvhL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Xiaomi Redmi Note 13 PRO 5G + 4G LTE (256 GB + 8 GB) 200 MP Triplo (Mobile Mint Tello e) Bandas desbloqueadas + (Pacote de carregador duplo de carro rápido) (Ocean Teal (ROM))",
-  "Link": "https:\/\/amzn.to\/3JSjAuv",
-  "Preço": "1.945,,00",
-  "Vendas": "586",
-  "Classe": "Smartphones e Tablets",
-  "Categoria": "Xiaomi",
+  "Nome do Produto": "Atlhetica Nutrition Beta-Alanine 200g 100% Pure (150g + 50g GRATIS)",
+  "Link": "https:\/\/amzn.to\/4b6x2GZ",
+  "Preço": "42,,99",
+  "Vendas": "2427",
+  "Classe": "Suplementos",
+  "Categoria": "Beta-Alanina",
   "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/41GK+ItincL._AC_SY300_SX300_.jpg"
- },
- {
-  "Nome do Produto": "Smartphone Xiaomi POCO C65 8GB+256GB, azul",
-  "Link": "https:\/\/amzn.to\/4dbQcwe",
-  "Preço": "924,,95",
-  "Vendas": "1134",
-  "Classe": "Smartphones e Tablets",
-  "Categoria": "Xiaomi",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/513DQGmivPL.__AC_SX300_SY300_QL70_ML2_.jpg"
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61OXK2ZtPEL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Smartphone Xiaomi Redmi 13C 128GB Tela 6.74\" 4G Wi-Fi Dual Chip 4GB RAM Câmera Dupla + Selfie 8MP - Preto",
@@ -4664,16 +4678,6 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/41Lo5ne-3SL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Atlhetica Nutrition Beta-Alanine 200g 100% Pure (150g + 50g GRATIS)",
-  "Link": "https:\/\/amzn.to\/4b6x2GZ",
-  "Preço": "42,,99",
-  "Vendas": "2427",
-  "Classe": "Suplementos",
-  "Categoria": "Beta-Alanina",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61OXK2ZtPEL.__AC_SX300_SY300_QL70_ML2_.jpg"
- },
- {
   "Nome do Produto": "Black Skull Creatine Turbo - 300 g",
   "Link": "https:\/\/amzn.to\/3UAZp9g",
   "Preço": "41,,50",
@@ -4684,14 +4688,34 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/51g-u+-OIgL._AC_SY300_SX300_.jpg"
  },
  {
-  "Nome do Produto": "Black Skull Creatine Pure Monohydrate - 300 g",
-  "Link": "https:\/\/amzn.to\/3JRiJKn",
-  "Preço": "50,,73",
-  "Vendas": "4447",
+  "Nome do Produto": "Smartphone Xiaomi Redmi Note 13 4G 8+256 GB, preto",
+  "Link": "https:\/\/amzn.to\/4dx0RSU",
+  "Preço": "1.154,,00",
+  "Vendas": "2287",
+  "Classe": "Smartphones e Tablets",
+  "Categoria": "Xiaomi",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61sab12r6ML.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
+  "Nome do Produto": "Smartphone Xiaomi POCO C65 8GB+256GB, azul",
+  "Link": "https:\/\/amzn.to\/4dbQcwe",
+  "Preço": "924,,95",
+  "Vendas": "1134",
+  "Classe": "Smartphones e Tablets",
+  "Categoria": "Xiaomi",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/513DQGmivPL.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
+  "Nome do Produto": "Creatina Monohidratada - Probiotica",
+  "Link": "https:\/\/amzn.to\/4bsDsjI",
+  "Preço": "64,,70",
+  "Vendas": "6222",
   "Classe": "Suplementos",
   "Categoria": "Creatina",
   "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61SiOw4sISL.__AC_SX300_SY300_QL70_ML2_.jpg"
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/514imF5uGPL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Creafort Creapure Creatina - 300g, Vitafor, Neutro",
@@ -4704,6 +4728,16 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/51Acd0fuOsL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
+  "Nome do Produto": "Black Skull Creatine Pure Monohydrate - 300 g",
+  "Link": "https:\/\/amzn.to\/3JRiJKn",
+  "Preço": "50,,73",
+  "Vendas": "4447",
+  "Classe": "Suplementos",
+  "Categoria": "Creatina",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61SiOw4sISL.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
   "Nome do Produto": "Creatina Monohidratada 250g - 100% Pura Importada - Soldiers Nutrition",
   "Link": "https:\/\/amzn.to\/4btlMUT",
   "Preço": "201,,90",
@@ -4714,14 +4748,14 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/61+QwvJfipL._AC_SY300_SX300_.jpg"
  },
  {
-  "Nome do Produto": "Creatina Monohidratada - Probiotica",
-  "Link": "https:\/\/amzn.to\/4bsDsjI",
-  "Preço": "64,,70",
-  "Vendas": "6222",
-  "Classe": "Suplementos",
-  "Categoria": "Creatina",
+  "Nome do Produto": "Xiaomi Redmi Note 13 PRO 5G + 4G LTE (256 GB + 8 GB) 200 MP Triplo (Mobile Mint Tello e) Bandas desbloqueadas + (Pacote de carregador duplo de carro rápido) (Ocean Teal (ROM))",
+  "Link": "https:\/\/amzn.to\/3JSjAuv",
+  "Preço": "1.945,,00",
+  "Vendas": "586",
+  "Classe": "Smartphones e Tablets",
+  "Categoria": "Xiaomi",
   "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/514imF5uGPL.__AC_SX300_SY300_QL70_ML2_.jpg"
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/41GK+ItincL._AC_SY300_SX300_.jpg"
  },
  {
   "Nome do Produto": "Creatina Cápsulas 120 Caps",
@@ -4744,24 +4778,14 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/61t+wSmEiqL._AC_SY300_SX300_.jpg"
  },
  {
-  "Nome do Produto": "Creatina Monohidratada 500g - 100% Pura Importada - Soldiers Nutrition",
-  "Link": "https:\/\/amzn.to\/3Wzoh42",
-  "Preço": "99,,90",
-  "Vendas": "9083",
+  "Nome do Produto": "DUX Creatina Monohidratada Pote 300G Dux Nutrition",
+  "Link": "https:\/\/amzn.to\/44A1ZB5",
+  "Preço": "78,,40",
+  "Vendas": "7019",
   "Classe": "Suplementos",
   "Categoria": "Creatina",
   "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/613pUlI+W3L._AC_SY300_SX300_.jpg"
- },
- {
-  "Nome do Produto": "Creatina Pura 300G Monohidratada Dark Lab",
-  "Link": "https:\/\/amzn.to\/3WrkBBg",
-  "Preço": "63,,90",
-  "Vendas": "9984",
-  "Classe": "Suplementos",
-  "Categoria": "Creatina",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/81IObjtLiML.__AC_SX300_SY300_QL70_ML2_.jpg"
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51MF-b+U8qL._AC_SY300_SX300_.jpg"
  },
  {
   "Nome do Produto": "Creatine Creapure (300g) - Único, Nutrify",
@@ -4774,24 +4798,24 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/71WanKzZ6bL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "DUX Creatina Monohidratada Pote 300G Dux Nutrition",
-  "Link": "https:\/\/amzn.to\/44A1ZB5",
-  "Preço": "78,,40",
-  "Vendas": "7019",
+  "Nome do Produto": "Creatina Monohidratada 500g - 100% Pura Importada - Soldiers Nutrition",
+  "Link": "https:\/\/amzn.to\/3Wzoh42",
+  "Preço": "99,,90",
+  "Vendas": "9083",
   "Classe": "Suplementos",
   "Categoria": "Creatina",
   "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51MF-b+U8qL._AC_SY300_SX300_.jpg"
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/613pUlI+W3L._AC_SY300_SX300_.jpg"
  },
  {
-  "Nome do Produto": "Creatina Pura Refil 500G Monohidratada Dark Lab",
-  "Link": "https:\/\/amzn.to\/3wrfmqv",
-  "Preço": "97,,00",
-  "Vendas": "5181",
+  "Nome do Produto": "Creatina Pura Refil 1Kg Monohidratada Dark Lab",
+  "Link": "https:\/\/amzn.to\/4bwMPi3",
+  "Preço": "189,,90",
+  "Vendas": "1712",
   "Classe": "Suplementos",
   "Categoria": "Creatina",
   "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/71Hfi+W5eeL._AC_SY300_SX300_.jpg"
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/71rzVRssGZL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Integralmédica - Creatina 150G",
@@ -4814,14 +4838,14 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/51w58z87mzL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Creatina Pura Refil 1Kg Monohidratada Dark Lab",
-  "Link": "https:\/\/amzn.to\/4bwMPi3",
-  "Preço": "189,,90",
-  "Vendas": "1712",
+  "Nome do Produto": "Creatina Pura Refil 500G Monohidratada Dark Lab",
+  "Link": "https:\/\/amzn.to\/3wrfmqv",
+  "Preço": "97,,00",
+  "Vendas": "5181",
   "Classe": "Suplementos",
   "Categoria": "Creatina",
   "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/71rzVRssGZL.__AC_SX300_SY300_QL70_ML2_.jpg"
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/71Hfi+W5eeL._AC_SY300_SX300_.jpg"
  },
  {
   "Nome do Produto": "Max Titanium Creatina - 300g",
@@ -4832,6 +4856,16 @@
   "Categoria": "Creatina",
   "Local": "Nacional",
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/51fpPqn3VbL.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
+  "Nome do Produto": "Creatina Pura 300G Monohidratada Dark Lab",
+  "Link": "https:\/\/amzn.to\/3WrkBBg",
+  "Preço": "63,,90",
+  "Vendas": "9984",
+  "Classe": "Suplementos",
+  "Categoria": "Creatina",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/81IObjtLiML.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Nutrify - Creatine Creatina 100% - 300g",
@@ -4884,16 +4918,6 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/81ssYxfOWjL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Apis Flora Extrato Aquoso De Própolis 30 Ml Propomalva Propomax",
-  "Link": "https:\/\/amzn.to\/4b8SiMu",
-  "Preço": "22,,37",
-  "Vendas": "2216",
-  "Classe": "Suplementos",
-  "Categoria": "Vitaminas",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/71YiEiiRWcL.__AC_SX300_SY300_QL70_ML2_.jpg"
- },
- {
   "Nome do Produto": "Black Skull Thermo Flame (120 Tabs)",
   "Link": "https:\/\/amzn.to\/3QzJruM",
   "Preço": "32,,00",
@@ -4902,6 +4926,16 @@
   "Categoria": "Vitaminas",
   "Local": "Nacional",
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/51YA3qw80nL.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
+  "Nome do Produto": "Apis Flora Extrato Aquoso De Própolis 30 Ml Propomalva Propomax",
+  "Link": "https:\/\/amzn.to\/4b8SiMu",
+  "Preço": "22,,37",
+  "Vendas": "2216",
+  "Classe": "Suplementos",
+  "Categoria": "Vitaminas",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/71YiEiiRWcL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "CoQ10 + Ômega 3TG + Vitamina e (60 caps) - Essential Nutrition, Essential Nutrition",
@@ -4934,6 +4968,16 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/51xYS0PdqjL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
+  "Nome do Produto": "Integralmédica - Glutamine Glutamina Natural - 300g",
+  "Link": "https:\/\/amzn.to\/4b7vyfz",
+  "Preço": "49,,49",
+  "Vendas": "3866",
+  "Classe": "Suplementos",
+  "Categoria": "Vitaminas",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/71qvVwo7NYL.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
   "Nome do Produto": "Dux Nutrition, TK.JP, Cafeína - Pote 90 Cápsulas",
   "Link": "https:\/\/amzn.to\/3QCF2aN",
   "Preço": "38,,99",
@@ -4954,26 +4998,6 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/61+d2g8tPlL._AC_SY300_SX300_.jpg"
  },
  {
-  "Nome do Produto": "Integralmédica - Glutamine Glutamina Natural - 300g",
-  "Link": "https:\/\/amzn.to\/4b7vyfz",
-  "Preço": "49,,49",
-  "Vendas": "3866",
-  "Classe": "Suplementos",
-  "Categoria": "Vitaminas",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/71qvVwo7NYL.__AC_SX300_SY300_QL70_ML2_.jpg"
- },
- {
-  "Nome do Produto": "Integralmédica - Ômega 3-60 cápsulas",
-  "Link": "https:\/\/amzn.to\/3ws6wZA",
-  "Preço": "60,,00",
-  "Vendas": "1329",
-  "Classe": "Suplementos",
-  "Categoria": "Vitaminas",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/6120H35SFVL.__AC_SX300_SY300_QL70_ML2_.jpg"
- },
- {
   "Nome do Produto": "LAVITAN Suplemento Vitamínico - Mineral A-Z Para Mulher Rosa Lavitan 60 Cápsulas",
   "Link": "https:\/\/amzn.to\/4bumlhj",
   "Preço": "23,,27",
@@ -4982,16 +5006,6 @@
   "Categoria": "Vitaminas",
   "Local": "Nacional",
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/51nvARy2taL.__AC_SX300_SY300_QL70_ML2_.jpg"
- },
- {
-  "Nome do Produto": "Nutrify - Ômega 3-120 Cápsulas",
-  "Link": "https:\/\/amzn.to\/3yj1QFU",
-  "Preço": "112,,00",
-  "Vendas": "2219",
-  "Classe": "Suplementos",
-  "Categoria": "Vitaminas",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/81WZoL551cL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Mega Dha - 120 Cápsulas - Vitafor, Vitafor",
@@ -5004,14 +5018,24 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/51BzRvvYtvL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Vitafor - Coenzima Q10 200mg - 60 Cápsulas",
-  "Link": "https:\/\/amzn.to\/3UTqczb",
-  "Preço": "119,,40",
-  "Vendas": "6216",
+  "Nome do Produto": "Vita D3-60 Cápsulas, Vitafor",
+  "Link": "https:\/\/amzn.to\/44CUCZx",
+  "Preço": "47,,02",
+  "Vendas": "2291",
   "Classe": "Suplementos",
   "Categoria": "Vitaminas",
   "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51lrpLXPXeL.__AC_SX300_SY300_QL70_ML2_.jpg"
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51cNDeuqenL.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
+  "Nome do Produto": "Nutrify - Ômega 3-120 Cápsulas",
+  "Link": "https:\/\/amzn.to\/3yj1QFU",
+  "Preço": "112,,00",
+  "Vendas": "2219",
+  "Classe": "Suplementos",
+  "Categoria": "Vitaminas",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/81WZoL551cL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Nutrify - Vitamina B12-60 cápsulas",
@@ -5024,34 +5048,24 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/61DBi6uiXgL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Vita D3-60 Cápsulas, Vitafor",
-  "Link": "https:\/\/amzn.to\/44CUCZx",
-  "Preço": "47,,02",
-  "Vendas": "2291",
+  "Nome do Produto": "Integralmédica - Ômega 3-60 cápsulas",
+  "Link": "https:\/\/amzn.to\/3ws6wZA",
+  "Preço": "60,,00",
+  "Vendas": "1329",
   "Classe": "Suplementos",
   "Categoria": "Vitaminas",
   "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51cNDeuqenL.__AC_SX300_SY300_QL70_ML2_.jpg"
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/6120H35SFVL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Nutrify - Coenzima Q10 100mg - 60 cápsulas",
-  "Link": "https:\/\/amzn.to\/3WQvVHt",
-  "Preço": "64,,00",
-  "Vendas": "1314",
+  "Nome do Produto": "Vitafor - Coenzima Q10 200mg - 60 Cápsulas",
+  "Link": "https:\/\/amzn.to\/3UTqczb",
+  "Preço": "119,,40",
+  "Vendas": "6216",
   "Classe": "Suplementos",
   "Categoria": "Vitaminas",
   "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61NsKi42JGL.__AC_SX300_SY300_QL70_ML2_.jpg"
- },
- {
-  "Nome do Produto": "Suplemento Alimentar NUTREN SENIOR 740g Nutren Sabor 740g",
-  "Link": "https:\/\/amzn.to\/4du1JaR",
-  "Preço": "124,,76",
-  "Vendas": "2217",
-  "Classe": "Suplementos",
-  "Categoria": "Vitaminas",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/514YM5nY5eL.__AC_SX300_SY300_QL70_ML2_.jpg"
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51lrpLXPXeL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Vitafor - Magnésio Plus - 90 Cápsulas",
@@ -5064,14 +5078,24 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/61RqAM1NuRL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Power Supplements Dilatex 152 Cápsulas",
-  "Link": "https:\/\/amzn.to\/4bwV3Hh",
-  "Preço": "75,,90",
-  "Vendas": "990",
+  "Nome do Produto": "Suplemento Alimentar NUTREN SENIOR 740g Nutren Sabor 740g",
+  "Link": "https:\/\/amzn.to\/4du1JaR",
+  "Preço": "124,,76",
+  "Vendas": "2217",
   "Classe": "Suplementos",
   "Categoria": "Vitaminas",
   "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/419MnRxJPbL.__AC_SY300_SX300_QL70_ML2_.jpg"
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/514YM5nY5eL.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
+  "Nome do Produto": "Nutrify - Coenzima Q10 100mg - 60 cápsulas",
+  "Link": "https:\/\/amzn.to\/3WQvVHt",
+  "Preço": "64,,00",
+  "Vendas": "1314",
+  "Classe": "Suplementos",
+  "Categoria": "Vitaminas",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61NsKi42JGL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Vitafor - NOVO Colagentek II - 60 Cápsulas",
@@ -5084,26 +5108,6 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/51Emm1t3ijL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
-  "Nome do Produto": "Vitafor - Glutamax - 300g",
-  "Link": "https:\/\/amzn.to\/3QE2dkN",
-  "Preço": "73,,10",
-  "Vendas": "3067",
-  "Classe": "Suplementos",
-  "Categoria": "Vitaminas",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51KdjAVZ54L.__AC_SX300_SY300_QL70_ML2_.jpg"
- },
- {
-  "Nome do Produto": "Vitafor - Ômega 3 EPA DHA - 120 Cápsulas",
-  "Link": "https:\/\/amzn.to\/3UB7Dy6",
-  "Preço": "77,,27",
-  "Vendas": "11551",
-  "Classe": "Suplementos",
-  "Categoria": "Vitaminas",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51EMAmHQrAL.__AC_SX300_SY300_QL70_ML2_.jpg"
- },
- {
   "Nome do Produto": "Vitafor - Simfort Plus - 60 Cápsulas",
   "Link": "https:\/\/amzn.to\/3wuX9bJ",
   "Preço": "104,,99",
@@ -5112,16 +5116,6 @@
   "Categoria": "Vitaminas",
   "Local": "Nacional",
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/51dJbBaHdiL.__AC_SX300_SY300_QL70_ML2_.jpg"
- },
- {
-  "Nome do Produto": "Vitafor - Omegafor Plus - 240 Cápsulas",
-  "Link": "https:\/\/amzn.to\/3wtDKrE",
-  "Preço": "228,,46",
-  "Vendas": "3670",
-  "Classe": "Suplementos",
-  "Categoria": "Vitaminas",
-  "Local": "Nacional",
-  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51ueXwZtbiL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Vitafor - OMEGAFOR PLUS 1000mg - 120 CAPS",
@@ -5144,6 +5138,36 @@
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/61mRu-sa8qL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
+  "Nome do Produto": "Power Supplements Dilatex 152 Cápsulas",
+  "Link": "https:\/\/amzn.to\/4bwV3Hh",
+  "Preço": "75,,90",
+  "Vendas": "990",
+  "Classe": "Suplementos",
+  "Categoria": "Vitaminas",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/419MnRxJPbL.__AC_SY300_SX300_QL70_ML2_.jpg"
+ },
+ {
+  "Nome do Produto": "Vitafor - Omegafor Plus - 240 Cápsulas",
+  "Link": "https:\/\/amzn.to\/3wtDKrE",
+  "Preço": "228,,46",
+  "Vendas": "3670",
+  "Classe": "Suplementos",
+  "Categoria": "Vitaminas",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51ueXwZtbiL.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
+  "Nome do Produto": "Vitafor - Glutamax - 300g",
+  "Link": "https:\/\/amzn.to\/3QE2dkN",
+  "Preço": "73,,10",
+  "Vendas": "3067",
+  "Classe": "Suplementos",
+  "Categoria": "Vitaminas",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51KdjAVZ54L.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
   "Nome do Produto": "Integralmédica - Hipercalórico Nutri Whey Protein - 900g - Baunilha",
   "Link": "https:\/\/amzn.to\/3Wz2SYC",
   "Preço": "71,,16",
@@ -5152,6 +5176,16 @@
   "Categoria": "Whey Protein",
   "Local": "Nacional",
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/61lwhr6wYRL.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
+  "Nome do Produto": "Vitafor - Ômega 3 EPA DHA - 120 Cápsulas",
+  "Link": "https:\/\/amzn.to\/3UB7Dy6",
+  "Preço": "77,,27",
+  "Vendas": "11551",
+  "Classe": "Suplementos",
+  "Categoria": "Vitaminas",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51EMAmHQrAL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome do Produto": "Whey 100% Hd - 900G Refil Chocolate, Black Skull",
