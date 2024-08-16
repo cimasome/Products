@@ -1185,7 +1185,7 @@
   "Preço": "Consultar preço",
   "Vendas": "231",
   "Classe": "Eletrodomésticos",
-  "Categoria": "umidificador",
+  "Categoria": "Umidificador",
   "Local": "Importado",
   "URL": "https:\/\/ae01.alicdn.com\/kf\/A4187b5f771d4482a83fee18d18efe4e49.jpg"
  },
@@ -10923,7 +10923,7 @@
   "Link": "https:\/\/amzn.to\/4acpUaM",
   "Preço": "Consultar preço",
   "Vendas": "11.356",
-  "Classe": "Eletrodomésticos",
+  "Classe": "Informática",
   "Categoria": "Processador",
   "Local": "Nacional",
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/51Uu055VfsL.__AC_SY300_SX300_QL70_ML2_.jpg"
@@ -10933,7 +10933,7 @@
   "Link": "https:\/\/amzn.to\/3UNT77I",
   "Preço": "Consultar preço",
   "Vendas": "1.461",
-  "Classe": "Eletrodomésticos",
+  "Classe": "Informática",
   "Categoria": "Processador",
   "Local": "Nacional",
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/616wWLCWUIL.__AC_SX300_SY300_QL70_ML2_.jpg"
@@ -11013,7 +11013,7 @@
   "Link": "https:\/\/amzn.to\/3UrSRKd",
   "Preço": "Consultar preço",
   "Vendas": "32.109",
-  "Classe": "Eletrodomésticos",
+  "Classe": "Informática",
   "Categoria": "Suporte para monitor",
   "Local": "Nacional",
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/51WEsVzT4SL.__AC_SX300_SY300_QL70_ML2_.jpg"
@@ -12407,6 +12407,126 @@
   "Categoria": "Teclado",
   "Local": "Nacional",
   "URL": "https:\/\/m.media-amazon.com\/images\/I\/71Ah3jH993L.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
+  "Nome": "Raquete Elétrica Mata Insetos com Bateria Recarregável USB Multilaser - HC034",
+  "Link": "https:\/\/amzn.to\/3M74lyK",
+  "Preço": "Consultar preço",
+  "Vendas": "9.727",
+  "Classe": "Eletrodomésticos",
+  "Categoria": "Dia-a-dia",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51llbmHoMML.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
+  "Nome": "Monitor Gamer AOC Hero 24\" 165Hz 1ms Ajuste de Altura 24G2S\/BK",
+  "Link": "https:\/\/amzn.to\/46NfHBN",
+  "Preço": "Consultar preço",
+  "Vendas": "291",
+  "Classe": "Informática",
+  "Categoria": "Monitores",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61ryGDOT3hL.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
+  "Nome": "Samsung T350 - Monitor Gamer, 24\", FHD, 75Hz, HDMI, VGA, Freesync, Preto",
+  "Link": "https:\/\/amzn.to\/4fQi8ay",
+  "Preço": "Consultar preço",
+  "Vendas": "5576",
+  "Classe": "Informática",
+  "Categoria": "Monitores",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/71fExkr1vWL.__AC_SY300_SX300_QL70_ML2_.jpg"
+ },
+ {
+  "Nome": "Monitor Gamer IPS 29\" Full HD LG 75 Hz AMD FreeSyn e Flicker Safe 1 HDMI 1 DisplayPort 29UM69G-B.AWZM",
+  "Link": "https:\/\/amzn.to\/46OqbAS",
+  "Preço": "Consultar preço",
+  "Vendas": "3913",
+  "Classe": "Informática",
+  "Categoria": "Monitores",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51ZWEQ+WyuL._AC_SY300_SX300_.jpg"
+ },
+ {
+  "Nome": "MONITOR LG GAMER 21.5' 22MP410-B.AWZM FULL HD 75HZ AMD FREESYNC",
+  "Link": "https:\/\/amzn.to\/3AqcsnE",
+  "Preço": "Consultar preço",
+  "Vendas": "2478",
+  "Classe": "Informática",
+  "Categoria": "Monitores",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61qgVm6zx7L.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
+  "Nome": "MONITOR GAMER LG ULTRAWIDE 26WQ500 - TELA IPS DE 25.7\", 21:9, FHD (2560X1080), 75HZ, 1MS (MBR), HDMI, FREESYNC, HDR10",
+  "Link": "https:\/\/amzn.to\/3YMvLl4",
+  "Preço": "Consultar preço",
+  "Vendas": "1161",
+  "Classe": "Informática",
+  "Categoria": "Monitores",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51hgjdOoxxL.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
+  "Nome": "Monitor AOC 21.5\" VGA e HDMI e painel VA, preta, pequeno, 22B1HM5",
+  "Link": "https:\/\/amzn.to\/3ApvI4x",
+  "Preço": "Consultar preço",
+  "Vendas": "3866",
+  "Classe": "Informática",
+  "Categoria": "Monitores",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/617yiTTtunL.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
+  "Nome": "MONITOR GAMER SAMSUNG ODYSSEY G30 24\" 144Hz 1ms AMD FreeSync Premium",
+  "Link": "https:\/\/amzn.to\/4fMko2O",
+  "Preço": "Consultar preço",
+  "Vendas": "1132",
+  "Classe": "Informática",
+  "Categoria": "Monitores",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61rd8zerEqL.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
+  "Nome": "Samsung T350 - Monitor Gamer 27\" FHD,75Hz, HDMI, VGA, Freesync, Preto",
+  "Link": "https:\/\/amzn.to\/3SS5f61",
+  "Preço": "Consultar preço",
+  "Vendas": "1598",
+  "Classe": "Informática",
+  "Categoria": "Monitores",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51bbd3rst3L.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
+  "Nome": "Monitor Gamer AOC HERO QUAD 27\" 155Hz QHD 1440p 1ms AMD FreeSync Q27G2",
+  "Link": "https:\/\/amzn.to\/3SSYp02",
+  "Preço": "Consultar preço",
+  "Vendas": "119",
+  "Classe": "Informática",
+  "Categoria": "Monitores",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/61F+JvplZTL._AC_SY300_SX300_.jpg"
+ },
+ {
+  "Nome": "Capa Case Para Notebook de 15,6 Polegadas",
+  "Link": "https:\/\/amzn.to\/3SQJPGB",
+  "Preço": "Consultar preço",
+  "Vendas": "5847",
+  "Classe": "Informática",
+  "Categoria": "Capas para Notebooks",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/519GMkHVsfL.__AC_SX300_SY300_QL70_ML2_.jpg"
+ },
+ {
+  "Nome": "SAMSUNG Monitor Gamer Odyssey 27\", FHD, 165Hz, 1ms, com ajuste de altura, HDMI, DP, Freesync, Preto, Série G32",
+  "Link": "https:\/\/amzn.to\/3SMY2Ef",
+  "Preço": "Consultar preço",
+  "Vendas": "760",
+  "Classe": "Informática",
+  "Categoria": "Monitores",
+  "Local": "Nacional",
+  "URL": "https:\/\/m.media-amazon.com\/images\/I\/51Cu-Uh2WrL.__AC_SX300_SY300_QL70_ML2_.jpg"
  },
  {
   "Nome": "Hyper X, TECLADO MECANICO HYPERX ALLOY ORIGINS 60, Preto com iluminação RGB, HKBO1S-RB-US\/G",
